@@ -1,0 +1,92 @@
+======================================================================
+PDF PARSE RAPORU
+======================================================================
+Kaynak PDF: ONUR SEVİNÇLER 02.24 ŞUBAT STABİLİTE.pdf
+Toplam PDF Sayfası: 437
+İşlenen Sayfa Aralığı: 15-75
+Çıkarılan Soru Sayısı: 50 (ilk 50 soru)
+Çıkarılan Görsel Sayısı: 264
+
+----------------------------------------------------------------------
+SORU - SAYFA İLİŞKİLENDİRMESİ
+----------------------------------------------------------------------
+
+Soru No    PDF Soru   Sayfa    Konu                           Cevap    Zorluk  
+----------------------------------------------------------------------
+1          1          15       Yükleme Markaları              B        kolay   
+2          2          15       Yükleme Markaları              B        kolay   
+3          3          16       Yükleme Markaları              C        orta    
+4          4          16       Yükleme Markaları              C        kolay   
+5          5          16       Yükleme Markaları              A        kolay   
+6          6          17       Yükleme Markaları              A        kolay   
+7          7          17       Yükleme Markaları              B        orta    
+8          8          17       Yükleme Markaları              E        orta    
+9          9          18       Draft ve Fribord               D        kolay   
+10         10         18       Draft ve Fribord               B        kolay   
+11         11         18       Draft ve Fribord               A        kolay   
+12         12         19       Draft ve Fribord               E        kolay   
+13         13         19       Draft ve Fribord               D        orta    
+14         14         19       Draft ve Fribord               B        orta    
+15         15         20       Draft ve Fribord               A        kolay   
+16         16         20       Draft ve Fribord               E        orta    
+17         17         20       Draft ve Fribord               A        kolay   
+18         18         21       Gemi Boyutları ve Kısaltmalar  E        kolay   
+19         19         21       Gemi Boyutları ve Kısaltmalar  A        kolay   
+20         20         21       Gemi Boyutları ve Kısaltmalar  E        kolay   
+21         21         22       Gemi Boyutları ve Kısaltmalar  D        orta    
+22         22         22       Gemi Boyutları ve Kısaltmalar  C        kolay   
+23         23         22       Gemi Boyutları ve Kısaltmalar  E        orta    
+24         24         23       Gemi Boyutları ve Kısaltmalar  B        kolay   
+25         1          26       Ağırlık ve Hacim Birimleri     D        kolay   
+26         2          26       Ağırlık ve Hacim Birimleri     C        kolay   
+27         3          26       Ağırlık ve Hacim Birimleri     B        kolay   
+28         4          27       Ağırlık ve Hacim Birimleri     C        kolay   
+29         5          28       Deplasman                      D        kolay   
+30         6          28       Deplasman                      C        kolay   
+31         7          28       Deplasman                      E        orta    
+32         8          29       Deplasman                      E        orta    
+33         9          29       Deplasman                      D        kolay   
+34         10         29       Deplasman                      B        orta    
+35         11         30       Deplasman                      C        kolay   
+36         12         30       Deplasman                      B        orta    
+37         13         30       Deplasman                      B        kolay   
+38         14         31       Deplasman                      B        kolay   
+39         15         31       Deplasman                      B        kolay   
+40         16         31       Deplasman                      C        orta    
+41         17         32       Deplasman                      E        zor     
+42         18         33       Yüzme Koşulu                   D        kolay   
+43         19         33       Yüzme Koşulu                   A        kolay   
+44         1          35       Deplasman Problemleri          C        orta    
+45         2          36       Deplasman Problemleri          C        orta    
+46         3          36       Deplasman Problemleri          A        orta    
+47         4          36       Deplasman Problemleri          A        zor     
+48         5          37       Deplasman Problemleri          E        orta    
+49         6          37       Deplasman Problemleri          D        zor     
+50         7          37       Deplasman Problemleri          D        zor     
+
+----------------------------------------------------------------------
+KONU DAĞILIMI
+----------------------------------------------------------------------
+
+  Deplasman: 13 soru
+  Draft ve Fribord: 9 soru
+  Yükleme Markaları: 8 soru
+  Gemi Boyutları ve Kısaltmalar: 7 soru
+  Deplasman Problemleri: 7 soru
+  Ağırlık ve Hacim Birimleri: 4 soru
+  Yüzme Koşulu: 2 soru
+
+----------------------------------------------------------------------
+ZORLUK DAĞILIMI
+----------------------------------------------------------------------
+
+  kolay: 29 soru
+  orta: 17 soru
+  zor: 4 soru
+
+======================================================================
+ÇIKTI DOSYALARI
+======================================================================
+  JSON: /mnt/agents/output/parsed_questions/questions_1_50.json
+  Görseller: /mnt/agents/output/parsed_questions/images/
+  Rapor: /mnt/agents/output/parsed_questions/parse_report.txt

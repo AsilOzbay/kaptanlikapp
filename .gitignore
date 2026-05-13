@@ -1,3 +1,15 @@
-node_modules
-dist
-.DS_Store
+# Images are too large for git
+parsed_questions/images/
+parsed_questions/images_51_437/
+
+# Node modules
+node_modules/
+
+# Dist
+dist/
+
+# Local env
+.env
+
+# Supabase volumes
+supabase_backend/volumes/

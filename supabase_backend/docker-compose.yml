@@ -1,0 +1,299 @@
+version: "3.8"
+
+#
+# KaptanlikApp - Supabase Local Stack
+# ===================================
+# Portlar:
+#   54321  - PostgREST API (Kong üzerinden)
+#   54322  - GoTrue Auth
+#   54323  - Supabase Studio (UI)
+#   54329  - Realtime WebSocket
+#   5432   - PostgreSQL (direkt)
+#
+
+name: kaptanlikapp
+
+services:
+  # ───────────────────────────────────────────
+  # PostgreSQL
+  # ───────────────────────────────────────────
+  db:
+    image: supabase/postgres:15.1.1.78
+    container_name: kaptanlik-db
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./migrations:/docker-entrypoint-initdb.d:ro
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}
+      POSTGRES_USER: supabase_admin
+      POSTGRES_DB: postgres
+      JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U supabase_admin -d postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Kong API Gateway
+  # ───────────────────────────────────────────
+  kong:
+    image: kong:2.8.1
+    container_name: kaptanlik-kong
+    restart: unless-stopped
+    ports:
+      - "54321:8000"
+    environment:
+      KONG_DATABASE: "off"
+      KONG_DECLARATIVE_CONFIG: /var/lib/kong/kong.yml
+      KONG_DNS_ORDER: LAST,A,CNAME
+      KONG_DNS_RESOLVER: 127.0.0.11
+      KONG_PLUGINS: request-transformer,cors,key-auth,acl,basic-auth
+    volumes:
+      - ./kong/kong.yml:/var/lib/kong/kong.yml:ro
+    depends_on:
+      analytics:
+        condition: service_healthy
+      auth:
+        condition: service_healthy
+      rest:
+        condition: service_healthy
+      realtime:
+        condition: service_healthy
+      storage:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # GoTrue (Auth)
+  # ───────────────────────────────────────────
+  auth:
+    image: supabase/gotrue:v2.151.0
+    container_name: kaptanlik-auth
+    restart: unless-stopped
+    ports:
+      - "54322:9999"
+    environment:
+      GOTRUE_API_HOST: 0.0.0.0
+      GOTRUE_API_PORT: 9999
+      API_EXTERNAL_URL: ${API_EXTERNAL_URL:-http://localhost:54321}
+      GOTRUE_DB_DRIVER: postgres
+      GOTRUE_DB_DATABASE_URL: postgres://supabase_auth_admin:${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}@db:5432/postgres?sslmode=disable
+      GOTRUE_SITE_URL: ${SITE_URL:-http://localhost:5173}
+      GOTRUE_URI_ALLOW_LIST: ${ADDITIONAL_REDIRECT_URLS:-}
+      GOTRUE_DISABLE_SIGNUP: "false"
+      GOTRUE_JWT_ADMIN_ROLES: service_role
+      GOTRUE_JWT_AUD: authenticated
+      GOTRUE_JWT_DEFAULT_GROUP_NAME: authenticated
+      GOTRUE_JWT_EXP: 3600
+      GOTRUE_JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      GOTRUE_EXTERNAL_EMAIL_ENABLED: "true"
+      GOTRUE_EXTERNAL_PHONE_ENABLED: "false"
+      GOTRUE_EXTERNAL_IOS_BUNDLE_ID: 
+      GOTRUE_MAILER_AUTOCONFIRM: "true"
+      GOTRUE_MAILER_URLPATHS_CONFIRMATION: /auth/v1/verify
+      GOTRUE_MAILER_URLPATHS_INVITE: /auth/v1/verify
+      GOTRUE_MAILER_URLPATHS_RECOVERY: /auth/v1/verify
+      GOTRUE_MAILER_URLPATHS_EMAIL_CHANGE: /auth/v1/verify
+      GOTRUE_SMTP_ADMIN_EMAIL: ${SMTP_ADMIN_EMAIL:-admin@kaptanlik.app}
+      GOTRUE_SMTP_HOST: ${SMTP_HOST:-mail}
+      GOTRUE_SMTP_PORT: ${SMTP_PORT:-2500}
+      GOTRUE_SMTP_USER: ${SMTP_USER:-mailadmin}
+      GOTRUE_SMTP_PASS: ${SMTP_PASS:-mailadmin}
+      GOTRUE_SMTP_SENDER_NAME: ${SMTP_SENDER_NAME:-KaptanlikApp}
+      GOTRUE_MAILER_SUBJECTS_CONFIRMATION: "E-postanizi Dogrulayin"
+      GOTRUE_MAILER_SUBJECTS_RECOVERY: "Sifrenizi Sifirlayin"
+      GOTRUE_EXTERNAL_PROVIDER_GITHUB_ENABLED: "false"
+      GOTRUE_EXTERNAL_PROVIDER_GOOGLE_ENABLED: "false"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # PostgREST (REST API)
+  # ───────────────────────────────────────────
+  rest:
+    image: postgrest/postgrest:v12.0.1
+    container_name: kaptanlik-rest
+    restart: unless-stopped
+    environment:
+      PGRST_DB_URI: postgres://authenticator:${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}@db:5432/postgres?sslmode=disable
+      PGRST_DB_SCHEMAS: public
+      PGRST_DB_ANON_ROLE: anon
+      PGRST_JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      PGRST_DB_USE_LEGACY_GUCS: "false"
+      PGRST_APP_SETTINGS_JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      PGRST_APP_SETTINGS_JWT_EXP: 3600
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Realtime (WebSocket)
+  # ───────────────────────────────────────────
+  realtime:
+    image: supabase/realtime:v2.27.5
+    container_name: kaptanlik-realtime
+    restart: unless-stopped
+    ports:
+      - "54329:4000"
+    environment:
+      PORT: 4000
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_USER: supabase_admin
+      DB_PASSWORD: ${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}
+      DB_NAME: postgres
+      DB_SSL: "false"
+      DB_AFTER_CONNECT_QUERY: 'SET search_path TO _realtime'
+      DB_ENC_KEY: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      API_JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      SECRET_KEY_BASE: ${SECRET_KEY_BASE:-your-super-secret-key-base-with-at-least-64-characters-long-for-realtime}
+      ERL_AFLAGS: -proto_dist inet_tcp
+      DNS_NODES: ""
+      RLIMIT_NOFILE: "10000"
+      APP_NAME: realtime
+      SEED_SELF_HOST: "true"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Storage
+  # ───────────────────────────────────────────
+  storage:
+    image: supabase/storage-api:v1.2.1
+    container_name: kaptanlik-storage
+    restart: unless-stopped
+    environment:
+      ANON_KEY: ${ANON_KEY:-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6ImFub24iLCJleHAiOjE5ODM4MTI5OTZ9.CRXP1A7WOeoJeXxjNni43kdQwgnWNReilDMblYTn_I0}
+      SERVICE_KEY: ${SERVICE_ROLE_KEY:-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImV4cCI6MTk4MzgxMjk5Nn0.EGIM96RAZx35lJzdJsyH-qQwv8Hdp7fsn3W0YpN81IU}
+      POSTGREST_URL: http://rest:3000
+      PGRST_JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      DATABASE_URL: postgres://supabase_storage_admin:${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}@db:5432/postgres?sslmode=disable
+      FILE_SIZE_LIMIT: 52428800
+      STORAGE_BACKEND: file
+      FILE_STORAGE_BACKEND_PATH: /var/lib/storage
+      TENANT_ID: stub
+      REGION: stub
+      AWS_DEFAULT_REGION: stub
+      ALLOWED_IMAGE_TRANSFORMATIONS: ""
+    volumes:
+      - storage-data:/var/lib/storage
+    depends_on:
+      db:
+        condition: service_healthy
+      rest:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Supabase Studio (UI)
+  # ───────────────────────────────────────────
+  studio:
+    image: supabase/studio:20240701-05dfbec
+    container_name: kaptanlik-studio
+    restart: unless-stopped
+    ports:
+      - "54323:3000"
+    environment:
+      STUDIO_PG_META_URL: http://meta:8080
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}
+      DEFAULT_ORGANIZATION_NAME: KaptanlikApp
+      DEFAULT_PROJECT_NAME: KaptanlikApp
+      OPENAI_API_KEY: ""
+    depends_on:
+      analytics:
+        condition: service_healthy
+      meta:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Postgres Meta
+  # ───────────────────────────────────────────
+  meta:
+    image: supabase/postgres-meta:v0.80.0
+    container_name: kaptanlik-meta
+    restart: unless-stopped
+    environment:
+      PG_META_PORT: 8080
+      PG_META_DB_HOST: db
+      PG_META_DB_NAME: postgres
+      PG_META_DB_USER: supabase_admin
+      PG_META_DB_PASSWORD: ${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}
+      PG_META_DB_PORT: 5432
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Edge Functions
+  # ───────────────────────────────────────────
+  functions:
+    image: supabase/edge-runtime:v1.54.10
+    container_name: kaptanlik-functions
+    restart: unless-stopped
+    environment:
+      JWT_SECRET: ${JWT_SECRET:-your-super-secret-jwt-token-with-at-least-32-characters-long}
+      SUPABASE_URL: http://kong:8000
+      SUPABASE_ANON_KEY: ${ANON_KEY:-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6ImFub24iLCJleHAiOjE5ODM4MTI5OTZ9.CRXP1A7WOeoJeXxjNni43kdQwgnWNReilDMblYTn_I0}
+      SUPABASE_SERVICE_ROLE_KEY: ${SERVICE_ROLE_KEY:-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImV4cCI6MTk4MzgxMjk5Nn0.EGIM96RAZx35lJzdJsyH-qQwv8Hdp7fsn3W0YpN81IU}
+      VERIFY_JWT: "true"
+    volumes:
+      - ./functions:/home/deno/functions:ro
+    networks:
+      - supabase-network
+
+  # ───────────────────────────────────────────
+  # Analytics (Logflare)
+  # ───────────────────────────────────────────
+  analytics:
+    image: supabase/logflare:1.4.0
+    container_name: kaptanlik-analytics
+    restart: unless-stopped
+    environment:
+      LOGGER_API_KEY: ${ANON_KEY:-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6ImFub24iLCJleHAiOjE5ODM4MTI5OTZ9.CRXP1A7WOeoJeXxjNni43kdQwgnWNReilDMblYTn_I0}
+      LOGGER_DATABASE_URL: postgresql://supabase_admin:${POSTGRES_PASSWORD:-your-super-secret-and-long-postgres-password}@db:5432/postgres
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4000/health"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - supabase-network
+
+# ───────────────────────────────────────────
+# Volumes
+# ───────────────────────────────────────────
+volumes:
+  postgres-data:
+    driver: local
+  storage-data:
+    driver: local
+
+# ───────────────────────────────────────────
+# Networks
+# ───────────────────────────────────────────
+networks:
+  supabase-network:
+    driver: bridge

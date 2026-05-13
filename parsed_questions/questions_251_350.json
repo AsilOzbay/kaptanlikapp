@@ -1,0 +1,1714 @@
+{
+  "paket": {
+    "id": "stab_2024_02",
+    "baslik": "Şubat 2024 Stabilite",
+    "toplam_soru": 100,
+    "konular": [
+      "G Değişimi",
+      "Trim",
+      "Trim Hesapları"
+    ]
+  },
+  "sorular": [
+    {
+      "soru_no": 251,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 8000 ton olan bir geminin KG’si 7 metredir. Bu gemide hacim merkezi omurgadan 1 m yüksek olan 500 tonluk tank tamamen boşaltıldığında yeni KG ne olur?",
+      "secenekler": {
+        "A": "6,8 m",
+        "B": "7,2 m",
+        "C": "7,4 m",
+        "D": "7,6 m",
+        "E": "7,8 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_131_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 252,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 3420 ton ve KG si 3.75 m dir. Bu gemi seyri sırasında Kg si 0.45 m olan tankından 66 ton ve Kg si 2 m olan tankından 64 ton su harcanmıştır. Bu geminin son KG si kaç metredir?",
+      "secenekler": {
+        "A": "3.03",
+        "B": "3.65",
+        "C": "4.17",
+        "D": "3.84",
+        "E": "5.34"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_131_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 253,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 15000 tondur. KG si 14 metre olan bu gemide omurgadan 12 metre yukarıda olan bir konuma 250 ton yük yüklendiğinde yeni KG kaç metre olur?",
+      "secenekler": {
+        "A": "26,654 m.",
+        "B": "4,445 m.",
+        "C": "16,333 m.",
+        "D": "2,951 m.",
+        "E": "13,967 m."
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_132_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 254,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3800 ton KG’si 3.8 m olan bir geminin güvertesine Kg’si 6.5 metre olan 150 ton yüklenirse geminin yeni KG’si ne olur?",
+      "secenekler": {
+        "A": "3.96 m",
+        "B": "3.90 m",
+        "C": "4.10 m",
+        "D": "3.66 m",
+        "E": "3.85 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_132_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 255,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1800 ton olan geminin KG’si 3 metredir. Bu gemiye Kg’si 2,5 metre olan 3400 ton yük ve Kg’si 5 metre olan 400 ton yakıt yüklemiştir. Bu geminin yeni KG’si ne kadardır?",
+      "secenekler": {
+        "A": "2.65 m",
+        "B": "3.15 m",
+        "C": "2.84 m",
+        "D": "2.96 m",
+        "E": "3.02 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_132_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 256,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1200 ton olan bir geminin KG yüksekliği 3 m dir. Bu gemiye aşağıdaki tabloda gösterilen yükler yüklenmiş, yükleme sonunda KM 5.80 m olduğu tespit edilmiştir. Bu gemideki yükleme sonunda oluşan yeni KG nedir?",
+      "secenekler": {
+        "A": "1.54 m",
+        "B": "2.25 m",
+        "C": "3.45 m",
+        "D": "4.18 m",
+        "E": "5.44 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_133_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 257,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3200 ton olan bir geminin KG yüksekliği 5.4 m dir. Bu gemiye aşağıdaki tabloda gösterilen yükler yüklenmiş, yükleme sonunda KM: 5.84 m olduğu tespit edilmiştir. Kompartman Ağırlıklar Kg Yüksekliği No:1 Ambar 1500 ton 3.6 m No:2 Ambar 3000 ton 5.2 m No:3 Ambar 2100 ton 3.9 m Bu gemideki yükleme sonunda oluşan yeni KG nedir?",
+      "secenekler": {
+        "A": "1.54 m",
+        "B": "2.25 m",
+        "C": "3.45 m",
+        "D": "4.74 m",
+        "E": "5.44 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_133_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 258,
+      "konu": "G Değişimi",
+      "soru_metni": "11500 ton deplasmanlı bir geminin KG si 7,5 m KM ise 8,4 metredir. Gemi bu durumda iskeleye 4 derece meyillidir. Gemiye 750 ton yük alınacaktır. Bu yük Kg si 10,5 m ve merkez hattından 5 m iskele taraftaki bölme ile Kg si 8 m ve merkez hattından 4 m sancak taraftaki bölmeye dağıtılacaktır. Yükleme sonunda ağırlık merkezini (KG) hesaplayınız",
+      "secenekler": {
+        "A": "7,507 m",
+        "B": "7,433 m",
+        "C": "7,477 m",
+        "D": "7,577 m",
+        "E": "7,757 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_134_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 259,
+      "konu": "G Değişimi",
+      "soru_metni": "6000 ton deplasmandaki bir geminin KG si 6 m, KM 7,33 m dir. Bu gemiye Kg si 2,5 m olan 1000 ton ve Kg si 3,0 m olan 500 ton yük alınıyor ve Kg 2,5 m. den 800 ton yük boşaltılıyor. Yükleme/Boşaltmadan sonra ağırlık merkezinin kaide hattından yüksekliği ne kadardır?",
+      "secenekler": {
+        "A": "5,95 m",
+        "B": "5,67 m",
+        "C": "6,27 m",
+        "D": "6,22 m",
+        "E": "6,10 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_135_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 260,
+      "konu": "G Değişimi",
+      "soru_metni": "Boyu 85 m, genişliği 15 m, draftı 6 m ve deplasmanı 5000 ton olan bir yük gemisinin limandan kalkış durumunda ağırlık merkezinin düşey yeri (KG) 5.0 m ve KM = 5.5 m. Gemi güvertesindeki 50 tonluk bir yük bulunduğu konumdan 5 metre aşağı doğru hareket ettirilirse geminin yeni metasantr yüksekliğini (GM) hesaplayınız.",
+      "secenekler": {
+        "A": "0.45 m",
+        "B": "0.50 m",
+        "C": "0.10 m",
+        "D": "0.55 m",
+        "E": "0.40 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_136_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 261,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 6000 ton olan bir gemide KM 8.00 m ve KG 6.60 m dir. Bu geminin Kg si 7.60 m olan güvertesinde bulunan 100 tonluk bir yük, Kg si 1.60 m olan dip ambara aktarılmıştır. Aktarma sonrası geminin yeni GM değeri ne olur?",
+      "secenekler": {
+        "A": "1.10 m",
+        "B": "1.20 m",
+        "C": "1.30 m",
+        "D": "1.40 m",
+        "E": "1.50 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_136_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 262,
+      "konu": "G Değişimi",
+      "soru_metni": "Demirdeki A gemisinde ambarda gladorada, omurgadan 8 metre yükseklikteki bir yük ambar tabanına şifting edilmiştir. Geminin deplasmanı 9200 ton ve ambar tabanının omurgadan yüksekliği 2 metredir. Şifting edilen yük miktarı 200 ton ve şiftingden önce GM 1.8 metre olduğuna göre şifting sonunda yeni GM ne olur?",
+      "secenekler": {
+        "A": "1.20 m",
+        "B": "1.47 m",
+        "C": "1.93 m",
+        "D": "1.67 m",
+        "E": "1.77 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_136_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 263,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 10000 ton olan bir geminin KG’si 5 metredir. Geminin bu deplasmandaki KM değeri 6 metre olduğuna göre gemi güvertesi üzerindeki ve kıç taraftaki 100 tonluk bir yükü gemi boyunca başa doğru 10 metre ve 5 metre aşağı doğru hareket ettirilirse GM ne olur?",
+      "secenekler": {
+        "A": "0.90 m",
+        "B": "0.95 m",
+        "C": "1.00 m",
+        "D": "1.05 m",
+        "E": "1.10 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_137_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 264,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 8000 ton olan bir geminin KG’si 6 metredir. Geminin bu deplasmandaki KM değeri 7 metre olduğuna göre gemi güvertesi üzerindeki ve kıç taraftaki 200 tonluk bir yük gemi boyunca başa doğru 4 metre ve 8 metre aşağı doğru hareket ettirilirse GM ne olur?",
+      "secenekler": {
+        "A": "0,80 m",
+        "B": "0,90 m",
+        "C": "1,00 m",
+        "D": "1,10 m",
+        "E": "1,20 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_137_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 265,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 8000 ton, GM’si 0,6 m olan bir geminin ambarındaki 50 tonluk bir yük 8 metre yükseltilerek güverteye çıkarılıyor. Bu durumda geminin yeni GM’si ne olur?",
+      "secenekler": {
+        "A": "0,50 m",
+        "B": "0,52 m",
+        "C": "0,55 m",
+        "D": "0,62 m",
+        "E": "0,65 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_138_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 266,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 5200 ton olan bir gemide KG=5.2 m, KM=5.8 m dir. Bu gemide omurgadan 2.6 m yüksekte bulunan 60 tonluk bir ağır parça, cundası omurgadan 30 m yüksekte olan ağır bumba ile kaldırılırsa geminin GM’i ne olur?",
+      "secenekler": {
+        "A": "0.284 m",
+        "B": "0.60 m",
+        "C": "0.516 m",
+        "D": "0.314 m",
+        "E": "0.912 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_138_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 267,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 9000 ton olan bir geminin KG’si 6.5 metredir. Geminin bu deplasmandaki KM değeri 7 metre olduğuna göre gemi güvertesi üzerindeki ve kıç taraftaki 150 tonluk bir yük gemi boyunca başa doğru 3 metre ve 6 metre yukarı doğru hareket ettirilirse GM ne olur?",
+      "secenekler": {
+        "A": "0,30 m",
+        "B": "0,40 m",
+        "C": "0,50 m",
+        "D": "0,60 m",
+        "E": "0,70 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_138_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 268,
+      "konu": "G Değişimi",
+      "soru_metni": "Aşağıda özellikleri verilen gemide mevcut olan 150 tonluk bir ağırlık orta simetri ekseni üzerinde 2,50 metre yukarıya çıkarılmaktadır. Yeni durumda metasantr yüksekliği GM ne olacaktır? (Deplasman: 2700 ton, KG = 6,50m, KB = 2,70 metre, BM = 5,40 metre)",
+      "secenekler": {
+        "A": "1,46 metre",
+        "B": "1,65 metre",
+        "C": "1,40 metre",
+        "D": "1,55 metre",
+        "E": "1,60 metre"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_139_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 269,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 14500 ton, KG si 6.00 m dir. Bu geminin omurgadan Kg’si 9.00 m olan güvertesine 400 ton yük yüklenecektir. Yüklemeden sonra KM 8,78 olduğuna göre yeni GM değeri ne olur?",
+      "secenekler": {
+        "A": "2,70 m",
+        "B": "2,16 m",
+        "C": "1,86 m",
+        "D": "1,74 m",
+        "E": "1,69 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_140_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 270,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 8000 ton olan bir geminin ağırlık merkezinin omurgadan yüksekliği 7 metredir. Geminin omurgadan 1.2 metre yükseklikteki tankına 500 ton yakıt alınmaktadır. KM’si 8 metre olarak bilindiğine göre GM ne olur?",
+      "secenekler": {
+        "A": "1,34 m",
+        "B": "2,25 m",
+        "C": "6,65 m",
+        "D": "1,55 m",
+        "E": "1,25 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_140_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 271,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1800 ton ve KG’si 3 m. olan bir gemiye Kg’si 2,5 m. olan 3400 ton yük ve Kg’si 5,0 m. olan 400 ton yakıt aldıktan sonra KM’si 3,14 olarak tespit edilmiştir. Bu operasyondan sonra geminin GM’i ne olur?",
+      "secenekler": {
+        "A": "0,14 m",
+        "B": "0,30 m",
+        "C": "0,60 m",
+        "D": "0,40 m",
+        "E": "0,35 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_140_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 272,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 4000 ton ve ağırlık merkezi (KG) 3 m dir. Bu gemi limana yanaşıyor ve omurgadan yüksekliği 3.75 m olan ambarına 1000 ton yük yükledikten sonra omurgadan yüksekliği 1.5 m olan tankına 500 ton yakıt aldıktan sonra KM’si 4 m olarak tespit ediliyor. Bu geminin başlangıç metasentır yüksekliğini (GM) bulunuz.",
+      "secenekler": {
+        "A": "1 m",
+        "B": "1.1 m",
+        "C": "0.70 m",
+        "D": "0.90 m",
+        "E": "0.80 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_141_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 273,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 3500 ton ve KG’si 3.5 m dir. Bu gemi limana yanaşıyor ve omurgadan yüksekliği 4 m olan ambarına 1500 ton yük, omurgadan yüksekliği 1 m olan tankına 400 ton yakıt aldıktan sonra KM’si 4.15 m olarak tespit ediliyor. Bu geminin GM’ini bulunuz.",
+      "secenekler": {
+        "A": "0.60 m",
+        "B": "0.65 m",
+        "C": "0.70 m",
+        "D": "0.75 m",
+        "E": "0.80 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_141_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 274,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3200 ton olan bir geminin KG yüksekliği 5.4 m dir. Bu gemiye aşağıdaki tabloda gösterilen yükler yüklenmiş, yükleme sonunda KM 5.84 m olduğu tespit edilmiştir. Yükleme sonundaki GM’i hesaplayınız.",
+      "secenekler": {
+        "A": "0.85 m",
+        "B": "0.90 m",
+        "C": "1.00 m",
+        "D": "1.05 m",
+        "E": "1.10 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_142_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 275,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3200 ton olan bir geminin KG yüksekliği 6.2 m. Bu gemiye aşağıdaki tabloda gösterilen yükler yüklenmiş, yükleme sonunda KM : 5.40 m olduğu tespit edilmiştir. Yükleme sonundaki GM’i hesaplayınız. Kompartman Ağırlıklar KG Yüksekliği No:1 Ambar 1500 ton 3.6 m No:2 Ambar 3000 ton 5.2 m No:3 Ambar 2100 ton 3.9 m",
+      "secenekler": {
+        "A": "0.40 m",
+        "B": "0.35 m",
+        "C": "0.75 m Çıkış Yap Kalan Erişim Süresi: 1000.0 Dakika Ek Dosyalar",
+        "D": "0.45 m",
+        "E": "0.55 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_142_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 276,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3400 ton olan bir geminin KG’si 3,4 m dir. Bu gemiye aşağıda gösterilen yükler yüklenmiş, No:1 Ambar 1800 ton omurgadan mesafe 1,8 m No:2 Ambar 3200 ton omurgadan mesafe 3,2 m No:3 Ambar 2100 ton omurgadan mesafe 2,1 m Yükleme sonunda KM = 4,2 m olarak tespit edilmiştir. Geminin ﬁnal GM’si ne olur?",
+      "secenekler": {
+        "A": "0,40 m",
+        "B": "0,96 m",
+        "C": "1,20 m",
+        "D": "1,40 m",
+        "E": "1,55 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_143_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 277,
+      "konu": "G Değişimi",
+      "soru_metni": "Boş ağırlığı 2800 ton, boş KG’si 2.8 m olan bir gemiye aşağıdaki yükler yüklenmiştir. No:1 Ambar 800 ton omurgadan mesafe 2.4 m No:2 Ambar 1400 ton omurgadan mesafe 3.2 m No.3 Ambar 950 ton omurgadan mesafe 2.7 m Yükleme sonunda KM’nin 3.4 m olduğu tespit edilmiştir. Geminin ﬁnal GM’ini hesaplayınız.",
+      "secenekler": {
+        "A": "0.58 m",
+        "B": "0.62 m",
+        "C": "1.20 m",
+        "D": "0.46 m",
+        "E": "0.56 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_143_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 278,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3000 ton olan bir geminin KG yüksekliği 6.0 m dir. Bu gemiye aşağıda tabloda gösterilen yükler yüklenmiş, yükleme sonunda KM=5.50 m olduğu tespit edilmiştir. Yükleme sonundaki GM’i hesaplayınız. Kompartmanlardaki yük ağırlıkları ve KG yükseklikleri her bir ambar için yanda verilmiştir. No:1 Ambar 1000 ton 3.5 m No:2 Ambar 2000 ton 5.0 m No:3 Ambar 1500 ton 4.0 m",
+      "secenekler": {
+        "A": "0.40 m",
+        "B": "0.50 m",
+        "C": "0.60 m",
+        "D": "0.70 m",
+        "E": "0.75 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_144_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 279,
+      "konu": "G Değişimi",
+      "soru_metni": "Boş ağırlığı 10607 ton olan bir geminin boş KG'si 11.22 m dir. Bu gemiye aşağıda gösterilen yükler yüklenmiş ve yükleme sonunda KM=11.20 m olarak tespit edilmiştir. Kompartmanlar Ağırlıklar V.C.G No:1 Ambar 5644 ton 10.55 m No:3 Ambar 7077 ton 10.16 m No:5 Ambar 7162 ton 10.18 m No:7 Ambar 6648 ton 10.57 m Bu yükleme sonunda geminin GM'i ne olur?",
+      "secenekler": {
+        "A": "0.60 m",
+        "B": "0.40 m",
+        "C": "0.27 m",
+        "D": "0.54 m",
+        "E": "0.85 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_144_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 280,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 5330 ton ve KG’si 4.50 m olan seyir halindeki bir gemi limana varıncaya kadar Kg’si 1.50 m olan tankından 166 ton ve Kg’si 0.5 m olan tankından ise 72 ton yakıt harcamıştır. Bu gemi limana vardığında KM’si 5.35 m olduğuna göre limana varış GM’ini hesaplayınız.",
+      "secenekler": {
+        "A": "0.55 m",
+        "B": "0.60 m",
+        "C": "0.65 m",
+        "D": "0.70 m",
+        "E": "0.75 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_145_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 281,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 8000 ton ve KG’si 6 m olan bir gemi intikal seyirinde Kg’si 1 m. olan tankından 200 ton yakıt, Kg’si 0,8 m. olan tankından 50 ton diesel oil ve Kg’si 5 m. olan kıç pik tankından da 100 ton tatlı su harcamıştır. (Diğer tüketimler ihmal edilmektedir) Limana varışta KM’si 6,9 m. olarak tespit edildiğine göre geminin limana varış GM’i ne kadardır?",
+      "secenekler": {
+        "A": "0,8 m.",
+        "B": "0,72 m.",
+        "C": "1,22 m.",
+        "D": "0,28 m.",
+        "E": "0,62 m."
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_145_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 282,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 16000 ton olan bir geminin KG si 7 m, KM si 12 m. dir. 1 nolu ambarına omurgadan 5 metre yukarıya 200 ton yük yükleniyor ve 3 nolu ambarından ise 300 ton yük omurgadan 3 metre yükseklikten tahliye ediliyor. Bu duruma göre geminin son GM i ne olur? (KM sabit kabul edilecektir)",
+      "secenekler": {
+        "A": "3,75 m",
+        "B": "4,95 m",
+        "C": "1,75 m",
+        "D": "2,3 m",
+        "E": "5,25 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_146_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 283,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 4250 ton ve KG’si 3.60 m dir. Bu gemiye aşağıdaki gösterilen yükler yüklenmiş ve boşaltılmıştır. Yükleme sonunda KM’nin 3.40 m olduğu tespit edilmiştir. Geminin ﬁnal GM’ini hesaplayınız",
+      "secenekler": {
+        "A": "1,23 m",
+        "B": "0,35 m",
+        "C": "0,55 m",
+        "D": "0,85 m",
+        "E": "0 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_146_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 284,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 14500 ton olan bir geminin KG yüksekliği 7,5 m dir. Bu gemiye aşağıda gösterilen yükler yüklenmiş ve boşaltılmıştır. Bu yük işlemleri sonucu KM = 8,50 m olarak tespit edilmiştir. Kompartman Ağırlıklar KG yüksekliği No 1 1200 ton yükleme 3.0 m No 2 800 ton boşaltma 7.0 m No 3 900 ton yükleme 5.0 m. Bu işlemlerden sonra geminin KG’si ve GM’i aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "KG = 7,04 m GM = 1,46 m",
+        "B": "KG = 8,50 m GM = 4 m",
+        "C": "KG = 4,5 m GM = 0 m",
+        "D": "KG = 5,0 m GM = 0,45 m",
+        "E": "KG = 8,05 m GM = 3,5 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_147_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 285,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 14500 ton olan bir geminin KG yüksekliği 7,5 m dir. Bu gemiye aşağıda gösterilen yükler yüklenmiş ve boşaltılmıştır. Bu yük işlemleri sonucu KM = 8,50 m olarak tespit edilmiştir. KOMPARTMAN AĞIRLIKLAR Kg YÜKSEKLİĞİ No 1 1200 ton yükleme 3,0 m No 2 800 ton boşaltma 7,0 m No 3 900 ton yükleme 5,0 m Bu yükleme ve boşaltma işlemleri sonucu oluşan sonuç moment aşağıdakilerden hangisidir? ce",
+      "secenekler": {
+        "A": "2500 TM",
+        "B": "13700 TM",
+        "C": "75900 TM",
+        "D": "111500 TM",
+        "E": "111250 TM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_147_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 286,
+      "konu": "G Değişimi",
+      "soru_metni": "Bu işlemler sonucu tespit edilen sonuç KG aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "4,50",
+        "B": "5,00",
+        "C": "7,04",
+        "D": "8,05",
+        "E": "8,50"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_148_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 287,
+      "konu": "G Değişimi",
+      "soru_metni": "A gemisinde yapılmış olan yük işlemleri sonucunda oluşan geminin GM si aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "0 m",
+        "B": "0,45 m",
+        "C": "1,46 m",
+        "D": "3,50 m",
+        "E": "4 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_148_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 288,
+      "konu": "G Değişimi",
+      "soru_metni": "LBP = 204 m, Boş gemi ağırlığı = 11200 ton, Boş Gemi VCG = 7,00 m olan bir gemiye aşağıdaki yükler yüklenmiştir. Yüklemeden sonra KM = 9,6 m olarak tespit edilmiştir. Gemi tanklarındaki serbest satıh nedeniyle oluşan FSM değerleri toplam 2000 t.m. Bu gemiye ağırlık merkezi 7,66 m olarak hesaplanan 19600 ton yük yüklenmiştir. Yükleme sonrası düzeltilmiş GM değeri ne olur?",
+      "secenekler": {
+        "A": "2,06 m",
+        "B": "2,20 m",
+        "C": "2,16 m",
+        "D": "2,12 m",
+        "E": "2,00 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_149_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 289,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 5000 ton olan bir geminin KG si 3 m dir. Bu gemi Kg si 4 m olan ambarına 2000 ton yük yükledikten sonra Kg si 8 m olan güvertesine de yük alacaktır. Yükleme sonunda GM 0.6 m olacaktır. ( Yükleme sonunda KM = 4.5 m dir ) Bu geminin KG si nedir?",
+      "secenekler": {
+        "A": "3.9 m",
+        "B": "5.1 m",
+        "C": "4.7 m",
+        "D": "4.5 m",
+        "E": "5.2 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_150_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 290,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1000 ton olan geminin KG si 4 m KM si 5.65 m dir. 250 ton yükü omurgadan ne kadar yukarı yükleyelim ki GM’i 65 cm olsun?",
+      "secenekler": {
+        "A": "6 m",
+        "B": "8 m",
+        "C": "9 m",
+        "D": "11 m",
+        "E": "5 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_150_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 291,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3000 ton olan bir geminin KG’si 5 metredir. KG’yi 5.5 metre yapmak için kaç ton yükü dikey olarak 6 metre hareket ettirmek gerekir?",
+      "secenekler": {
+        "A": "40 t",
+        "B": "400 t",
+        "C": "25 t",
+        "D": "250 t",
+        "E": "300 t"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_151_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 292,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 7350 ton, KG’si 5.8 m ve GM’i 0.5 m dir. Bu geminin Kg’si 9 m olan güvertesine kaç ton yüklenmelidir ki yükleme sonrası GM’i 0.38 m olsun?",
+      "secenekler": {
+        "A": "305.2 ton",
+        "B": "212.6 ton",
+        "C": "276.1 ton",
+        "D": "286.3 ton",
+        "E": "295.8 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_151_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 293,
+      "konu": "G Değişimi",
+      "soru_metni": "Balya yükü taşıyan bir gemi yükleme yaptıktan sonra deplasmanının 4000 ton, KG sinin 5 metre ve KM’in 6 metre olduğu tespit edilmiştir. Bu geminin minimum GM kriterini (GM min=0,15 m) sağlaması için Kg’si 12 metre olan güvertesine en fazla ne kadar yük alabilir? (KM in değişmediği kabul edilecek)",
+      "secenekler": {
+        "A": "550 ton",
+        "B": "350 ton",
+        "C": "500 ton",
+        "D": "450 ton",
+        "E": "400 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_151_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 294,
+      "konu": "G Değişimi",
+      "soru_metni": "Balya yükü taşıyan bir gemi yükleme yaptıktan sonra deplasmanının 8000 ton, KG sinin 6 metre ve KM’in 6.5 metre olduğu tespit edilmiştir. Bu geminin minimum GM kriterini (GM min=0,15 m) sağlaması için Kg’si 12 metre olan güvertesine en fazla ne kadar yük alabilir? (KM in değişmediği kabul edilecek)",
+      "secenekler": {
+        "A": "280 ton",
+        "B": "500 ton",
+        "C": "620 ton",
+        "D": "670 ton",
+        "E": "570 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_152_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 295,
+      "konu": "G Değişimi",
+      "soru_metni": "Grain (tahıl) yükü taşıyan bir gemi yükleme yaptıktan sonra deplasmanının 6000 ton, KG sinin 6 metre ve KM in 6.5 metre olduğu tespit edilmiştir. Bu geminin minimum GM kriterini sağlaması için Kg’si 10 metre olan güvertesine en fazla ne kadar yük alabilir? (KM in değişmediği kabul edilecek)",
+      "secenekler": {
+        "A": "315 ton",
+        "B": "425 ton",
+        "C": "575 ton",
+        "D": "375 ton",
+        "E": "275 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_152_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 296,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 5000 ton olan bir geminin KG si 3 m dir. Bu gemi Kg si 4 m olan ambarına 2000 ton yük yükledikten sonra Kg si 8 m olan güvertesine de yük alacaktır. Yükleme sonunda GM in 0.6 m olabilmesi için güverteye kaç ton yük alabilir? ( Yükleme sonunda KM = 4.5 m dir )",
+      "secenekler": {
+        "A": "1196.67 ton",
+        "B": "1100.30 ton",
+        "C": "1125.26 ton",
+        "D": "1048.78 ton",
+        "E": "1215.75 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_152_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 297,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 2500 ton, KG si 3 metredir. Bu gemide Kg’si 4 m olan ambarına 3000 ton yük aldıktan sonra Kg’si 7 m olan güvertesine de yük alacaktır. Yükleme sonunda GM 0,60 m olması istenmektedir. Yükleme sonunda KM’si 4.5 m bulunduğuna göre güvertesine kaç ton yük alınması gerekir?",
+      "secenekler": {
+        "A": "720,05",
+        "B": "580,30",
+        "C": "189,65",
+        "D": "444,45",
+        "E": "629,03"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_153_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 298,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 2450 ton, KG’si 2.6 m dir. Bu gemi Kg’si 4.3 m olan ambarına 3200 ton yük yükledikten sonra Kg’si 7.3 m olan güvertesine de yük alacaktır. Yükleme sonunda GM=0.6 m olması için güverteye kaç ton yük alabilir? Yükleme sonunda KM=4.5 m dir.",
+      "secenekler": {
+        "A": "457.5 ton",
+        "B": "520.40 ton",
+        "C": "545.26 ton",
+        "D": "560.30 ton",
+        "E": "580.25 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_153_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 299,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 4500 ton, KG’si 5 m olan bir gemiye aşağıdaki yükler yüklenmiştir. 450 ton Kg=7,5 m 120 ton Kg=6,0 m 650 ton Kg=3,0 m Bu gemi 0,6 m lik bir GM ile limandan kalkabilmesi için Kg’si 6 m olan gladorasına kaç ton yük almalıdır? (Kalkışta KM=5,6 m)",
+      "secenekler": {
+        "A": "62 ton",
+        "B": "68 ton",
+        "C": "59 ton",
+        "D": "55 ton",
+        "E": "50 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_154_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 300,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 2450 ton olan bir geminin KG’si 2.6 metredir. Kg’si 4.3 metre olan ambarından 1000 ton yük tahliye edilmiştir. Yüklemeden sonra GM i 0.6 m olması için, omurgasından 7.3 metre yükseklikteki güvertesine kaç ton yük alınmalıdır? (Yükleme sonrası KM değeri 4.5 metredir)",
+      "secenekler": {
+        "A": "974,76 ton",
+        "B": "1054,41 ton",
+        "C": "1125,25 ton",
+        "D": "650,45 ton",
+        "E": "1100,24 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_154_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 301,
+      "konu": "G Değişimi",
+      "soru_metni": "Limanda yüklemesi devam eden bir gemi en son kereste yükü yükleyecektir. Kereste yüklemesinden önce deplasmanı 8100 ton, KG si 5.3 metredir. Bu gemi Kg si 10.80 m olan güvertesine kereste yükleyecektir. Limandan hareketten sonra 25 gün seyir yapacak olan gemi Kg’si 0.63 m olan tanklarından günde 24 ton yakıt ve Kg si 1.30 m olan tanklarından günde 5 ton su harcayacaktır. KM=7.5 metre olduğuna göre, geminin varış limanına 0.5 metreden az olmayan bir GM ile varabilmesi için kaç ton kereste yükleyebileceğini bulunuz.",
+      "secenekler": {
+        "A": "2200.5 ton",
+        "B": "2430.4 ton",
+        "C": "2735.5 ton",
+        "D": "3200 ton",
+        "E": "3250.5 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_155_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 302,
+      "konu": "G Değişimi",
+      "soru_metni": "A Limanında kısmen yüklü olan geminin deplasmanı 10000 ton KG’si 5 m dir. Bu gemi KG si 10 metre olan güvertesine kereste yükleyecektir. Yükleme sonrası KM değeri 7.5 m dir. A Limanından hareket ettikten sonra 20 gün seyir yapacak olan bu gemi KG’si 0.5 m olan tanklarından günde 5 ton yakıt, KG’si 3 m olan tanklarından 5 ton su harcayacaktır. Geminin B varış limanında KM değeri 7.4 m dir ve deniz suyu yoğunluğu değişmemiştir. Geminin varış limanına 0.5 m den az olmayan bir GM ile varabilmesi istenmektedir. Bu bilgilere göre gemi B limanına vardığında GM değeri 0.5 m olması için kaç ton kereste yükü yüklemelidir?",
+      "secenekler": {
+        "A": "9800 ton",
+        "B": "10200 ton",
+        "C": "15796,77 ton",
+        "D": "5796,77 ton",
+        "E": "15596,77 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_155_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 303,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 5000 ton olan bir geminin KG si 5 metredir. Bu geminin güvertesine Kg si 10 metre olan kereste yüklenecektir. Gemi seyir esnasında Kg si 0,5 m olan 170 ton yakıt ve Kg si 1 metre olan 150 ton su harcayacaktır. Geminin güvertesine yükleyeceği kerestenin ağırlığı absorbe ettiği sudan dolayı %10 oranında artacaktır. Geminin varış limanında KM değerinin 6,15 metre olacağı düşünülürse, geminin varış limanına 0,25 metrelik bir GM ile varabilmesi için güvertesine daha ne kadar kereste almalıdır?",
+      "secenekler": {
+        "A": "530 ton",
+        "B": "630 ton",
+        "C": "690 ton",
+        "D": "590 ton",
+        "E": "650 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_156_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 304,
+      "konu": "Trim",
+      "soru_metni": "1 cm trim momenti (MT1), ne hesabında kullanılır?",
+      "secenekler": {
+        "A": "Islak alan",
+        "B": "Toplam meyil",
+        "C": "Toplam trim",
+        "D": "Narinlik katsayıları",
+        "E": "Deplasman hacmi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_159_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 305,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdakilerden hangisi MCT 1 cm değerinin tanımıdır?",
+      "secenekler": {
+        "A": "Bir geminin draftını 1 cm değiştirmek için gerekli olan moment",
+        "B": "Bir geminin trimini 1 cm değiştirmek için gerekli olan moment",
+        "C": "Bir gemiyi 1 cm başlı yapmak için gerekli olan moment",
+        "D": "Bir gemiyi 1 cm kıçlı yapmak için gerekli olan moment",
+        "E": "Bir gemiyi overload yapmak için gerekli olan moment"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_159_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 306,
+      "konu": "Trim",
+      "soru_metni": "Bir gemide istenen trimi elde etmek için ne kadar ağırlık alınması ve çıkarılması gerektiği aşağıdakilerden hangisiyle hesaplanır?",
+      "secenekler": {
+        "A": "Bir santim batırma tonu",
+        "B": "Bir santim trim momenti",
+        "C": "Detveyt ölçeği",
+        "D": "Statik stabilite eğrileri",
+        "E": "Çapraz eğriler vasıtasıyla bulunur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_159_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 307,
+      "konu": "Trim",
+      "soru_metni": "Başlangıç trimi ile yük operasyonundan sonraki trim arasındaki farka ne denir?",
+      "secenekler": {
+        "A": "Trim",
+        "B": "Son Trim",
+        "C": "Draft farkı",
+        "D": "Trim değişikliği",
+        "E": "Hogging – Sagging"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_160_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 308,
+      "konu": "Trim",
+      "soru_metni": "Gemilerin kapasite planlarında aşağıdaki bilgilerden hangisi bulunmaz?",
+      "secenekler": {
+        "A": "Su hattı alanı",
+        "B": "MCT 1 cm",
+        "C": "Detveyt",
+        "D": "TPC",
+        "E": "Deplasman"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_160_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 309,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdakilerden hangisi detveyt ölçeğinde yer almayan bir bilgidir?",
+      "secenekler": {
+        "A": "Draft",
+        "B": "Detveyt",
+        "C": "Bir santim batırma trim momenti",
+        "D": "Bir santim batırma tonu",
+        "E": "Yüzme merkezinin gemi ortasından mesafesi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_160_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 310,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdaki ifadelerden hangisi bir geminin boyuna dengesi ile ilgili değildir?",
+      "secenekler": {
+        "A": "LCF",
+        "B": "LCG",
+        "C": "LCB",
+        "D": "LBD",
+        "E": "LBP"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_161_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 311,
+      "konu": "Trim",
+      "soru_metni": "Bir geminin deplasman merkezinin boyuna yeri aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "LCF",
+        "B": "LCB",
+        "C": "KB",
+        "D": "KM",
+        "E": "LBP"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_162_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 312,
+      "konu": "Trim",
+      "soru_metni": "Bir gemiye etki eden kaldırma kuvvetlerinin bileşkesinin etki ettiği noktanın boyuna yerinin sembolü aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "LCF",
+        "B": "KM",
+        "C": "LBP",
+        "D": "LCB",
+        "E": "KG"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_162_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 313,
+      "konu": "Trim",
+      "soru_metni": "Bir gemiye trim yaptıran kol, aşağıda belirtilen yatay mesafelerden hangisidir?",
+      "secenekler": {
+        "A": "LCB ile LCF arasındaki fark",
+        "B": "LCG ile LCF arasındaki fark",
+        "C": "Kıç dikme ile LCF arasındaki fark",
+        "D": "LCG ile LCB arasındaki fark",
+        "E": "Baş dikme ile LCG arasındaki fark"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_162_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 314,
+      "konu": "Trim",
+      "soru_metni": "Bir geminin hacim merkezinin boyuna yeri (LCB) ağırlık merkezinin boyuna yerinden (LCG) daha ilerde (başa doğru) ise bu geminin durumu hakkında aşağıdakilerden hangisi kesinlikle söylenebilir?",
+      "secenekler": {
+        "A": "Gemi trimsiz",
+        "B": "Dik başlı gemi",
+        "C": "Aşırı yüklü gemi",
+        "D": "Gemi başa trimli",
+        "E": "Gemi kıça trimli"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_163_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 315,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdaki durumlardan hangisinde gemi kıça trimli olur?",
+      "secenekler": {
+        "A": "B noktası, G noktasının önünde ise",
+        "B": "G noktası, B noktasının önünde ise",
+        "C": "LCB = LCG ise",
+        "D": "LCF = 0 ise",
+        "E": "GZ = GM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_163_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 316,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdaki durumlardan hangisinde gemi kıça trimli olur?",
+      "secenekler": {
+        "A": "Kıç dikme referans alındığında, LCG noktası LCB noktasının önünde ise",
+        "B": "Kıç dikme referans alındığında, LCB noktası LCG noktasının önünde ise",
+        "C": "LCF = LCG ise",
+        "D": "LCB, LCG in önünde ise",
+        "E": "LCB = LCG ise"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_163_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 317,
+      "konu": "Trim",
+      "soru_metni": "Bir geminin LCB’si, gemiye göre LCG’nin kıç tarafında ise geminin durumuna uygun olan aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Gemi kıça trimli olur",
+        "B": "Gemi başa trimli olur",
+        "C": "Gemi trimsiz olur",
+        "D": "Gemi tender olur",
+        "E": "Gemi stiff olur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_164_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 318,
+      "konu": "Trim",
+      "soru_metni": "BG kolu gemiye trim yaptıran koldur. BG’nin hangi değerinde gemi trimsiz olur?",
+      "secenekler": {
+        "A": "BG > 0",
+        "B": "BG < 0",
+        "C": "BG = 0",
+        "D": "BG > GZ",
+        "E": "BG = GM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_164_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 319,
+      "konu": "Trim",
+      "soru_metni": "Bir gemide meyil ve trim yoksa (sıfır ise) aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "LCB=LCG ve TCG=0",
+        "B": "LCB>LCG ve TCG=0",
+        "C": "LCB=LCG ve LCF Mastoride",
+        "D": "LCB=LCG=LCF ve TCG/0",
+        "E": "LCB/LCF ve TCG=0"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_164_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 320,
+      "konu": "Trim",
+      "soru_metni": "BG değeri trim yaptıran kol olup B ile G noktaları arasındaki yatay mesafedir. BG hakkında aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "BG büyüdükçe trim büyür",
+        "B": "LCB ile LCG gemi orta hattının aynı tarafında iseler bunların farkı BG’yi verir",
+        "C": "LCB ile LCG gemi orta hattının aynı tarafında iseler bunların toplamı BG’yi verir",
+        "D": "G noktası B noktasının önünde ise gemi başa trimli olur",
+        "E": "B noktası ile G noktası çakışık ise gemi trimsiz olur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_165_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 321,
+      "konu": "Trim",
+      "soru_metni": "Bir gemide boyuna momentler toplamının deplasmana bölümü ile aşağıdakilerden hangisi hesaplanır?",
+      "secenekler": {
+        "A": "Trim hesaplanır",
+        "B": "Trim değişikliği hesaplanır",
+        "C": "Mean Draft hesaplanır",
+        "D": "LCG hesaplanır",
+        "E": "KG hesaplanır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_165_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 322,
+      "konu": "Trim",
+      "soru_metni": "Sephiye merkezinin boyuna konumu (LCB) hesabı için aşağıdakilerden hangisi kullanılır?",
+      "secenekler": {
+        "A": "Yüzme merkezinin boyuna konumu (LCF)",
+        "B": "Belirli su hattında her bir kesit alanının, gemi ortasına göre alınan momentleri ve hacmi",
+        "C": "Belirli bir su hattında her bir kesitin genişliklerinin, gemi ortasına göre alınan momentleri ve alanı",
+        "D": "Enine metasantr yarıçapı (BM)",
+        "E": "1 cm batma tonajı (T1)"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_165_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 323,
+      "konu": "Trim",
+      "soru_metni": "Gemi, trimi aşağıda verilen hangi nokta merkezli yapar?",
+      "secenekler": {
+        "A": "B noktası merkezli",
+        "B": "F noktası merkezli",
+        "C": "K noktası merkezli",
+        "D": "M noktası merkezli",
+        "E": "G noktası merkezli"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_166_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 324,
+      "konu": "Trim",
+      "soru_metni": "Bir yük aşağıdaki noktalardan hangisinin üzerine yüklenirse geminin trimi değişmez?",
+      "secenekler": {
+        "A": "G noktasına",
+        "B": "B noktasına",
+        "C": "Geminin tam ortasına",
+        "D": "F noktasına",
+        "E": "Z noktasına"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_166_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 325,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdakilerden hangisi gemide trim değişikliğine sebep olur?",
+      "secenekler": {
+        "A": "Gladoradaki yüklerin dip ambara şiftingi",
+        "B": "Yüzme merkezi üzerine yük yüklenmesi",
+        "C": "Baştan kıça yük aktarılması",
+        "D": "Dip ambardaki yüklerin gladoraya şiftingi",
+        "E": "F noktası üzerine yük konulması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_166_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 326,
+      "konu": "Trim",
+      "soru_metni": "Aşağıdaki hareketlerden hangisi bir geminin trimini etkiler?",
+      "secenekler": {
+        "A": "Yukarıdaki yüklerin aşağı indirilmesi",
+        "B": "F noktasına yük yüklenmesi",
+        "C": "Kıç taraftaki bir yükün başa şiftingi",
+        "D": "Yukarıdakilerin hepsi",
+        "E": "Aşağıdaki yüklerin yukarı çıkartılması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_167_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 327,
+      "konu": "Trim",
+      "soru_metni": "Çatışmadan sonra pruvasında hasar meydana gelen ve hasarlı bölmenin takviye edilip desteklenmesi ile yola devam eden bir gemi için aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Boş tanklara balast alınmalıdır",
+        "B": "Mümkün olduğunda kıça doğru trimlendirilmesi gerekir",
+        "C": "Varacağı limana tam tokat seyri yaparak ulaşması sağlanmalıdır",
+        "D": "Dümen donanımı gözden geçirilmelidir",
+        "E": "Hepsi doğru"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_167_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 328,
+      "konu": "Trim Hesapları",
+      "soru_metni": "W; ağırlık d; mesafe MCT 1 cm, 1 cm trim yaptıran moment olduğuna göre (W*d)/MCT 1cm) formülü bize aşağıdakilerden hangisini ifade eder?",
+      "secenekler": {
+        "A": "Baş draft değişikliğini",
+        "B": "Kıç draft değişikliğini",
+        "C": "Draft değişikliğini",
+        "D": "Boyuna ağırlık merkezini",
+        "E": "Toplam trim değişikliğini"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_171_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 329,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Toplam trimin (t), trim yaptıran moment (MT) ve 1 cm trim momenti (MCT) cinsinden değeri aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "t= MT + MCT",
+        "B": "t= MCT - MT",
+        "C": "t= MT - MCT",
+        "D": "t= MT / MCT",
+        "E": "t= MCT / MT"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_171_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 330,
+      "konu": "Trim Hesapları",
+      "soru_metni": "X = (l / L) * t formülünde X: kıç draft değişikliği, L: dikmeler arası mesafe, t: toplam trim değişikliğidir. Buna göre “l” neyi ifade etmektedir?",
+      "secenekler": {
+        "A": "Yüzdürme merkezinin mastoriye olan mesafesi",
+        "B": "Başa olan mesafe",
+        "C": "Kıça olan mesafe",
+        "D": "Yüzdürme merkezinin kıç dikmeye olan mesafesi",
+        "E": "Yüzdürme merkezinin baş dikmeye olan mesafesi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_171_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 331,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir gemide 100 tonluk bir ağırlık 1 nolu ambardan 2 nolu ambara 25 metre shifting edilmiştir. MCT 1cm = 100 tonmetre olduğuna göre trim değişikliğini bulunuz.",
+      "secenekler": {
+        "A": "9 cm",
+        "B": "10 cm",
+        "C": "5 cm",
+        "D": "20 cm",
+        "E": "25 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_172_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 332,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir gemide 60 tonluk bir yük 1 nolu ambardan 2 nolu ambara 25 metre aktarılmıştır. MCT 100 tonm. olduğuna göre trim değişikliği ne kadardır?",
+      "secenekler": {
+        "A": "10,5 cm",
+        "B": "12,5 cm",
+        "C": "15 cm",
+        "D": "25 cm",
+        "E": "50 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_172_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 333,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir gemide 40 tonluk bir ağırlık 1 nolu ambardan 2 nolu ambara 25 m shifting edilmiştir. MTC 1cm = 100 ton metre olduğuna göre trim değişikliğini bulunuz.",
+      "secenekler": {
+        "A": "5 cm",
+        "B": "9 cm",
+        "C": "10 cm",
+        "D": "12 cm",
+        "E": "14 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_172_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 334,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir gemide 20 tonluk bir ağırlık 1 nolu ambardan 2 nolu ambara 25 m shifting edilmiştir. 1 cm trim momenti = 50 ton.m olduğuna göre gemideki trim değişikliği ne olur?",
+      "secenekler": {
+        "A": "15 cm",
+        "B": "20 cm",
+        "C": "12 cm",
+        "D": "10 cm",
+        "E": "22 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_173_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 335,
+      "konu": "Trim Hesapları",
+      "soru_metni": "100 m. boyundaki bir gemide 50 tonluk bir ağırlık baştan kıça doğru 30 m. kaydırılmaktadır. Geminin su sathında bir cm trim momenti MCT 1 cm = 75 tonm. ise bu yükleme değişiminde toplam trim değişikliği ne kadardır?",
+      "secenekler": {
+        "A": "10 cm",
+        "B": "1 m",
+        "C": "20 cm",
+        "D": "2 m",
+        "E": "0,5 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_173_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 336,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 10.40 m, Kıçta 10.80 m su çeken bir gemide F noktası gemi ortasındadır. Bu gemide 50 ton ağırlığındaki bir yük başa doğru 30 m şifting edilirse geminin yeni draftları ne olur? Birim trim moment (MCT1cm) = 150 tonmetre/cm dir.",
+      "secenekler": {
+        "A": "Baş Draft: 10.50 m Kıç Draft: 10.70 m",
+        "B": "Baş Draft: 10.60 m Kıç Draft: 10.72 m",
+        "C": "Baş Draft: 10.45 m Kıç Draft: 10.75 m",
+        "D": "Baş Draft: 10.43 m Kıç Draft: 10.65 m",
+        "E": "Baş Draft: 10.48 m Kıç Draft: 10.72 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_174_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 337,
+      "konu": "Trim Hesapları",
+      "soru_metni": "108 metre boyundaki bir geminin draftları başta 5,90 m kıçta 6,25 m dir. Geminin yüzme merkezi gemi ortasında ve MCT 120 tonmetredir. Bu gemide 150 ton ağırlık başa doğru 20 metre yer değiştirirse yeni draftlar ne olur?",
+      "secenekler": {
+        "A": "Baş draft 6,125 m Kıç draft 6,055 m",
+        "B": "Baş draft 5,875 m Kıç draft 6,375 m",
+        "C": "Baş draft 6,275 m Kıç draft 5,975 m",
+        "D": "Baş draft 6,025 m Kıç draft 6,125 m",
+        "E": "Baş draft 6,075 m Kıç draft 6,175 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_174_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 338,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Boyu 160 m olan ve Başta 7,60 Kıçta 7,80 m su çeken bir gemide F noktası gemi ortasının 3 metre gerisindedir. Bu gemide gemi ortasının 60 metre önünde bulunan bir tankından gemi ortasının 60 metre gerisinde bulunan bir tankına 100 ton balast transfer edilirse geminin yeni draftları ne olur? MCT 1 cm = 240 tonmetre/cm dir.",
+      "secenekler": {
+        "A": "Baş Draft = 7,34 m Kıç Draft = 8,04 m",
+        "B": "Baş Draft = 7,25 m Kıç Draft = 8,25 m",
+        "C": "Baş Draft = 7,52 m Kıç Draft = 8,02 m",
+        "D": "Baş Draft = 7,46 m Kıç Draft = 7,96 m",
+        "E": "Baş Draft = 7,70 m Kıç Draft = 8,10 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_175_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 339,
+      "konu": "Trim Hesapları",
+      "soru_metni": "200 m boyundaki bir geminin draftları başta 11,80 m kıçta 13,80 m dir. Geminin dönme merkezi F gemi ortasından 3 m kıçtadır ve MCT 1cm 280 tonmetredir. Bu gemide 550 ton ağırlık başa doğru 30 m yer değiştirirse yeni draftlar ne olmalıdır?",
+      "secenekler": {
+        "A": "Baş draft 12,10 m Kıç draft 13,73 m",
+        "B": "Baş draft 12,20 m Kıç draft 13,90 m",
+        "C": "Baş draft 12,20 m Kıç draft 13,61 m",
+        "D": "Baş draft 12,00 m Kıç draft 13,41 m",
+        "E": "Baş draft 12,10 m Kıç draft 13,51 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_175_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 340,
+      "konu": "Trim Hesapları",
+      "soru_metni": "158 m boyundaki bir geminin draftları başta 8.80 m kıçta 10.25 m dir. Geminin dönme merkezi F gemi ortasından 3 m kıçtadır. MCT 220 tonmetredir. Bu gemide 250 ton ağırlık başa doğru 30 m yer değiştirirse yeni draftlar ne olur?",
+      "secenekler": {
+        "A": "Baş draft 9.12 m Kıç draft 10.23 m",
+        "B": "Baş draft 8.97 m Kıç draft 10.08 m",
+        "C": "Baş draft 9.24 m Kıç draft 10.35 m",
+        "D": "Baş draft 9.35 m Kıç draft 10.46 m",
+        "E": "Baş draft 9.52 m Kıç draft 10.63 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_175_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 341,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmeler arası boyu LBP = 150 m olan bir geminin baş draftı df = 6 m, kıç draftı da = 7 m dir. Bu gemide 65 tonluk bir yük 22 m yer değiştirerek 2 numaralı ambardan 3 numaralı ambara konulmuştur. LCF = +2,5 m ( mastori gerisinde ) MCT =105 ton-m olduğuna göre geminin yeni trimi ile baş ve kıç draftlarını bulunuz.",
+      "secenekler": {
+        "A": "Trim = 1,333 m df = 5,73 m da = 7,063 m",
+        "B": "Trim = 0,933 m df = 6,03 m da = 6,963 m",
+        "C": "Trim = 1,233 m df = 5,83 m da = 7,063 m",
+        "D": "Trim = 2,013 m df = 6,83 m da = 8,843 m",
+        "E": "Trim = 1,136 m df = 5,93 m da = 7,066 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_176_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 342,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmelerarası boyu 120 m. olan bir gemi başta 460 cm, kıçta 660 cm draftlarında yüzmektedir. LCF, mastorinin 3 m. baş tarafındadır. MCT si 150 ton.m dir. No:1 ambardan alınan 100 tonluk bir yük kıça doğru 75 m transfer edilmiştir. Yeni draftlar ne olur?",
+      "secenekler": {
+        "A": "dF: 446,25 cm, dA: 696,25 cm",
+        "B": "dF: 436,25 cm, dA: 686,25 cm",
+        "C": "dF: 406,25 cm, dA: 656,25 cm",
+        "D": "dF: 426,25 cm, dA: 666,25 cm",
+        "E": "dF: 416,25 cm, dA: 666,25 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_176_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 343,
+      "konu": "Trim Hesapları",
+      "soru_metni": "LBP = 140 metre olan bir geminin baş ve kıç dikmelerdeki draftları, dF = 4,70 metre, dA = 6,40 metredir. LCF gemi ortasından 2.0 metre başa doğrudur. Gemide mevcut 200 tonluk yük, kıç taraftan baş tarafa doğru 60 metre şift edilecektir. MCT 1cm = 120 t.m olduğuna göre yeni draftlar ne olur?",
+      "secenekler": {
+        "A": "dF = 5.186 metre dA = 5.885 metre",
+        "B": "dF = 5.200 metre dA = 5.900 metre",
+        "C": "dF = 5.216 metre dA = 5.916 metre",
+        "D": "dF = 5.226 metre dA = 5.926 metre",
+        "E": "dF = 5.316 metre dA = 6.016 metre"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_176_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 344,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmeler arası boyu 100 m olan bir geminin yüzme merkezi (F) gemi vasatından 2 m baş taraftadır. Yük transferinden sonra gemide 50 cm başa trim değişikliği olmuştur. Geminin transferden sonra baş draftı ne kadar artmıştır?",
+      "secenekler": {
+        "A": "24 cm",
+        "B": "23 cm",
+        "C": "28 cm",
+        "D": "26 cm",
+        "E": "25 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_177_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 345,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 7.60 m, Kıçta 8.80 m su çeken bir geminin F noktası gemi ortasındadır. F noktasının 30 m önüne 60 ton yük yüklenirse geminin yeni draftları ne olur? ( TPC : 20 ton, MCT 1cm = 180 ton metre )",
+      "secenekler": {
+        "A": "Baş: 7.62 m Kıç: 8.72 m",
+        "B": "Baş: 7.70 m Kıç: 8.70 m",
+        "C": "Baş: 7.64 m Kıç: 8.64 m",
+        "D": "Baş: 7.68 m Kıç: 8.78 m",
+        "E": "Baş: 7.50 m Kıç: 6.50 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_178_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 346,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir gemide baş draft 4 m, kıç draft 6 m okunmuştur. No.2 F/O tankı mastoriden 20 metre baş taraftadır. Bu tanka 300 ton yakıt alınmıştır. Mastoriden 80 metre kıçta bulunan FW tankına ise 80 ton su alınmıştır. TPC si 12,5 ton MCT si 80 tonm, F noktası gemi ortasında ve LBP si 115 metre olduğuna göre son draftlar ne kadardır?",
+      "secenekler": {
+        "A": "Baş draft 440,4 cm kıç draft 620,4 cm",
+        "B": "Baş draft 420,5 cm kıç draft 510,2 cm",
+        "C": "Baş draft 427,9 cm kıç draft 632,9 cm",
+        "D": "Baş draft 280,3 cm kıç draft 625,1 cm",
+        "E": "Baş draft 300,6 cm kıç draft 500,7 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_178_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 347,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta: 4.8 m Kıçta: 6.5 m su çeken bir gemide F noktası gemi ortasındadır. Bu gemiye aşağıda gösterilen yükler yüklenmiştir. No:1 Ambar 1200 ton Ortadan mesafe 30 m başa No:2 Ambar 2300 ton Ortadan mesafe 6 m başa No:3 Ambar 1500 ton Ortadan mesafe 20 m kıça TPC = 50 ton, MCT 1cm = 252 ton metre olduğuna göre bu yükleme sonunda baş ve kıç draftları hesaplayınız.",
+      "secenekler": {
+        "A": "Baş D: 5.38 m Kıç D: 6.00 m",
+        "B": "Baş D: 5.24 m Kıç D: 7.94 m",
+        "C": "Baş D: 6.48 m Kıç D: 7.18 m",
+        "D": "Baş D: 5.50 m Kıç D: 7.20 m",
+        "E": "Baş D: 6.19 m Kıç D: 7.10 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_179_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 348,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 6,70 m Kıçta 7,90 m su çeken gemiye aşağıdaki yükler yüklenmiştir. Ambar No Ağırlık Gemi ortasından mesafe 1 500 ton 25 metre başa 2 1200 ton 9 metre başa 3 700 ton 15 metre kıça F noktası gemi ortasında ve TPC = 15 ton/cm birim trim moment (MCT 1 cm) = 90 tonmetre/cm olduğuna göre sonuç draftları ve trimi hesaplayınız.",
+      "secenekler": {
+        "A": "Trim = 0,22 m Baş draft = 9,01 m Kıç draft = 8,79 m",
+        "B": "Trim = 1,20 m Baş draft = 8,80 m Kıç draft = 10,00 m",
+        "C": "Trim = 0,80 m Baş draft = 7,80 m Kıç draft = 8,60 m",
+        "D": "Trim = 0,40 m Baş draft = 8,20 m Kıç draft = 8,60 m",
+        "E": "Trim = 0,50 m Baş draft = 8,25 m Kıç draft = 8,75 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_179_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 349,
+      "konu": "Trim Hesapları",
+      "soru_metni": "90 m. boyunda, başta 4,5 m. kıçta 5 m. su çeken bir geminin yüzme merkezi F gemi ortasından 1,5 m geridedir. Bu gemi için TPC = 10 ton, MCT 1 cm = 120 t.m.dir. Geminin orta noktasından başa doğru 14 m. uzaklığa 450 ton yük yüklenirse geminin yeni baş draftı ne olacaktır?",
+      "secenekler": {
+        "A": "5,25",
+        "B": "6,20",
+        "C": "5,16",
+        "D": "5,45",
+        "E": "5,10"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_180_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 350,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmeler arası boyu 120 m olan bir gemide F yüzme merkezi kıç dikmeden itibaren 59 metre uzaklıktadır. Bu gemiye mastoriden 1 metre kıç tarafa 150 ton ağırlık yüklenirse trim değişikliği ne kadar olur? (MCT = 75 tonm.)",
+      "secenekler": {
+        "A": "1,8 m",
+        "B": "1,5 m",
+        "C": "1 m",
+        "D": "0 m",
+        "E": "2 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_180_img_0.png",
+      "zorluk": "orta"
+    }
+  ]
+}

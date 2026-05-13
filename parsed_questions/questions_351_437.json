@@ -1,0 +1,1494 @@
+{
+  "paket": {
+    "id": "stab_2024_02",
+    "baslik": "Şubat 2024 Stabilite",
+    "toplam_soru": 87,
+    "konular": [
+      "GHM = VHM/SF",
+      "Starya Süresi",
+      "Trim Hesapları",
+      "Yatma Açısı"
+    ]
+  },
+  "sorular": [
+    {
+      "soru_no": 351,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 9.20 m, Kıçta 10.20 m su çeken bir gemide F noktası gemi ortasındadır. Bu gemiden aşağıda gösterilen yükler boşaltılırsa geminin yeni draftları ne olur? No: 1 Ambar 1500 ton Ortadan mesafe: 35 m Başa No: 2 Ambar 3500 ton Ortadan mesafe: 12 m Başa No: 3 Ambar 2500 ton Ortadan mesafe: 30 m Kıça ( TPC=50 ton, Birim Trim Moment MCT1cm=390 tonmetre/cm dir )",
+      "secenekler": {
+        "A": "Baş Draft: 7.20 m Kıç Draft: 8.70 m",
+        "B": "Baş Draft: 7.30 m Kıç Draft: 8.80 m",
+        "C": "Baş Draft: 7.55 m Kıç Draft: 9.05 m",
+        "D": "Baş Draft: 7.45 m Kıç Draft: 8.95 m",
+        "E": "Baş Draft: 7.95 m Kıç Draft: 8.45 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_181_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 352,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta ve Kıçta 8.0 m. su çeken trimsiz bir gemiden aşağıdaki yükler boşaltılmış ve yüklenmiştir. Geminin TPC’si 25 ton ve birim trim momenti MCT1cm = 175 tonmetre/cm olduğuna göre sonuç draftları hesaplayınız. ( Not: F noktası gemi ortasındadır ) KOMPARTMANLAR AĞIRLIKLAR ORTADAN MESAFE Boşaltma: No: 1 Ambar 150 Ton 50 m \u0000 Başa Yükleme: No: 2 Ambar 100 Ton 40 m \u0000 Başa",
+      "secenekler": {
+        "A": "Baş : 7.80 m Kıç : 8.10 m",
+        "B": "Baş : 7.88 m Kıç : 8.08 m",
+        "C": "Baş : 7.75 m Kıç : 7.95 m",
+        "D": "Baş : 7.92 m Kıç : 8.15 m",
+        "E": "Baş : 7.85 m Kıç : 8.15 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_182_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 353,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir gemi uğradığı limanda 1 ve 3 nolu ambarlardan 400’er ton yük boşaltmış ve 2 ve 4 nolu ambarlara 800’er ton yük almıştır. Geminin limana varış draftları başta 5.5 metre, kıçta 6.5 metre ve deplasmanı ise 8500 tondur. Ambarların LCG’leri aşağıda verilmiştir. Geminin liman kalkışındaki yeni draftlarını bulunuz. ( MCT 1 cm: 150 tonmetre, TPC 25 ton olup gemi dönme noktası geminin ortasındadır ) KOMPARTMAN LCG No 1 ambar 45 m başa No 2 ambar 30 m başa No.3 ambar 20 m kıça No 4 ambar 55 m kıça",
+      "secenekler": {
+        "A": "Baş = 4.24 m Kıç = 6.52 m",
+        "B": "Baş = 4.82 m Kıç = 7.82 m",
+        "C": "Baş = 5.35 m Kıç = 7.53 m",
+        "D": "Baş = 6.45 m Kıç = 7.50 m",
+        "E": "Baş = 4.75 m Kıç = 6.85 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_182_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 354,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Boyu 100 metre olan bir geminin draftları başta 3.0 m kıçta 4.3 m ve TPC 10 ton ve MCT 1 cm 120 ton m.dir. Yüzme merkezi (F) gemi ortasından 3 metre geridedir. Eğer bu geminin ortasından 24 metre başa 60 ton yük yüklenirse ve gemi ortasından 12 m kıçtan 40 ton çıkarılırsa bu geminin yeni draftları ne olur?",
+      "secenekler": {
+        "A": "Baş 3.101 m Kıç 4.241 m",
+        "B": "Baş 2.645 m Kıç 4.452 m",
+        "C": "Baş 3.015 m Kıç 5.225 m",
+        "D": "Baş 4.453 m Kıç 4.954 m",
+        "E": "Baş 5.950 m Kıç 6.750 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_183_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 355,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 5,30 m Kıçta 6,20 m su çeken bir geminin limana trimsiz girebilmesi için gemi ortasının 20 metre gerisinden bulunan bir tankından gemi ortasının 25 metre önünde bulunan bir tankına kaç ton balast transfer edilmelidir? ( Birim trim moment (MTC 1 cm) = 135 tonmetre/cm, Geminin dönme merkezi (F) gemi ortasındadır )",
+      "secenekler": {
+        "A": "180 ton",
+        "B": "245 ton",
+        "C": "270 ton",
+        "D": "300 ton",
+        "E": "350 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_184_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 356,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 7,20 m Kıçta 7,80 m su çeken bir geminin limana trimsiz girebilmesi için gemi ortasının 30 m gerisinde bulunan bir tankından gemi ortasının 20 m önünde bulunan bir tankına kaç ton balast transfer edilmelidir? F noktası gemi ortasında ve MCT 1 cm = 120 tonmetre/cm dir.",
+      "secenekler": {
+        "A": "144 ton",
+        "B": "162 ton",
+        "C": "210 ton",
+        "D": "185 ton",
+        "E": "200 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_184_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 357,
+      "konu": "Trim Hesapları",
+      "soru_metni": "LBP = 100 metre olan bir geminin dikmelerdeki draftları dF = 5.00 metre dA = 6.60 metredir. LCF tam gemi ortasındadır. No.1 yakıt tankının LCG’si gemi ortasından 40 metre başa doğru, No.2 yakıt tankının LCG’si gemi ortasından 20 metre kıça doğrudur. MCT 1cm = 120 ton m dir. Kıç draftın 6.00 metre olması için No.2 yakıt tankından No.1 yakıt tankına kaç ton yakıt transfer edilmelidir?",
+      "secenekler": {
+        "A": "200 ton",
+        "B": "160 ton",
+        "C": "220 ton",
+        "D": "240 ton",
+        "E": "180 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_185_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 358,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir geminin baş draftı 7.5 m, kıç draftı 8.5 m, MCT si 160 tonm, TPC si 20 ton ve F noktası gemi ortasındadır. Geminin 40 cm kıça trimli sefere çıkabilmesi için LCG si 60 m (vasattan başa doğru) olan No.1 balast tankına kaç ton balast alması gerekir?",
+      "secenekler": {
+        "A": "322 ton",
+        "B": "210 ton",
+        "C": "80 ton",
+        "D": "275",
+        "E": "160 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_185_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 359,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmeler arası boyu 140 m olan bir geminin baş draftı 8 m, kıç draftı 8,5 m dir. LCF 3 m (ortadan kıça doğru), MCT si 250 tonmetre, TPC si 25 tondur. Geminin trimsiz olması için LCG’si 65 m (ortadan başa doğru) olan tankına kaç ton balast alması gerekir?",
+      "secenekler": {
+        "A": "217,9 ton",
+        "B": "192,8 ton",
+        "C": "90,5 ton",
+        "D": "305,6 ton",
+        "E": "183,8 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_186_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 360,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Başta 11.20 m, Kıçta 12.00 m su çeken bir geminin limana trimsiz girebilmesi için, LCG’si + 20 m olan bir tankından LCG’si - 95 m olan tankına kaç ton balast transfer etmesi gerekir ve bu operasyondan sonra geminin draftları ne olur? Verilen bilgiler; LBP = 200 m, MCT 1cm = 210 tonmetre/cm, LCF = +5 m",
+      "secenekler": {
+        "A": "146 ton, 11,62 m",
+        "B": "215 ton, 12,00 m",
+        "C": "140 ton, 11,62 m",
+        "D": "182 ton, 11,82 m",
+        "E": "146 ton, 11,99 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_186_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 361,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Kıça 36 cm trimli bir gemide geri kalan 500 tonluk yük gemi vasatının 20 m ön tarafa istiﬂendiğinde geminin trimsiz olduğu gözlenmiştir. Geminin yüzme merkezinin vasattan mesafesi ne kadardır? (Gemiye ait bilgiler: Boy 100 m, TPC si 25 ton, MCT’si 250 tonm)",
+      "secenekler": {
+        "A": "Vasattan 2 m başta",
+        "B": "Vasatta",
+        "C": "Vasattan 3 m başta",
+        "D": "Vasattan 2 m kıçta",
+        "E": "Vasattan 3 m kıçta"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_186_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 362,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir geminin gerçek draftları; baş 7.40 m, kıç 8.40 m ve dikmeler arası boyu 150 m dir. LCF gemi ortasından 3.00 m başa doğrudur. Bu geminin LCF deki draftı nedir?",
+      "secenekler": {
+        "A": "7.88 m",
+        "B": "7.94 m",
+        "C": "7.86 m",
+        "D": "7.92 m",
+        "E": "7.90 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_187_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 363,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir geminin baş draftı 7.40 m, kıç draftı 8,40 m dir. Dikmeler arası boyu 150 m, LCF si gemi ortasından 1,50 m başa olduğuna göre düzeltilmiş ortalama draft aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "7,89 m",
+        "B": "7,92 m",
+        "C": "7,88 m",
+        "D": "7,94 m",
+        "E": "7,86 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_187_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 364,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Bir geminin baş ve kıç dikmelerdeki düzeltilmiş draftları Baş = 7,40 m Kıç = 8,40 m ve LBP = 150 m dir. LCF gemi ortasından 3.00 metre kıça doğrudur. Bu geminin LCF deki draftı nedir?",
+      "secenekler": {
+        "A": "7.84 m",
+        "B": "7.92 m",
+        "C": "7.90 m",
+        "D": "7.87 m",
+        "E": "7.88 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_187_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 365,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Yükleme sonunda deplasmanı 27000 ton olan bir geminin tüm ağırlıklarının boyuna toplam momenti 106357,5 tonmetre kıçadır. Ortalama draftı 9,86 m olan bu gemide LCB 2,54 m kıç taraftadır. F yüzme merkezi tam mastoride ve MCT 378 tonmetre olduğuna göre geminin son draftları ne kadardır?",
+      "secenekler": {
+        "A": "Baş draft 9.36 m kıç draft 10.36 m",
+        "B": "Baş draft 9.56 m kıç draft 10.56 m",
+        "C": "Baş draft 10.36 m kıç draft 9.36 m",
+        "D": "Baş draft 9.50 m kıç draft 9.80 m",
+        "E": "Baş draft 10.00 m kıç draft 10.36 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_188_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 366,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmeler arası boyu 180 m ve boş ağırlığı 7560 ton olan bir geminin boş LCG’si +7,65 m dir. Bu gemiye aşağıda gösterilen yükler yüklenmiş ve yükleme sonunda: Mean Draft= 9,15 m LCF = 0 LCB = +4,45 m ve MCT 1 cm = 540 tonmetre/cm olarak tespit edilmiştir. Yükleme sonundaki trim ile baş ve kıç draftları hesaplayınız. No: 1 Ambar 1200 ton LCG -40,12 m No: 2 Ambar 4200 ton LCG -8,90 m No: 3 Ambar 1500 ton LCG 50,70 m",
+      "secenekler": {
+        "A": "Trim = 0,36 m Baş Draft = 8,97 m Kıç Draft = 9,33 m",
+        "B": "Trim = 0,36 m Baş Draft = 9,02 m Kıç Draft = 9,38 m",
+        "C": "Trim = 0,30 m Baş Draft = 9,00 m Kıç Draft = 9,30 m",
+        "D": "Trim = 0,40 m Baş Draft = 8,95 m Kıç Draft = 9,35 m",
+        "E": "Trim = 0,46 m Baş Draft = 9,04 m Kıç Draft = 9,50 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_188_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 367,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmelerarası boyu 200 m ve boş ağırlığı 9500 ton olan bir gemiye aşağıdaki yükler yüklenmiştir. Kompartmanlar Ağırlıklar LCG Su 250 ton 87.16 Yakıt 1250 ton -15.71 No:1 Ambar 3500 ton -55.18 No:3 Ambar 4200 ton -33.65 No:5 Ambar 4250 ton 29.62 No:7 Ambar 4050 ton 52.60 Geminin boş LCG’si 10.50 m ve yüklemeden sonra deplasman karşılığı draft 9.86 m olarak bulunmuştur. Ayrıca stabilite kitaplarından : LCB = 2.54, LCF= -0.45, MCT 1cm= 378 Tonmetre/cm olduğu tespit edilmiştir. Bu geminin toplam trim momentini bulunuz.",
+      "secenekler": {
+        "A": "98244 Ton metre başa",
+        "B": "100026.5 Ton metre kıça",
+        "C": "106357.5 Ton metre kıça",
+        "D": "112987 Ton metre başa",
+        "E": "125021 Ton metre kıça"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_189_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 368,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Yükleme işlemlerinden sonra oluşan Trim değişikliği aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "2.00 m",
+        "B": "1.22 m",
+        "C": "1.36 m",
+        "D": "2.40 m",
+        "E": "1.00 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_189_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 369,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Geminin okunacak en son baş ve kıç draftları aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Baş draft = 9,25 m Kıç draft = 10,47 m",
+        "B": "Baş draft = 10,47 m Kıç draft = 9,25 m",
+        "C": "Baş draft = 9,36 m Kıç draft = 10,36 m",
+        "D": "Baş draft = 9,75 m Kıç draft = 10,15 m",
+        "E": "Baş draft = 8,45 m Kıç draft = 11,26 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_190_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 370,
+      "konu": "Trim Hesapları",
+      "soru_metni": "Dikmeler arası boyu 197 metre ve boş ağırlığı 10607 ton olan bir gemiye aşağıdaki yükler yüklenmiştir. KOMPARTMANLAR AĞIRLIKLAR LCG Su 250 ton 87,16 Yakıt 1268 ton -15,71 No: 1 Ambar 5151 ton -75,18 No: 3 Ambar 6433 ton -33,65 No: 5 Ambar 6511 ton 9,62 No: 7 Ambar 6044 ton 52,60 Geminin boş LCG’si 11,94 m ve yüklemeden sonra deplasman karşılığı draft 10,86 m olarak bulunmuştur. Ayrıca stabilite kitaplarından LCB = -4,58 LCF = -0,72 MCT 1 cm 728,5 tonmetre/cm olduğu tespit edilmiştir. Trim ile baş ve kıç draftları hesaplayınız.",
+      "secenekler": {
+        "A": "Trim = 0,67 m Kıçlı Baş Draft = 10,36 m Kıç draft = 11,03 m",
+        "B": "Trim = 0,98 m Kıçlı Baş Draft = 10,37 m Kıç draft = 11,35 m",
+        "C": "Trim = 0,80 m Kıçlı Baş Draft = 10,26 m Kıç draft = 11,06 m",
+        "D": "Trim = 0,57 m Kıçlı Baş Draft = 10,36 m Kıç draft = 10,93 m",
+        "E": "Trim = 0,50 m Kıçlı Baş Draft = 10,36 m Kıç draft = 10,86 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Trim Hesapları konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_190_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 371,
+      "konu": "GHM = VHM/SF",
+      "soru_metni": "Tahıl yükleyen bir gemide tahılın yatırıcı momenti (GHM) aşağıdaki değerlerden hangisi olmalıdır?",
+      "secenekler": {
+        "A": "GHM büyüktür AHM",
+        "B": "GHM küçüktür AHM",
+        "C": "GHM küçüktür VHM",
+        "D": "GHM büyüktür VHM",
+        "E": "GHM eşittir VHM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GHM = VHM/SF konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_193_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 372,
+      "konu": "GHM = VHM/SF",
+      "soru_metni": "Tahıl yatırma momenti (Grain Heeling Moment) aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Yükün üzerindeki boş hacmin, şekil ve yer değiştirmesinden ortaya çıkan momenttir",
+        "B": "Ambarlardaki tahılın boyuna hareket etmesi sonucu oluşan momenttir",
+        "C": "Ambarlardaki dökme tahıl yükünün enine hareket etmesi sonucu oluşan momenttir",
+        "D": "Ambarlardaki dökme tahıl yükünün boyuna hareket etmesi sonucu kümelenme açısı sinüsünün hareket edilen mesafeyle çarpımı sonucu elde edilen momenttir",
+        "E": "Yukarıdaki şıkların hepsi yanlıştır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GHM = VHM/SF konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_193_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 373,
+      "konu": "GHM = VHM/SF",
+      "soru_metni": "Tahıl yüklemesi yapmakta olan bir geminin 4 numaralı ambarı tamamen doldurulmuştur. Bu ambarın dökme yük kapasitesi 4800 m3 yükün istif faktörü 1.200 m3/ton, düzeltilmiş V.H.M değeri 960 m4 ise G.H.M değeri ne kadardır?",
+      "secenekler": {
+        "A": "800 tonm",
+        "B": "1360 tonm",
+        "C": "1408 tonm",
+        "D": "1940 tonm",
+        "E": "2160 tonm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GHM = VHM/SF konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_194_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 374,
+      "konu": "GHM = VHM/SF",
+      "soru_metni": "A gemisine stowage faktörü 1.2 m3 dökme tahıl yüklemektedir. Geminin deplasmanı 27000 dur. Yapılan hesaplamalar sonucu VHM=18320.40 tonmetre, Başlangıç GM=2.70 m olarak tespit edilmiştir. Bu geminin GHM’ini bulunuz.",
+      "secenekler": {
+        "A": "14475",
+        "B": "15267",
+        "C": "16650",
+        "D": "16860",
+        "E": "17100"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GHM = VHM/SF konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_194_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 375,
+      "konu": "GHM = VHM/SF",
+      "soru_metni": "Bir gemi ambarının Grain kapasitesi 5000 metreküp’tür. Bu ambara istif faktörü 1,500 m3 / ton olan tahıl yükleniyor ve ambar tam yarı seviyesine kadar doluyor. Bu durumda düzeltilmiş V.H.M değeri ilgili cetvelinden 4000 m4 olarak okunuyor ise G.H.M değeri nedir?",
+      "secenekler": {
+        "A": "2500 t.m",
+        "B": "2666,66 t.m",
+        "C": "3200 t.m",
+        "D": "3333,33 t.m",
+        "E": "4250 t.m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GHM = VHM/SF konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_194_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 376,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Yolcu gemileri için manevra esnasında geminin en fazla kaç derece yatmasına müsaade edilir?",
+      "secenekler": {
+        "A": "5 derece",
+        "B": "15 derece",
+        "C": "18 derece",
+        "D": "10 derece",
+        "E": "22 derece"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_196_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 377,
+      "konu": "Yatma Açısı",
+      "soru_metni": "I = fribord, II = gemi genişliği, III = gemi boyu Gemilerde devrilme açısının büyüklüğünü yukarıdakilerden hangisi tayin eder?",
+      "secenekler": {
+        "A": "I",
+        "B": "II",
+        "C": "I ve II",
+        "D": "II ve III",
+        "E": "I ve III"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_196_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 378,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Tahıl yüklemesi yapan bir geminin düzeltilmiş G.H.M değeri 16400 tonm dir. Geminin deplasmanı 35816 ton GM: 3.49 m olan bu gemi tahıl kayması nedeniyle kaç derece meyil yapar?",
+      "secenekler": {
+        "A": "7.5°",
+        "B": "8.0°",
+        "C": "8.5°",
+        "D": "9.0°",
+        "E": "9.5°"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_197_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 379,
+      "konu": "Yatma Açısı",
+      "soru_metni": "A gemisi dökme tahıl yüklemektedir. Geminin boş ağırlığı 5000 ton, geminin aldığı yük 20000 ton, gemideki Tatlı su 100 ton, Yakıt 250 tondur. Yapılan hesaplamalar sonucu GHM = 8000 tonmetre, başlangıç GM = 1,50 m olarak tespit edilmiştir. Bu bilgiler ışığında SOLAS’a uygunluk açısından bu geminin yatma açısını hesaplayınız.",
+      "secenekler": {
+        "A": "6,5°",
+        "B": "12°",
+        "C": "8°",
+        "D": "9°",
+        "E": "10°"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_197_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 380,
+      "konu": "Yatma Açısı",
+      "soru_metni": "A gemisi dökme tahıl yüklemektedir. Geminin boş ağırlığı 6750 ton, geminin aldığı yük = 18150 ton, gemideki tatlı su 50 ton, yakıt 200 ton dur. Yapılan hesaplamalar sonucu GHM=9930 tonmetre, başlangıç GM=2.50 m olarak tespit edilmiştir. Bu bilgiler ışığında SOLAS’a uygunluk açısından bu geminin yatma açısını hesaplayın.",
+      "secenekler": {
+        "A": "6.5\u0000",
+        "B": "7.5\u0000",
+        "C": "8\u0000",
+        "D": "9\u0000",
+        "E": "10\u0000"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_197_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 381,
+      "konu": "Yatma Açısı",
+      "soru_metni": "A gemisine stowage faktörü 1.2 m3 dökme tahıl yüklenmektedir. Geminin deplasmanı 27000 dur. Yapılan hesaplamalar sonucu VHM=18320.40 tonmetre, Başlangıç GM=2.70 m olarak tespit edilmiştir. Bu bilgiler ışığında SOLAS’a uygunluk açısından bu geminin yatma açısını hesaplayınız.",
+      "secenekler": {
+        "A": "9\u0000",
+        "B": "10\u0000",
+        "C": "11\u0000",
+        "D": "12\u0000",
+        "E": "13\u0000"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_198_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 382,
+      "konu": "Yatma Açısı",
+      "soru_metni": "İstif faktörü S.F = 1,2 m3/mt olan tahıl taşıyan bir geminin deplasmanı 27000 ton ve denge yüksekliği 1,5 metredir. Ambarlarin toplam VHM’si = 5936,4 m4 dir. Bu gemide tahıl kayması olursa, gemide kaç derecelik kalıcı meyil açısı oluşur? Bu açı SOLAS kurallarına uygunmudur? c",
+      "secenekler": {
+        "A": "5° Uygundur",
+        "B": "6° Uygun değildir",
+        "C": "7° Uygundur",
+        "D": "12° Uygundur",
+        "E": "7° Uygun değildir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_198_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 383,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 8000 ton, metasentır yüksekliği (GM) si 0.533 m olan bir gemide 80 tonluk bir yük 10.668 m yatay olarak yer değiştirdiği zaman gemi kaç derece meyil yapar?",
+      "secenekler": {
+        "A": "13,5 derece",
+        "B": "11,3 derece",
+        "C": "10,1 derece",
+        "D": "12,6 derece",
+        "E": "14,2 derece"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_198_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 384,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 4000 ton olan bir gemide KG 6.6 m, KM 7.6 m’dir. Bu gemide 60 tonluk bir yük enine 8 m şifting edilirse bu operasyon gemiyi kaç derece yatırır?",
+      "secenekler": {
+        "A": "6,56°",
+        "B": "8,45°",
+        "C": "6,84°",
+        "D": "4,75°",
+        "E": "5,60°"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_199_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 385,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 9000 ton olan bir gemide KG 8.6 m, KM 10.6 m’dir. Bu gemide 90 tonluk bir yük enine 12 m şifting edilirse bu operasyon gemiyi kaç derece yatırır?",
+      "secenekler": {
+        "A": "4.56°",
+        "B": "2.45°",
+        "C": "3.43°",
+        "D": "4.76°",
+        "E": "5.69°"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_199_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 386,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasman 6000 ton, KM=7,3 Metre, KG=6,7 Metredir. Bu gemide 60 tonluk ağırlık 12 metre sancağa şifting edilirse yatma açısı ne olur?",
+      "secenekler": {
+        "A": "9,3°",
+        "B": "7,5°",
+        "C": "11,30°",
+        "D": "10,51°",
+        "E": "8,26°"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_199_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 387,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 10000 ton olan bir gemide GM=80 cm dir. Yüklemelerin sonunda gemide 2° sancak tarafa meyil oluşmuştur. Geminin dik konumda sefere çıkabilmesi için ağırlığı 27.2 ton olan güvertesindeki bir konteyner bulunduğu yerden gemi eni istikametinde kaç metre yer değiştirmelidir?",
+      "secenekler": {
+        "A": "4,8 m",
+        "B": "6,5 m",
+        "C": "8 m",
+        "D": "10,3 m",
+        "E": "12 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_200_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 388,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 10000 ton olan bir gemide GM=80 cm dir. Yüklemelerin sonunda 1,56° sancak tarafa meyil oluşmuştur. Geminin dik konumda sefere çıkabilmesi için ağırlığı 27,2 ton olan güvertesindeki bir konteyner bulunduğu yerden gemi eni istikametinde kaç metre yer değiştirmelidir?",
+      "secenekler": {
+        "A": "4,8 m",
+        "B": "6,5 m",
+        "C": "8 m",
+        "D": "10,3 m",
+        "E": "12 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_200_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 389,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 14000 ton, genişliği 20 m olan bir gemide KM 7.90 m ve KG 6.00 m dir. Bu gemiyi sancak tarafa 5° yatırmak için 200 tonluk bir yük kemere istikametinde sancak tarafa kaç metre kaydırılmalıdır? ( tan 5° = 0,08748 )",
+      "secenekler": {
+        "A": "11,63 m",
+        "B": "13,46 m",
+        "C": "14,48 m",
+        "D": "15,80 m",
+        "E": "16,20 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_200_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 390,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Yüklemelerden sonra bir gemi 5° iskele tarafa meyil yapmıştır. Geminin meyilini düzeltmek için iskele taraftan 10 m sancak tarafa ne kadar yük aktarılmalıdır? (Deplasman 6000 ton, KM 7.8 m, KG 7.0 m)",
+      "secenekler": {
+        "A": "32 ton",
+        "B": "82 ton",
+        "C": "62 ton",
+        "D": "72 ton",
+        "E": "42 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_201_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 391,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Deplasmanı 8000 ton olan gemide 30 tonluk bir yük enine doğrultuda 12 m transfer edildiğinde gemide 3° meyil oluşmuştur. Geminin GM i ne kadardır? (tan 3°=0,0524)",
+      "secenekler": {
+        "A": "0.36 m",
+        "B": "0.56 m",
+        "C": "0.96 m",
+        "D": "1.22 m",
+        "E": "0.86 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_202_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 392,
+      "konu": "Yatma Açısı",
+      "soru_metni": "12000 ton deplasmanındaki bir geminin 5°meyilli durumda statik stabilite momenti 300 tonm.dir. Geminin ağırlık merkezinin kaide hattından yüksekliği (KG) 7.5 m olduğuna göre Metasentır noktasının kaide hattından (KM) yüksekliği kaç metre dir?",
+      "secenekler": {
+        "A": "6,565 m",
+        "B": "7,786 m",
+        "C": "0,287 m",
+        "D": "7,419 m",
+        "E": "7 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_202_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 393,
+      "konu": "Yatma Açısı",
+      "soru_metni": "Meyil deneyi yapmak üzere güvertesine 15 tonluk bir ağırlık konan gemide deplasman 3150 ton oluyor. Bu ağırlık enine doğrultuda 10 m hareket ettirildiğinde 8 m boyundaki bir sarkaç, 0,28 m sapma yaptığına göre meyil açısını bulunuz.",
+      "secenekler": {
+        "A": "4\u0000",
+        "B": "3\u0000",
+        "C": "2\u0000",
+        "D": "5\u0000",
+        "E": "1\u0000"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Yatma Açısı konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_202_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 394,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir gemi limanda 7500 ton yük alacaktır. Bu limandaki günlük yükleme miktarı 1500 tondur. Starya süresini hesaplayınız.",
+      "secenekler": {
+        "A": "4,8 saat",
+        "B": "15 saat",
+        "C": "2 gün",
+        "D": "4 gün",
+        "E": "5 gün"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_206_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 395,
+      "konu": "Starya Süresi",
+      "soru_metni": "300 m3 lük bir ambara toplam hacmi 240 m3 olan yük istif edildiği zaman ambarda yitik hacim ne kadar olur?",
+      "secenekler": {
+        "A": "%20",
+        "B": "%80",
+        "C": "%30",
+        "D": "%75",
+        "E": "%25"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_207_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 396,
+      "konu": "Starya Süresi",
+      "soru_metni": "Sandık ambalajlı bir parti yükün bir sandığı 0,204 m3 hacminde ve 120 kg ağırlığındadır. Bu yükün 325 tonu geminin 650 m3 balya kapasiteli bir kompartmanına istif edilmiş ve kompartman tümüyle dolmuştur. Anılan kompartmanın yitik hacim %’si (Broken Stowage) aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "% 0",
+        "B": "% 15",
+        "C": "% 10",
+        "D": "% 8",
+        "E": "% 30"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_207_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 397,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir gemi ambarının dökme yük kapasitesi 4640 m3,, balya kapasitesi 4580 m3 tür. Bu ambara istif faktörü 1,360 m3 / ton olan dökme taneli yükten maksimum kaç ton alınabilir?",
+      "secenekler": {
+        "A": "3411,76 ton",
+        "B": "3523,07 ton",
+        "C": "6032,00 ton",
+        "D": "5954,00 ton",
+        "E": "3074,96 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_208_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 398,
+      "konu": "Starya Süresi",
+      "soru_metni": "GRAIN kapasitesi = 4600 m3 BALE kapasitesi 4486 m3 olan bir ambar S.F (Stowage Factor) = 1,116 m3 ton olan dökme yük yüklendiğinde tamamen hab olmuştur. Dökme yük miktarı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "3847,34 ton",
+        "B": "3945,11 ton",
+        "C": "4121,86 ton",
+        "D": "5016,48 ton",
+        "E": "5063,60 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_208_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 399,
+      "konu": "Starya Süresi",
+      "soru_metni": "Deplasmanı 18420 ton olan bir geminin merkez ambarına istif faktörü 1.360 / m3 ton olan dökme yükten 2216 ton yüklediği zaman ambar tam doluyorsa bu ambarın dökme yük kapasitesi ne kadardır?",
+      "secenekler": {
+        "A": "1629,41 ton",
+        "B": "1692,14 ton",
+        "C": "3074,96 ton",
+        "D": "3612,08 ton",
+        "E": "3013,76 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_208_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 400,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir ambarın balya kapasitesi 4800 m3 tür. Bu ambara yitik hacmi %15 olan standart sandıklı yük yüklenecektir. Standart bir sandığın hacmi 0.5 m3 olduğuna göre ambara kaç adet sandık istiﬂenebilir?",
+      "secenekler": {
+        "A": "7840",
+        "B": "8014",
+        "C": "8100",
+        "D": "8160",
+        "E": "8240"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_209_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 401,
+      "konu": "Starya Süresi",
+      "soru_metni": "Aşağıda istif faktörü verilen yüklerden hangisi “Kübajlı Hacimli Yük” olarak değerlendirilir?",
+      "secenekler": {
+        "A": "0,4 m3 / ton",
+        "B": "0,6 m3 / ton",
+        "C": "0,9 m3 / ton",
+        "D": "1,0 m3 / ton",
+        "E": "1,6 m3 / ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_210_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 402,
+      "konu": "Starya Süresi",
+      "soru_metni": "Gladoralı bir gemide gladoranın PL’si (permissible load) 1,7 ton / m2 olarak verilmiştir. Anılan gladoraya istif faktörü 0,4 m3 / ton olan çuvallı yükten kaç m. yüksekliğe kadar yük alabilir?",
+      "secenekler": {
+        "A": "0.5 m",
+        "B": "3.08 m",
+        "C": "2.3 m",
+        "D": "0.68 m",
+        "E": "1.7 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_210_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 403,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir geminin gladorasına 375 ton homojen dökme yük alınıyor ve gladora tam dolduruluyor. Gladoranın genişliği 10 m, boyu 15 m ve yüksekliği 3 m olduğuna göre dökme yükün istif faktörü aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "1,226 m3/ton",
+        "B": "1,232 m3/ton",
+        "C": "1,246 m3/ton",
+        "D": "1,252 m3/ton",
+        "E": "1,200 m3/ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_210_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 404,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir dubanın boyu 30 m ve genişliği 10 m dir. Tatlı suda dubaya 1485 m3 dökme yük yüklendiğinde draftı 4.5 m artmıştır. Yükün istif faktörü ne kadardır?",
+      "secenekler": {
+        "A": "1,5 m3/ton",
+        "B": "1,2 m3/ton",
+        "C": "1,4 m3/ton",
+        "D": "1,3 m3/ton",
+        "E": "1,1 m3/ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_211_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 405,
+      "konu": "Starya Süresi",
+      "soru_metni": "Tatlı suda yüzen 75x10x4 m boyundaki dikdörtgen prizması şeklindeki bir dubanın ağırlığı 250 tondur. Bu dubaya 500 ton yük yüklenirse dubanın geriye ne kadar yüzme kapasitesi kalır?",
+      "secenekler": {
+        "A": "2250 ton",
+        "B": "2000 ton",
+        "C": "1500 ton",
+        "D": "1000 ton",
+        "E": "750 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_212_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 406,
+      "konu": "Starya Süresi",
+      "soru_metni": "Tatlı suda yüzen 75x10x4 m boyundaki dikdörtgen prizması şeklindeki bir dubanın ağırlığı 250 tondur. Bu dubaya 500 ton yük yüklenirse yeni draftı ne olur?",
+      "secenekler": {
+        "A": "1,50 m",
+        "B": "0,50 m",
+        "C": "2,00 m",
+        "D": "1,00 m",
+        "E": "1,75 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_213_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 407,
+      "konu": "Starya Süresi",
+      "soru_metni": "Boyutları 75x6x4 m olan kutu şeklindeki bir dubanın boş deplasmanı 180 tondur. Bu duba tatlı suda yüzerken içine 180 ton yük yüklenirse dubanın draftı ne kadar olur?",
+      "secenekler": {
+        "A": "0,8 m",
+        "B": "0,9 m",
+        "C": "1,2 m",
+        "D": "1,6 m",
+        "E": "1,7 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_213_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 408,
+      "konu": "Starya Süresi",
+      "soru_metni": "Boyu 32 m, genişliği 8 m, derinliği 4 m olan bir duba tatlı suda 512 ton deplasmanda yüzmektedir. Dubanın KG si 3 metredir. Dubanın draftını bulunuz.",
+      "secenekler": {
+        "A": "2.0 m",
+        "B": "3.0 m",
+        "C": "2.25 m",
+        "D": "1.50 m",
+        "E": "2.50 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_213_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 409,
+      "konu": "Starya Süresi",
+      "soru_metni": "Tatlı ve sakin suda yüzen dikdörtgenler prizması şeklindeki bir pontonun boyu, L=100 m, eni B=10 m, yüksekliği H=10 m olup, başta draft, df=1,80 m, kıçta draft, da=1,20 m’dir. Bu pontonun deplasmanı, trimi ve ortalama draftı ne kadardır?",
+      "secenekler": {
+        "A": "Δ = 10.000 ton, Trim = 0,60 m kıça, Mean Draft = 1,50 m",
+        "B": "Δ = 1.000 ton, Trim = 0,60 m kıça, Mean Draft = 1,50 m",
+        "C": "Δ = 15.000 ton, Trim = 0,60 m başa, Mean Draft = 1,50 m",
+        "D": "Δ = 20.000 ton, Trim = 0,60 m başa, Mean Draft = 1,50 m",
+        "E": "Δ = 1.500 ton, Trim = 0,60 m başa, Mean Draft = 1,50 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_214_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 410,
+      "konu": "Starya Süresi",
+      "soru_metni": "Dikdörtgen şeklindeki bir gemi A limanında 81000 ton deplasman ve 13.00 m draft ile trimsiz bulunmaktadır. Deplasman değeri aynı kalmak şartıyla gemi B limanında bulunursa draft değeri aşağıdakilerden hangisi olur? Liman Adı Deniz Suyu Yoğunluğu A 1010 kg/m3 B 1015 kg/m3 C 1020 kg/m3 D 1030 kg/m3",
+      "secenekler": {
+        "A": "12,03 m",
+        "B": "11,93 m",
+        "C": "12,60 m",
+        "D": "12,50 m",
+        "E": "12,93 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_214_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 411,
+      "konu": "Starya Süresi",
+      "soru_metni": "Dikdörtgen prizma şeklindeki bir dubanın ortalama draftı yoğunluğu 1.012 ton/m3 olan suda 4.5 m dir. Bu duba deniz suyuna geçtiğinde draftındaki değişim ne kadar olur?",
+      "secenekler": {
+        "A": "3 cm",
+        "B": "4 cm",
+        "C": "5 cm",
+        "D": "6 cm",
+        "E": "7 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_215_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 412,
+      "konu": "Starya Süresi",
+      "soru_metni": "Deplasmanı 24000 ton olan bir gemi yoğunluğu 1025 kg/m3 olan deniz suyunda yüzerken draftı 6.00 m dir. Bu gemi deniz suyu yoğunluğu 1015 kg/m3 olan deniz suyuna geçtiğinde draftı ne olur?",
+      "secenekler": {
+        "A": "6.06 m",
+        "B": "6.10 m",
+        "C": "6.12 m",
+        "D": "6.14 m",
+        "E": "6.16 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_215_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 413,
+      "konu": "Starya Süresi",
+      "soru_metni": "Boyu 20 m. genişliği 10 m. olan dikdörtgenler prizması şeklindeki bir duba yoğunluğu 1,010 ton/m3 olan bir suda yüzerken draftının 1,5 m. olduğu görülmüştür. Dubanın deplasmanı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "330 ton",
+        "B": "303 ton",
+        "C": "300 ton",
+        "D": "203 ton",
+        "E": "233 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_216_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 414,
+      "konu": "Starya Süresi",
+      "soru_metni": "50 m uzunluğunda ve 16 m genişliğinde olan dikdörtgen şeklindeki bir barcın deniz suyundaki (d=1,025 t/m3) su çekimi 4,5 m ise deplasman değeri aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "3690 ton",
+        "B": "3695 ton",
+        "C": "3700 ton",
+        "D": "3705 ton",
+        "E": "3685 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_216_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 415,
+      "konu": "Starya Süresi",
+      "soru_metni": "Standart deniz suyunda yüzmekte olan bir dubanın boyu 20 m, genişliği 8 m olup baş draftı 3 m, kıç draftı ise 2 m.dir Anılan dubanın deplasmanı ne kadardır?",
+      "secenekler": {
+        "A": "400 ton",
+        "B": "410 ton",
+        "C": "350 ton",
+        "D": "615 ton",
+        "E": "303 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_216_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 416,
+      "konu": "Starya Süresi",
+      "soru_metni": "Uzunluğu 15, genişliği 10 ve yüksekliği 15 m olan bir tank içerisinde özgül ağırlığı (SG) 0,85 olan sıvı bulunmaktadır. Tanktaki sıvının ölçülen iskandili 8 m olduğuna göre tankta bulunan sıvının miktarı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "346,50 Ton",
+        "B": "892,5 Ton",
+        "C": "1219,5 Ton",
+        "D": "1912,5 Ton",
+        "E": "1020 Ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_217_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 417,
+      "konu": "Starya Süresi",
+      "soru_metni": "Boyutları 6x4x8 (En*Boy*Yükseklik) olan bir tank aleç (ullage) miktarı 2 metreye kadar bağıl yoğunluğu 0.8 t/m3 olan yakıtla dolduruluyor. Tanka bu yakıttan kaç ton alınabilir?",
+      "secenekler": {
+        "A": "110.8",
+        "B": "115.2",
+        "C": "108",
+        "D": "38.4",
+        "E": "153.6"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_217_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 418,
+      "konu": "Starya Süresi",
+      "soru_metni": "Boyutları 20m*25m*10m en*boy*yükseklik ölçülerine sahip bir tankın içerisinde yoğunluğu 0.9 t/m3 olan yağlama yağı bulunmaktadır. Yağın aleç (ullage) değeri 1 metre olduğuna göre tank içinde kaç ton yağlama yağı vardır?",
+      "secenekler": {
+        "A": "4050 ton",
+        "B": "4500 ton",
+        "C": "5000 ton",
+        "D": "450 ton",
+        "E": "500 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_217_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 419,
+      "konu": "Starya Süresi",
+      "soru_metni": "20x24x10,5 metre boyutlarındaki prizmatik bir tanka izaﬁ yoğunluğu 0,84 t/m3 olan yakıt doldurulmuştur. Aleç (Ullage) 2,5 metre olduğunda tanktaki yakıtın ağırlığını bulunuz.",
+      "secenekler": {
+        "A": "3263,4 ton",
+        "B": "2260,5 ton",
+        "C": "3225,6 ton",
+        "D": "3621,2 ton",
+        "E": "1845,3 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_218_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 420,
+      "konu": "Starya Süresi",
+      "soru_metni": "Dolu bir tank 120 m3 su almaktadır. Bu tanka %2 genişleme payı bırakılıp bağıl yoğunluğu 0,84 olan yakıt yüklendiğinde kaç ton alır?",
+      "secenekler": {
+        "A": "67,86",
+        "B": "98,78",
+        "C": "87,67",
+        "D": "99,77",
+        "E": "89,69"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_218_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 421,
+      "konu": "Starya Süresi",
+      "soru_metni": "Tatlı suda deplasmanı 7000 ton olan bir gemi, yoğunluğu 1015 Kg/m³ olan bir suda aynı draftta iken deplasmanı ne olur?",
+      "secenekler": {
+        "A": "7115 ton",
+        "B": "7105 ton",
+        "C": "6895 ton",
+        "D": "7015 ton",
+        "E": "6896,5 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_218_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 422,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir gemi tatlı suda yüzerken draftı 6.5 m ve deplasmanı 4288 metrik tondur. Bu gemi bağıl yoğunluğu 1.015 olan bir suda aynı draftta yüzerse deplasmanı ne olur?",
+      "secenekler": {
+        "A": "4352,32",
+        "B": "4567,90",
+        "C": "5209,65",
+        "D": "5442,98",
+        "E": "6743,65"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_219_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 423,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir gemi 1010 Kg/m3 yoğunluklu bir sudan deniz suyuna geçiyor. Draft değişim miktarı 36 mm olarak tespit edilmiştir. TPC: 30 ton metre olduğuna göre bu geminin deplasmanını bulunuz.",
+      "secenekler": {
+        "A": "7200 ton",
+        "B": "7305 ton",
+        "C": "7450 ton",
+        "D": "7400 ton",
+        "E": "7500 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_219_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 424,
+      "konu": "Starya Süresi",
+      "soru_metni": "Yaz yükleme draftı 10.4 m olan bir geminin yaz deplasmanı 17.000 ton ve TPC 20.4 t/cm dir. Bu gemi kış bölgesinde 1.028 kg/m3 yoğunluğundaki bir suda 9.8 m draft ile yüzmektedir. Gemi bu durumda daha ne kadar yük alabilir? (TPC düzeltmesi ihmal edilecek)",
+      "secenekler": {
+        "A": "1051 ton",
+        "B": "1224 ton",
+        "C": "1513 ton",
+        "D": "1650 ton",
+        "E": "935 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_219_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 425,
+      "konu": "Starya Süresi",
+      "soru_metni": "Deplasmanı 10000 ton olan bir gemi, yükleme sonrası yoğunluğu 1.020 ton/m3 olan bir limandan hareket etmiştir. Limandan harekette vasat draftı 6.10 m olarak tespit edilmiştir. Gemi su yoğunluğu 1.010 ton/m3 olan tahliye limanına vardığında vasat draftının tekrar 6.10 m olduğu görülmüştür. Bu geminin tahliye limanına varış deplasmanı ne kadardır?",
+      "secenekler": {
+        "A": "9962 ton",
+        "B": "9810 ton",
+        "C": "9816 ton",
+        "D": "9901 ton",
+        "E": "9642 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_220_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 426,
+      "konu": "Starya Süresi",
+      "soru_metni": "Ekte deadweight (detveyt) cetveli verilen geminin tam yüklü durumdaki deadweight (detveyt) değeri 6250 tondur. Gemi üzerinde ise aşağıdakiler mevcuttur. IFO 200 mt MDO 80 mt FW 120 mt LO 10 mt Balast 2350 mt Sintine / Slaç 10 mt Constant 60 mt Bu gemi günde 15 ton IFO harcayarak 4 gün seyir yapıp yükleme limanına varacaktır. Seyirde günlük 4 ton FW harcadığı vardır. Ayrıca gemide toplam 30 mt basılamayan balast kaldığına göre, limanda tam yüke girecek ise kaç ton yük alabilir?",
+      "secenekler": {
+        "A": "5816 ton",
+        "B": "3500 ton",
+        "C": "4200 ton",
+        "D": "5965 ton",
+        "E": "8520 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_220_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 427,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir yükün 20°C deki yoğunluğu 0,8572 gr/cm3 ve Correction Factor 0,00103 gr/cm3 ise bu yükün 31.4°C deki yoğunluğunu bulunuz?",
+      "secenekler": {
+        "A": "0,84269 gr/cm3",
+        "B": "0,84546 gr/cm3",
+        "C": "0,85245 gr/cm3",
+        "D": "0,85875 gr/cm3",
+        "E": "0,86154 gr/cm3"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_221_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 428,
+      "konu": "Starya Süresi",
+      "soru_metni": "%100 kapasitesi 1512,9 m3 olan tanka %97,5 oranında yoğunluğu 0,7605 gr/cm3 20°C olan ve 40°C’de tahliye edilecek olan yükten kaç ton alabilir? ( Not: Correction Factor: 0,00086 gr/cm3)",
+      "secenekler": {
+        "A": "1121,796 ton",
+        "B": "1105,464 ton",
+        "C": "1096,425 ton",
+        "D": "1088,395 ton",
+        "E": "1075,390 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_221_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 429,
+      "konu": "Starya Süresi",
+      "soru_metni": "%100 kapasitesi 756,92 m3 olan tanka %97,8 doluluk oranında yoğunluğu 0,8225 gr/cm3 20°C olan ve 38°C de tahliye edilecek olan yükten kaç ton alabilir? ( Not: Correction Factor: 0,00092 gr/cm3 )",
+      "secenekler": {
+        "A": "596,611 ton",
+        "B": "578,187 ton",
+        "C": "622,782 ton",
+        "D": "613,957 ton",
+        "E": "665,484 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_221_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 430,
+      "konu": "Starya Süresi",
+      "soru_metni": "%100 kapasitesi 7023,38 m3 olan bir gemi %97,8 doluluk oranında yoğunluğu 0,9205 gr/cm3 alıp 200C olan ve 450C’de tahliye edilecek olan yükten ne kadar yükleyebilir? Correction Factor: 0,00068 gr/cm3",
+      "secenekler": {
+        "A": "6206,020 ton",
+        "B": "6298,760 ton",
+        "C": "6398,690 ton",
+        "D": "6322,791 ton",
+        "E": "6340,891 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_222_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 431,
+      "konu": "Starya Süresi",
+      "soru_metni": "Su hattı alanı 1440 m2 olan ve yoğunluğu 1.025 ton/m3 olan bir suda yüzen bir geminin 1 cm batma tonajı yaklaşık ne kadardır?",
+      "secenekler": {
+        "A": "13.26 ton",
+        "B": "14.76 ton",
+        "C": "15.87 ton",
+        "D": "12.54 ton",
+        "E": "14.12 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_223_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 432,
+      "konu": "Starya Süresi",
+      "soru_metni": "Su hattı alan katsayısı 0.9 olan bir geminin su hattı boyu 100 m, genişliği de 16 m dir. Bu geminin tuzlu suda (1,025t/m3) bir santim batma tonu ne kadardır?",
+      "secenekler": {
+        "A": "22,08 ton",
+        "B": "15,62 ton",
+        "C": "16,2 ton",
+        "D": "14,76 ton",
+        "E": "10,92 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_223_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 433,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir kosterin yalpa periyodunu veren formül: TΦ= c.B/(GM )1/2 (sn) Burada c katsayısı yüklü koster için c= 0,76 ; B kosterin genişliği (m); GM kosterin metasantr yüksekliği olduğuna göre genişliği 16 m, metasantr yüksekliği 1 m olan bir kosterin yalpa periyodu aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "12,16 sn",
+        "B": "18 sn",
+        "C": "20 sn",
+        "D": "16 sn",
+        "E": "16,25 sn"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_224_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 434,
+      "konu": "Starya Süresi",
+      "soru_metni": "KM‘i 10 m, GM‘i 1 m ve deplasmanı 1500 ton olan bir gemi trimsiz olarak havuzlanmaktadır. Gemi havuz iskemlelerine oturmaya başladıktan sonra havuzdan 60 cm su boşaltıldığında geminin GM‘i ne kadar olur? ( TPC = 5 ton )",
+      "secenekler": {
+        "A": "-100 cm",
+        "B": "+50 cm",
+        "C": "-200 cm",
+        "D": "+75 cm",
+        "E": "+25 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_225_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 435,
+      "konu": "Starya Süresi",
+      "soru_metni": "Bir geminin tanklarında hesaplanan serbest yüzey momentleri toplamı 300 ton.metredir. Bu geminin deplasmanı 6000 ton KG’si 4.5 metre ve KM değeri 5 metre olduğuna göre geminin başlangıç metasentır yüksekliğini (GM) serbest yüzey etkilerini de dikkate alarak hesaplayınız.",
+      "secenekler": {
+        "A": "0.35 m",
+        "B": "0.40 m",
+        "C": "0.45 m",
+        "D": "0.50 m",
+        "E": "0.55 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_225_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 436,
+      "konu": "Starya Süresi",
+      "soru_metni": "Deniz suyunda deplasmanı 8500 ton olan bir geminin 23x14x2 metre boyutunda ve ortadan ikiye bölünmüş tatlı su tanklarında içme suyu vardır. Tam dolu olmayan bu tankların doğuracağı GM küçülmesini hesaplayınız.",
+      "secenekler": {
+        "A": "0.15 m",
+        "B": "0.20 m",
+        "C": "0.25 m",
+        "D": "0.30 m",
+        "E": "0.63 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_225_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 437,
+      "konu": "Starya Süresi",
+      "soru_metni": "Sancak ve iskele içme suyu tankları tam dolu değildir. Geminin deplasmanı 8500 ton ve içme suyu tanklarının boyu 23 m, genişliği ise 14 metredir. Deniz suyu yoğunluğu 1025 olduğuna göre tanklardaki içme sularının oluşturduğu serbest sıvı etkisinden dolayı oluşan GM küçülmesini hesaplayınız.",
+      "secenekler": {
+        "A": "0.75 m",
+        "B": "0.63 m",
+        "C": "0.40 m",
+        "D": "0.20 m",
+        "E": "0.80 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Starya Süresi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_226_img_0.png",
+      "zorluk": "orta"
+    }
+  ]
+}

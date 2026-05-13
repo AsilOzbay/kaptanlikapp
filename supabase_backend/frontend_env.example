@@ -1,0 +1,74 @@
+# ═══════════════════════════════════════════════════════════════
+# KaptanlikApp - Frontend Environment Variables
+# ═══════════════════════════════════════════════════════════════
+#
+# Bu dosyayi frontend projenizin .env dosyasina kopyalayin
+#
+#   cp frontend_env.example .env
+#
+# ═══════════════════════════════════════════════════════════════
+
+# ─────────────────────────────────────────────────────────────
+# Supabase Connection
+# ─────────────────────────────────────────────────────────────
+
+# Supabase URL - REST API endpoint
+# Local gelistirme: http://localhost:54321
+# Production:      https://your-project.supabase.co
+VITE_SUPABASE_URL=http://localhost:54321
+
+# Supabase Anon Key (Public)
+# Bu anahtar client-side kullanilir, guvenlidir
+# Local gelistirme varsayilan anahtari:
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6ImFub24iLCJleHAiOjE5ODM4MTI5OTZ9.CRXP1A7WOeoJeXxjNni43kdQwgnWNReilDMblYTn_I0
+
+# ─────────────────────────────────────────────────────────────
+# Uygulama Ayarlari
+# ─────────────────────────────────────────────────────────────
+
+# Uygulama Adi
+VITE_APP_NAME=KaptanlikApp
+
+# Uygulama Ortami: development | production | test
+VITE_APP_ENV=development
+
+# API Version
+VITE_API_VERSION=v1
+
+# ─────────────────────────────────────────────────────────────
+# Realtime (Opsiyonel)
+# ─────────────────────────────────────────────────────────────
+
+# Realtime WebSocket URL
+# Local: ws://localhost:54329
+# Production: wss://your-project.supabase.co/realtime/v1
+VITE_SUPABASE_REALTIME_URL=ws://localhost:54329
+
+# ─────────────────────────────────────────────────────────────
+# Özellik Bayraklari (Feature Flags)
+# ─────────────────────────────────────────────────────────────
+
+# Simülasyon modülü aktif mi?
+VITE_FEATURE_SIMULATION=true
+
+# Rozet sistemi aktif mi?
+VITE_FEATURE_BADGES=true
+
+# Bildirim sistemi aktif mi?
+VITE_FEATURE_NOTIFICATIONS=true
+
+# Koyu mod desteği
+VITE_FEATURE_DARK_MODE=true
+
+# ─────────────────────────────────────────────────────────────
+# Sinav Ayarlari
+# ─────────────────────────────────────────────────────────────
+
+# Varsayilan soru sayisi
+VITE_DEFAULT_QUESTION_COUNT=30
+
+# Varsayilan sinav suresi (dakika)
+ITE_DEFAULT_EXAM_DURATION=90
+
+# Gecme notu yuzdesi
+VITE_PASSING_PERCENTAGE=70

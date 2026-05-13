@@ -1,0 +1,1713 @@
+{
+  "paket": {
+    "id": "stab_2024_02",
+    "baslik": "Şubat 2024 Stabilite",
+    "toplam_soru": 100,
+    "konular": [
+      "G Değişimi",
+      "GM = KM - KG"
+    ]
+  },
+  "sorular": [
+    {
+      "soru_no": 151,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Güverte üzerindeki konteyner tahliye edildiği zaman aşağıdakilerden hangi durum oluşur?",
+      "secenekler": {
+        "A": "KB artar",
+        "B": "GM artacaktır",
+        "C": "KG artacaktır",
+        "D": "GM azalacaktır",
+        "E": "KB değişmez"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_86_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 152,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Güverte seviyesinden konteyner yükü tahliye edilen bir gemide meydana gelecek durumlarla ilgili olarak aşağıdakilerden hangisini söyleyebiliriz?",
+      "secenekler": {
+        "A": "Ağırlık (G) merkezi, Metasentır (M) merkezinden Omurga (K) hattı yönünde uzaklaşır",
+        "B": "Ağırlık merkezi sancak iskele yönünde yere paralel olarak hareket eder",
+        "C": "Ağırlık Merkezi (G) ile Metasentır (M) arasındaki mesafe değişmez",
+        "D": "Ağırlık (G) merkezi ile Metasentır (M) merkezi arasındaki mesafe negatif değere ulaştığından negatif stabilite durumu oluşur",
+        "E": "Yüzdürme (F) merkezi bu durumdan etkilenmez"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_86_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 153,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kereste yüklemesinde gemi dengesi hesabına düzeltilmiş başlangıç GM yüksekliği kaç metreden az olamaz?",
+      "secenekler": {
+        "A": "0,15 m",
+        "B": "0,30 m",
+        "C": "1,50 m",
+        "D": "2,00 m",
+        "E": "3,00 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_87_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 154,
+      "konu": "GM = KM - KG",
+      "soru_metni": "SOLAS kurallarına göre, tahıl yükleyen gemilerin başlangıçtaki düzeltilmiş GM yükseklikleri kaç metreden küçük olamaz?",
+      "secenekler": {
+        "A": "3.50 m",
+        "B": "2.30 m",
+        "C": "0.50 m",
+        "D": "1.30 m",
+        "E": "0.30 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_87_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 155,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Tahıl yükleyecek bir gemide GM yüksekliği aşağıda belirtilen değerlerden hangisinden daha küçük olamaz?",
+      "secenekler": {
+        "A": "0,30 m",
+        "B": "0,40 m",
+        "C": "0,60 m",
+        "D": "0,15 m",
+        "E": "0,20 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_87_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 156,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kuruyük gemilerinde minimum başlangıç GM değeri en az ne kadar olmalıdır?",
+      "secenekler": {
+        "A": "0.15 m",
+        "B": "0.8 m",
+        "C": "0.5 m",
+        "D": "0.6 m",
+        "E": "0.3 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_88_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 157,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Serbest yüzey etkisinden dolayı gemi stabilitesi nasıl etkilenir?",
+      "secenekler": {
+        "A": "GM küçülür",
+        "B": "GM sabit kalır",
+        "C": "KG küçülür",
+        "D": "KM büyür",
+        "E": "GM büyür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_89_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 158,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Serbest sıvı yüzeyi gemilerde nasıl bir etkiye neden olur?",
+      "secenekler": {
+        "A": "KG azalır",
+        "B": "GM artar",
+        "C": "Doğrultucu moment kolu (GZ) büyür",
+        "D": "GM azalır",
+        "E": "Deplasman azalır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_89_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 159,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Serbest sıvı yüzeylerinin gemi dengesine etkisi aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "GM’in büyümesine sebep olur",
+        "B": "Gemi ağırlığının değişmesine sebep olur",
+        "C": "Gizli GM küçülmesine sebep olarak dengeyi olumsuz etkiler",
+        "D": "GM=0 olur",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_89_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 160,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Serbest sıvı etkisinden dolayı gemilerde gizli GM küçülmesi yaşanmaktadır. Aşağıdaki gemilerden hangisinde bu durum diğerlerine nazaran daha önemlidir?",
+      "secenekler": {
+        "A": "Kuru yük gemileri",
+        "B": "Araştırma gemileri",
+        "C": "Tankerler",
+        "D": "Dökme yük taşıyan gemiler",
+        "E": "Yolcu gemileri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_90_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 161,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Tam dolu olmayan bir tank yalpa esnasında aşağıdaki değerlerden hangisinde gizli bir azalmaya neden olur?",
+      "secenekler": {
+        "A": "GM değerinde",
+        "B": "KB değerinde",
+        "C": "KG değerinde",
+        "D": "BM değerinde",
+        "E": "KM değerinde"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_90_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 162,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir gemide serbest yüzey etkisi olan bir tankta, gemiye etki eden sıvının serbest yüzeyi azalırsa, aşağıdaki hangi değişiklik gözlemlenir?",
+      "secenekler": {
+        "A": "GM azalır",
+        "B": "GM artar",
+        "C": "GM değişmez",
+        "D": "KM azalır",
+        "E": "BM artar"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_90_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 163,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir gemide eğer trim ve KG aynı kalmak üzere, yakıtın oluşturduğu serbest yüzey etkisi azaldığında GM ne şekilde etkilenir?",
+      "secenekler": {
+        "A": "GM azalır",
+        "B": "GM artar",
+        "C": "GM değişmez",
+        "D": "GM hiçbir zaman değişmez",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_91_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 164,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Geminin su hattı altında bulunan bir tankın, eğer bu tank tam olarak doldurulmuşsa serbest su yüzeyi etkisi hakkında aşağıdakilerden hangisi söylenebilir?",
+      "secenekler": {
+        "A": "Serbest su yüzeyi hiçbir durumda söz konusu değildir",
+        "B": "Serbest su yüzeyi etkisi kaybolur",
+        "C": "Hiçbiri",
+        "D": "Azaltıcı etki yapar",
+        "E": "Arttırıcı etki yapar"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_91_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 165,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdakilerden hangisi Serbest Yüzey Düzeltmesini etkilemez?",
+      "secenekler": {
+        "A": "Tank Genişliği",
+        "B": "Tank Boyu",
+        "C": "Sıvının Yoğunluğu",
+        "D": "Tank Uzunluğu",
+        "E": "Geminin Light Ship değeri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_91_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 166,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Serbest sıvı etkisinden dolayı oluşan GM küçülmesini hesaplayabilmek için aşağıdaki bilgilerden hangisine ihtiyaç yoktur?",
+      "secenekler": {
+        "A": "Bölmenin genişliği",
+        "B": "Sıvının cinsi",
+        "C": "Sıvının yoğunluğu",
+        "D": "Bölmenin uzunluğu",
+        "E": "Deniz suyunun yoğunluğu"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_92_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 167,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Gemi içindeki sıvıların serbest yüzey momentleri (FSM) gemi stabilitesini nasıl etkiler? I- Ağırlık merkezinin düşey yerinde kısmi artışa neden olur II- Doğrultucu moment kolunun azalmasına neden olur III- KM değerini etkiler",
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "I ve II",
+        "E": "I,II ve III"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_92_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 168,
+      "konu": "GM = KM - KG",
+      "soru_metni": "GM’i ve doğrultucu momenti küçük olan gemilerin davranışı ne olarak adlandırılır?",
+      "secenekler": {
+        "A": "Dengesiz gemi",
+        "B": "Aşırı yüklü gemi",
+        "C": "Balastlı gemi",
+        "D": "Tender gemi",
+        "E": "Stiff gemi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_93_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 169,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Tender gemiler için aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "GM değeri büyük olan gemilerdir",
+        "B": "GM değeri küçük olan gemilerdir",
+        "C": "GM değeri sıfır olan gemilerdir",
+        "D": "GM değeri negatif olan gemilerdir",
+        "E": "GM değeri sürekli değişen gemilerdir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_93_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 170,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı dengedeki bir gemide metasentır yüksekliği (GM) küçük ise, gemi için aşağıdaki durumlardan hangisi oluşur?",
+      "secenekler": {
+        "A": "Tender olur",
+        "B": "Nötr dengeli olur",
+        "C": "Draft büyük olur",
+        "D": "Stiff olur",
+        "E": "Bir tarafa bayılır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_93_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 171,
+      "konu": "GM = KM - KG",
+      "soru_metni": "GM değeri çok küçük olan bir geminin durumu ve yalpa periyodu hakkında ne söylenebilir?",
+      "secenekler": {
+        "A": "Gemi stiff, yalpa periyodu küçük",
+        "B": "Gemi tender, yalpa periyodu büyük",
+        "C": "Gemi stiff, yalpa periyodu büyük",
+        "D": "Gemi tender, yalpa periyodu küçük",
+        "E": "Gemi tender, yalpa periyodu değişmez"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_94_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 172,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir tender geminin özelliklerini belirten aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "GM değeri küçüktür",
+        "B": "Gemi ağır yalpalara düşer",
+        "C": "GZ değeri küçüktür",
+        "D": "Bu tür gemilerde denge sorunu vardır",
+        "E": "Kütük demir taşıyan gemilerde görülür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_94_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 173,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdakilerden hangisi başlangıç GM’i küçük olan gemilerde denge açısından görülebilecek tehlikelerden birisi değildir?",
+      "secenekler": {
+        "A": "Yalpa periyodu büyüktür",
+        "B": "Doğrultucu moment kolu (GZ) küçüktür",
+        "C": "Gemi yattığında doğrulması yavaş olur",
+        "D": "Yalpa periyodu küçüktür",
+        "E": "Gemi tender gemidir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_94_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 174,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Konteyner gemilerinde yüklü durumda hangi tanklara su alınır?",
+      "secenekler": {
+        "A": "Baş pik tank",
+        "B": "Dabılbatım tank",
+        "C": "Top side tank",
+        "D": "Kıç pik tank",
+        "E": "Slop tank"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_95_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 175,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Yüklerinin ağır olanlarını üst bölmelere yükleyen gemiler için denge açısından aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Bu gemiler Tender olur",
+        "B": "Bu gemiler Stiff olur",
+        "C": "Bu gemiler başa trimli olur",
+        "D": "Bu gemiler kıça trimli olur",
+        "E": "Bu gemiler evenkeel olurlar"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_95_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 176,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdaki yükleme şekillerinden hangisinin uygulanması bir geminin Tender olmasına neden olabilir?",
+      "secenekler": {
+        "A": "Çift dip tankları dolu, yükler gelişi güzel dağıtılmış ise",
+        "B": "Çift dip tankları boş, ağırlıklar genelde alt kısımlarda yoğunlaşmış ise",
+        "C": "Çift dip tankları dolu, yükler homojen dağıtılmış ise",
+        "D": "Çift dip tankları dolu, yükler alt kısımlarda yoğunlaşmış ise",
+        "E": "Çift dip tankları boş, ağırlıklar genelde üst kısımlarda yoğunlaşmış ise"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_95_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 177,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Demir çelik ürünleri yükleyen gemiler için aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Stiff olur",
+        "B": "Başa trimli olur",
+        "C": "Tender olur",
+        "D": "Kıça trimli olur",
+        "E": "Yalpa periyodu büyür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_96_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 178,
+      "konu": "GM = KM - KG",
+      "soru_metni": "GM’i büyüktür ve gemi düştüğü yalpalardan çabuk doğrulur. Bu tip gemilere ne ad verilir?",
+      "secenekler": {
+        "A": "Konteyner gemisi",
+        "B": "Tender gemi",
+        "C": "Nötr dengeye sahip gemi",
+        "D": "Kararsız dengeye sahip gemi",
+        "E": "Stiff gemi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_96_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 179,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir gemide GM büyük ve gemi denizler etkisiyle sert yalpalara düşüyorsa, bu durumdaki bir gemi aşağıdaki tanımlardan hangisi ile ifade edilir?",
+      "secenekler": {
+        "A": "Tender gemi",
+        "B": "Stiff gemi",
+        "C": "Doğrultucu momenti küçük gemi",
+        "D": "Kararsız dengeli gemi",
+        "E": "Nötr dengeli gemi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_96_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 180,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdakilerden hangisi stiff (dik başlı) olan geminin özelliğidir?",
+      "secenekler": {
+        "A": "Küçük GM değerine sahip olması",
+        "B": "Uzun baş-kıç vurma periyoduna sahip olması",
+        "C": "Gemi personeli ve yolcunun konforunun etkilenmemesi",
+        "D": "Yalpaları sert değildir",
+        "E": "Kısa yalpa periyoduna sahip olması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_97_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 181,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdakilerden hangisi bir geminin yalpa periyodunu azaltır?",
+      "secenekler": {
+        "A": "Gemiden ağırlık çıkartılırsa",
+        "B": "Dabılbatım tanklara su alınırsa",
+        "C": "Bir gemide yalpa periyodu sabittir, değişmez",
+        "D": "Güverteye yük alınırsa",
+        "E": "Pik tanklara su alınırsa"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_97_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 182,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir geminin sert yalpalı (stiff) olmasının sebebi aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "GM değerinin negatif olması",
+        "B": "KG değerinin çok büyük olması",
+        "C": "GM değerinin çok küçük olması",
+        "D": "GZ değerinin sıfır olması",
+        "E": "GZ değerinin çok büyük olması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_97_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 183,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Stiff bir geminin daha yumuşak yalpa yapmasını sağlamak için aşağıdaki yöntemlerden hangisi uygulanır?",
+      "secenekler": {
+        "A": "Dip tanklara balast almak",
+        "B": "Yükleri daha aşağı taraﬂara taşımak",
+        "C": "Yükleri ambarların ortasına taşımak",
+        "D": "Üst tanklara balast almak",
+        "E": "Yükleri ambarların kıç tarafına taşımak"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_98_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 184,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Hangi tip geminin GM değeri diğer tiplere göre çok büyüktür?",
+      "secenekler": {
+        "A": "Konteyner gemisi",
+        "B": "Savaş gemisi",
+        "C": "Cevher gemisi",
+        "D": "Yolcu gemisi",
+        "E": "Kuru yük gemisi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_98_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 185,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Dökme maden cevheri yükleyen gemiler için aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Tender olur",
+        "B": "Stiff olur",
+        "C": "Başa trimli olur",
+        "D": "Kıça trimli olur",
+        "E": "Sağır gemi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_98_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 186,
+      "konu": "GM = KM - KG",
+      "soru_metni": "KG sembolü neyi tanımlamaktadır?",
+      "secenekler": {
+        "A": "Yüzme merkezinin yatay konumu",
+        "B": "Ağırlık merkezinin yatay konumu",
+        "C": "Ağırlık merkezinin dikey konumu",
+        "D": "Sephiye merkezinin dikey konumu",
+        "E": "Sephiye merkezinin yatay konumu"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_99_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 187,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Gemi dip tanklarının doldurulması KG’yi nasıl etkiler?",
+      "secenekler": {
+        "A": "KG büyür",
+        "B": "KG küçülür",
+        "C": "KG etkilenmez",
+        "D": "KG derin draftlarda büyür, düşük draftlarda küçülür",
+        "E": "KG derin draftlarda küçülür, düşük draftlarda büyür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_99_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 188,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Dip tankların tam olarak doldurulup top side tanklarının boşaltılması KG’yi nasıl etkiler?",
+      "secenekler": {
+        "A": "KG büyür",
+        "B": "KG küçülür",
+        "C": "KG etkilemez",
+        "D": "KG değişir ve GM‘i küçültür",
+        "E": "KG kaybolur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_99_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 189,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir geminin dip tanklarına yükleme yapılıp, top side tanklardan yük boşaltılması durumunda aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "KG değişmez",
+        "B": "KG büyür (yukarı kayar)",
+        "C": "KG küçülür (aşağı kayar)",
+        "D": "GM küçülür",
+        "E": "GM sabittir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_100_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 190,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Gemi dip tanklarının boşaltılması KG’yi nasıl etkiler?",
+      "secenekler": {
+        "A": "KG büyür",
+        "B": "KG küçülür",
+        "C": "KG etkilenmez",
+        "D": "KG derin draftlarda büyür, düşük draftlarda küçülür",
+        "E": "KG derin draftlarda küçülür, düşük draftlarda büyür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_100_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 191,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Tam dolu olmayan bir tank yalpa esnasında aşağıdaki değerlerden hangisinde gizli artışa neden olur?",
+      "secenekler": {
+        "A": "GM",
+        "B": "KB",
+        "C": "KG",
+        "D": "BM",
+        "E": "KM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_100_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 192,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Ambar tabanındaki bir yük güverteye şifting edilirse ağırlık merkezinin hareketi nasıl olur?",
+      "secenekler": {
+        "A": "Ağırlık merkezi, şifting yönünde hareket eder",
+        "B": "Ağırlık merkezi, yükün ağırlık merkezine yaklaşır",
+        "C": "Ağırlık merkezi, yer değiştirmez",
+        "D": "Ağırlık merkezi, yükün ağırlık merkezinden uzaklaşır",
+        "E": "Ağırlık merkezi, yüzdürme yeteneği merkezine doğru hareket eder"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_101_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 193,
+      "konu": "GM = KM - KG",
+      "soru_metni": "(GG1) formülü aşağıdaki hesaplardan hangisinin çözümü için kullanılır?",
+      "secenekler": {
+        "A": "Şiftinglerde (G) noktasının yer değiştirdiği mesafeyi bulmak için",
+        "B": "Yüklemelerde (G) noktasının yer değiştirdiği mesafeyi bulmak için",
+        "C": "Boşaltmalarda (G) noktasının yer değiştirdiği mesafeyi bulmak için",
+        "D": "Askıya alınmalarda (G) noktasının yer değiştirdiği mesafeyi bulmak için",
+        "E": "Yukarıdaki bütün durumlar için"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_101_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 194,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdakilerden hangisi doğru değildir?",
+      "secenekler": {
+        "A": "Ağırlık merkezinden daha üstte bir noktadan ağırlık boşaltılırsa ağırlık merkezi aşağıya doğru kayar",
+        "B": "Ağırlık merkezinden daha üstte bir noktaya yük alınırsa ağırlık merkezi aşağı doğru kayar",
+        "C": "Ağırlık merkezinden daha üstte bir noktaya yük alınırsa ağırlık merkezi yukarı doğru kayar",
+        "D": "Ağırlık merkezinden daha üstte bir noktadaki yük ağırlık merkezinden daha aşağı bir noktaya ötelenirse ağırlık merkezi bu yöne doğru ötelenir",
+        "E": "Ağırlık merkezinden daha aşağıda bir noktaya yük alınırsa ağırlık merkezi aşağı doğru kayar"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_101_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 195,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdaki ifadelerden hangisi doğrudur? I-Geminin ağırlık merkezi, yüklenen yükün ağırlık merkezine doğru hareket eder II-Geminin ağırlık merkezi, boşaltılan yükün ağırlık merkezinden uzaklaşacak şekilde hareket eder III-Ağırlık merkezinin yer değiştirme mesafesi (W*d / Displacement) formülü ile bulunur",
+      "secenekler": {
+        "A": "I-II-III",
+        "B": "I-II",
+        "C": "II-III",
+        "D": "I-III",
+        "E": "III"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_102_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 196,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdaki değerlerden hangisi gemi ağırlık merkezinin hesaplanmasında kullanılır?",
+      "secenekler": {
+        "A": "Mastori kesit",
+        "B": "Kaide hattı",
+        "C": "Kuvvet kolu",
+        "D": "Bileşke moment",
+        "E": "Yüzdürme kuvveti"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_102_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 197,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Gemilere meyil tecrübesi yapılmasının amacı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Yüzme merkezinin yerini bulmak için",
+        "B": "Geminin deplasmanını bulmak için",
+        "C": "Geminin KG değerini bulmak için",
+        "D": "Geminin DWT değerini bulmak için",
+        "E": "Yüzme yeteneği merkezi, F’nin yerini bulmak için"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_102_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 198,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir geminin ağırlık merkezinin düşey yeri aşağıdakilerden hangisi ile bulunur? I- Bir santim trim momenti ile II-Meyil deneyi ile III-Kesme kuvveti ve eğilme momenti ile IV-Draft sörvey ile",
+      "secenekler": {
+        "A": "Yalnız IV",
+        "B": "III ve IV",
+        "C": "Yalnız III",
+        "D": "Yalnız II",
+        "E": "I ve II"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_103_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 199,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı denge için aşağıda belirtilen yargılardan hangisi doğrudur?",
+      "secenekler": {
+        "A": "GZ değeri sıfırdır",
+        "B": "GM değeri pozitifdir",
+        "C": "Gemi kıça trimlidir",
+        "D": "GM değeri negatifdir",
+        "E": "GZ değeri geminin yattığı tarafın ters tarafındadır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_104_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 200,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı denge durumunda bir gemide metasentır noktası aşağıdaki mevkilerden hangisidir?",
+      "secenekler": {
+        "A": "Su kesimi düzleminde",
+        "B": "Boyuna merkez hattı üzerinde",
+        "C": "Ağırlık merkezinden yukarıda",
+        "D": "Omurga hattı üzerinde",
+        "E": "Ağırlık merkezi altında"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_104_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 201,
+      "konu": "GM = KM - KG",
+      "soru_metni": "G noktası M noktasının altında ise GM , aksi halde GM olarak değerlendirilir.",
+      "secenekler": {
+        "A": "pozitif-negatif",
+        "B": "negatif-pozitif",
+        "C": "pozitif-pozitif",
+        "D": "pozitif-sıfır",
+        "E": "sıfır-negatif"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_104_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 202,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir gemide KG, KM’den küçük ise; I- Gemi kararlı dengededir II- Gemi kararsız dengededir III- Gemi nötr dengededir Yukarıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "I. ifade",
+        "B": "II. ifade",
+        "C": "III. ifade",
+        "D": "Hiçbiri",
+        "E": "Hepsi doğrudur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_105_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 203,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Nötr dengeye sahip bir gemide aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "KM=0",
+        "B": "KB=KM",
+        "C": "GM=0",
+        "D": "LCB=LCF",
+        "E": "t=0"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_106_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 204,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Nötr dengeye sahip bir gemi için aşağıda verilen yargılardan hangisi doğrudur?",
+      "secenekler": {
+        "A": "GZ kolu geminin yattığı taraftadır",
+        "B": "GM pozitifdir",
+        "C": "GZ kolu geminin yattığı tarafın aksi yöndedir",
+        "D": "Gemi yattığı pozisyonu korur",
+        "E": "GM negatifdir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_106_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 205,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Nötr dengeye sahip bir gemi için aşağıda belirtilen ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "G noktası M noktasına çakışıktır",
+        "B": "G noktası M noktasının üstündedir",
+        "C": "G noktası M noktasının altındadır",
+        "D": "GZ değeri pozitiftir",
+        "E": "GZ değeri negatiftir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_106_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 206,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Dış etkenlerden dolayı enine olarak bir tarafına yatan gemi, durumunu koruyorsa bu gemi için aşağıdakilerden hangisi söylenir?",
+      "secenekler": {
+        "A": "Gemi kararlı dengededir",
+        "B": "Gemi nötr dengededir",
+        "C": "Gemi kararsız dengededir",
+        "D": "Gemi kıça trimlidir",
+        "E": "Gemi başa trimlidir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_107_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 207,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Eğer bir gemide KM=KG ise böyle bir denge durumu aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Kararlı denge",
+        "B": "Nötr denge",
+        "C": "Kararsız denge",
+        "D": "Stiff denge",
+        "E": "Tender denge"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_107_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 208,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Nötr dengeye sahip bir gemi için aşağıda verilen yargılardan hangisi yanlıştır?",
+      "secenekler": {
+        "A": "G noktası, M noktası ile çakışıktır",
+        "B": "Gemi yattığı konumda kalır",
+        "C": "GZ değeri sıfırdır",
+        "D": "Geminin trimi büyüktür",
+        "E": "Geminin doğrulma yeteneği yoktur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_107_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 209,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdakilerden hangisi başlangıç GM’i küçük olan gemilerde denge açısından görülebilecek tehlikelerden birisidir?",
+      "secenekler": {
+        "A": "Gemi tanklarında taşma olabilir",
+        "B": "Gemi TPC değerleri sürekli değişir",
+        "C": "Gemi GM inde gizli artış olur",
+        "D": "Gemi kararsız dengeye düşebilir",
+        "E": "Ambarlara sıvı sızar"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_108_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 210,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Karaya oturan bir gemide yapılması gereken en önemli kontrol aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Geminin devrilme tehlikesinin bulunup bulunmadığı",
+        "B": "Kaç sacın yırtıldığı",
+        "C": "Geminin yaralanmış kısmına saatte kaç ton su dolduğu",
+        "D": "Yardımın gelip gelmediği",
+        "E": "Suyun dışarı atılıp atılamayacağı"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_108_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 211,
+      "konu": "GM = KM - KG",
+      "soru_metni": "1/3 oranında baş taraftan oturmuş uzun bir gemiyi yüzdürmek için uygulanacak en iyi yöntem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Stres hesaplarını yaparak bundan elde edilecek bulgulara göre gerekli işlemleri yapmak",
+        "B": "Kıç tarafa balast alarak başta draft azaltmak",
+        "C": "Başta ve kıçta aynı miktarda draft azaltacak şekilde gemiyi haﬁﬂetmek",
+        "D": "Baştan balast basarak veya yük boşaltarak baştan draft azaltmak",
+        "E": "Balast veya yükü baştan kıça aktararak trim değişikliği yapmak"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_108_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 212,
+      "konu": "GM = KM - KG",
+      "soru_metni": "GM’i negatif olduğu için bayılan bir gemiyi düzeltmede uygulanacak yol aşağıdakilerden hangisi değildir?",
+      "secenekler": {
+        "A": "Boş olan balast tanklar önce, orta bölmeyle sancak- iskele ayrılmış olanlara deniz suyu almak",
+        "B": "Bölmeli safra tanklarından, önce geminin yattığı taraftaki tanka/tanklara safra almak",
+        "C": "Kereste yükü nedeniyle bayılmış bir gemide ambarların dibinden yukarı doğru yükü ıslatarak gemi ağırlık merkezini (G) aşağı çekmek",
+        "D": "Bölmeli safra tanklarından, yüksek taraftaki tanka/tanklara safra suyu almamak",
+        "E": "Geminin yattığı yöndeki balast tanklarındaki suyu basmak"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_109_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 213,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Denge durumundaki bir gemide doğrultucu kol hangisidir?",
+      "secenekler": {
+        "A": "GZ",
+        "B": "KM",
+        "C": "KN",
+        "D": "GM",
+        "E": "KG"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_110_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 214,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Doğrultucu Moment Kolu (Righting Lever) denilen ifadenin enine dengede kullanılan kısaltması aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "KG",
+        "B": "GZ",
+        "C": "GM",
+        "D": "RL",
+        "E": "KM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_110_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 215,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı denge durumunda GZ aşağıdakilerden hangisi ile ifade edilir?",
+      "secenekler": {
+        "A": "Doğrultucu moment",
+        "B": "Yatırıcı moment",
+        "C": "Doğrultucu moment kolu",
+        "D": "Yatırıcı moment kolu",
+        "E": "Bending moment"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_111_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 216,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdaki durumlardan hangisinde “GZ kolu geminin yattığı taraftadır”?",
+      "secenekler": {
+        "A": "Nötr Denge",
+        "B": "Kararsız Denge",
+        "C": "Stabil Denge",
+        "D": "Kararlı Denge",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_111_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 217,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı dengeye sahip bir gemi için aşağıda verilen yargılardan hangisi doğrudur?",
+      "secenekler": {
+        "A": "GZ kolu geminin yattığı taraftadır",
+        "B": "GM sıfırdır",
+        "C": "GZ kolu sıfırdır",
+        "D": "GZ kolu geminin yattığı tarafın tersindedir",
+        "E": "Gemi yalpa yaptığı pozisyonda kalır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_111_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 218,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı dengede yüzen bir gemi bir tarafına meyil ettiğinde oluşacak GZ kolu;",
+      "secenekler": {
+        "A": "Geminin yattığı tarafta oluşur",
+        "B": "Geminin yattığı tarafın ters tarafında oluşur",
+        "C": "Hiç oluşmaz",
+        "D": "Geminin omurgasına yakın oluşur",
+        "E": "Geminin güvertesine yakın olur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_112_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 219,
+      "konu": "GM = KM - KG",
+      "soru_metni": "GM>0 olarak tespit edilen bir A gemisi için aşağıda verilen şıklardan hangisi doğrudur?",
+      "secenekler": {
+        "A": "G noktası B noktası ile çakışıktır",
+        "B": "Gemi yalpa yaptığı pozisyonda kalır",
+        "C": "GZ kolu sıfırdır",
+        "D": "GZ kolu geminin yattığı taraftadır",
+        "E": "GZ kolu geminin yattığı tarafın tersindedir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_112_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 220,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı dengeye sahip bir gemi için aşağıda verilen yargılardan hangisi yanlıştır?",
+      "secenekler": {
+        "A": "GZ > 0",
+        "B": "GM > 0",
+        "C": "GZ kolu geminin yattığı taraftadır",
+        "D": "GZ kolu geminin yattığı tarafın aksi tarafındadır",
+        "E": "KM > KG dir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_112_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 221,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı denge ile ilgili olarak aşağıdakilerden hangileri doğrudur? I-GM pozitiftir II-GZ geminin yattığı taraftadır III-Gemi eski konumuna gelmekte zorlanır",
+      "secenekler": {
+        "A": "I",
+        "B": "I-III",
+        "C": "I-II",
+        "D": "I-II-III",
+        "E": "II"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_113_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 222,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Kararlı dengede hangileri doğru değildir? I-Gz geminin yattığı taraftadır II-Gz sıfırdır III-Gz yattığı tarafın tersindedir",
+      "secenekler": {
+        "A": "I-III",
+        "B": "II",
+        "C": "II-III",
+        "D": "I",
+        "E": "I-II"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_113_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 223,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Aşağıdaki durumlardan hangisinde GZ değeri sıfır olur?",
+      "secenekler": {
+        "A": "Kararlı dengede",
+        "B": "Kararsız dengede",
+        "C": "Nötr dengede",
+        "D": "Trim sıfır olduğunda",
+        "E": "Stiff gemi olduğunda"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_114_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 224,
+      "konu": "GM = KM - KG",
+      "soru_metni": "GZ kolu bir geminin doğrultucu koludur. Bu kol hangi durumda gemiyi doğrultamaz?",
+      "secenekler": {
+        "A": "Küçük olduğu zaman",
+        "B": "Geminin yattığı tarafta oluştuğunda",
+        "C": "GM küçük olduğu zaman",
+        "D": "Geminin yattığı tarafın aksi tarafta oluştuğunda",
+        "E": "KM büyük olduğu zaman"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_115_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 225,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Eğer bir gemide yükleme sonucunda ağırlık merkezinin yüksekliğinde bir artış oluyorsa aşağıdakilerden hangisi de her zaman artar?",
+      "secenekler": {
+        "A": "Metasentır yüksekliği ( GM )",
+        "B": "Doğrultucu moment kolu ( GZ )",
+        "C": "Doğrultucu moment değeri",
+        "D": "Dikey momentler",
+        "E": "Enine momentler"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_116_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 226,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir geminin doğrultucu kolu değişmez deplasmanı artarsa geminin doğrultucu momenti nasıl değişim gösterir?",
+      "secenekler": {
+        "A": "Büyür",
+        "B": "Küçülür",
+        "C": "Başa hareket eder",
+        "D": "Kıça hareket eder",
+        "E": "Değişmez"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_116_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 227,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir geminin kararlı dengede olduğunu aşağıdaki kriterlerden hangisi belirler?",
+      "secenekler": {
+        "A": "Doğrultucu moment",
+        "B": "Doğrultucu kol",
+        "C": "Dik konuma dönme yeteneği",
+        "D": "Yukarıdakilerin hepsi",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_117_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 228,
+      "konu": "GM = KM - KG",
+      "soru_metni": "∆ × GZ değeri; I- Geminin dengesini belirler II- Geminin doğrultucu momentini belirler III- Geminin deplasmanını belirler Yukarıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "I. ifade",
+        "B": "II. ifade",
+        "C": "I.ve II. ifade doğrudur",
+        "D": "III. ifade doğrudur",
+        "E": "Hepsi doğrudur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_117_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 229,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Gemi, dış etkenlerden dolayı bir yatırıcı momente ( MY ) maruz kalıyorsa, gemiyi dengeye getirecek olan doğrultucu moment (MD) aşağıdakilerden hangisi olmalıdır?",
+      "secenekler": {
+        "A": "MD > MY",
+        "B": "MD = 1cm trim momenti",
+        "C": "MD < MY",
+        "D": "MD = MY",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_117_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 230,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1500 ton bir gemide 100 tonluk bir yük dip ambardan 15 metre yüksekteki güverteye çıkarılırsa gemideki KG değişimi kaç metre olur?",
+      "secenekler": {
+        "A": "0.50 m",
+        "B": "0.75 m",
+        "C": "1.45 m",
+        "D": "1.25 m",
+        "E": "1 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_121_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 231,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı = 18200 ton olan bir geminin ağırlık merkezinden 19,20 metre uzağına 1000 tonluk bir yük yüklenirse ağırlık merkezinin değişim miktarını hesaplayınız.",
+      "secenekler": {
+        "A": "1,20 metre",
+        "B": "1,00 metre",
+        "C": "1,15 metre",
+        "D": "1,40 metre",
+        "E": "1,30 metre"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_122_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 232,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 2000 ton olan bir geminin KG’si 4 m dir. Bu gemide omurgadan 6 m yükseklikteki 80 ton bir yük boşaltılırsa G noktası kaç metre yer değiştirir?",
+      "secenekler": {
+        "A": "0.04 m",
+        "B": "0.08 m",
+        "C": "0.20 m",
+        "D": "0.24 m",
+        "E": "0.36 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_123_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 233,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1000 ton olan bir geminin KG’si 6 m dir. Bu gemiden omurgadan 3 m yükseklikteki 100 ton yük boşaltılırsa G noktası ne kadar hareket eder?",
+      "secenekler": {
+        "A": "0,11 m",
+        "B": "0,20 m",
+        "C": "0,22 m",
+        "D": "0,33 m",
+        "E": "0,40 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_123_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 234,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 2000 ton olan bir geminin KG’si 4 m dir. Bu gemide omurgadan 6 m yükseklikteki 60 ton bir yük boşaltılırsa G noktası kaç metre yer değiştirir?",
+      "secenekler": {
+        "A": "0.06 m",
+        "B": "0.18 m",
+        "C": "0.20 m",
+        "D": "0.24 m",
+        "E": "0.36 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_123_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 235,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3000 ton olan bir geminin KG’si 5 m. Bu gemide omurgadan 9 m yükseklikteki 250 ton bir yük boşaltılırsa G noktası ne kadar hareket eder?",
+      "secenekler": {
+        "A": "0.36 m",
+        "B": "0.45 m",
+        "C": "0.65 m",
+        "D": "0.75 m",
+        "E": "0.82 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_124_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 236,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 10000 ton olan bir geminin KG’si 7 m dir. Bu gemide omurgadan 13 metre yükseklikteki 200 ton bir yük boşaltılırsa G noktası ne kadar hareket eder?",
+      "secenekler": {
+        "A": "0.12 m",
+        "B": "0.26 m",
+        "C": "0.33 m",
+        "D": "0.40 m",
+        "E": "0.46 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_124_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 237,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 5000 ton olan bir geminin KG yüksekliği 10.80 m dir. Eğer bu gemide bulunan 50 tonluk bir yük dik olarak 10 m aşağı doğru şifting edilirse geminin yeni KG yüksekliği ne olur?",
+      "secenekler": {
+        "A": "10.90 m",
+        "B": "11.05 m",
+        "C": "11.25 m",
+        "D": "10.70 m",
+        "E": "10.80 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_125_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 238,
+      "konu": "G Değişimi",
+      "soru_metni": "Bir geminin deplasmanı 2000 ton ve KG si 10.5 m dir. Gemide bulunan 40 tonluk bir yük gladoradan dip ambara düşey olarak 4,5 m aktarılırsa bu geminin yeni KG si kaç metre olur?",
+      "secenekler": {
+        "A": "10.41",
+        "B": "11.25",
+        "C": "12.30",
+        "D": "10.25",
+        "E": "9.87"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_125_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 239,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 8500 ton olan bir geminin KG’si 8 metredir. Güvertede omurgadan 10 metre yükseklikteki 400 tonluk bir yük ambar tabanına omurganın 3 metre yüksekliğine indirilirse geminin yeni KG’sini bulunuz.",
+      "secenekler": {
+        "A": "7.67 m",
+        "B": "8.10 m",
+        "C": "7.70 m",
+        "D": "7.80 m",
+        "E": "8.03 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_125_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 240,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 10000 ton olan bir geminin KG’si 8 metredir. Güvertede bulunan ve omurgadan 10 metre yükseklikteki 500 tonluk bir yük omurganın 2 metre yüksekliğine indirilirse geminin yeni KG’sini bulunuz.",
+      "secenekler": {
+        "A": "7.80",
+        "B": "8.40",
+        "C": "8.00",
+        "D": "7.60",
+        "E": "7.50"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_126_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 241,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 3600 ton olan bir geminin KG yüksekliği 10.20 m dir. Eğer bu gemide bulunan 30 tonluk bir yük dik olarak 12 m yukarı doğru şifting edilirse geminin yeni KG yüksekliği ne olur?",
+      "secenekler": {
+        "A": "10.55 m",
+        "B": "11.05 m",
+        "C": "11.25 m",
+        "D": "10.75 m",
+        "E": "10.30 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_127_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 242,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 2400 ton olan bir geminin KG’si 10,80 m dir. Eğer bu gemide bulunan 50 tonluk bir yük dik olarak 12 metre yukarı doğru şifting edilirse geminin yeni KG yüksekliği ne olur?",
+      "secenekler": {
+        "A": "10,55",
+        "B": "11,05",
+        "C": "11,25",
+        "D": "10,75",
+        "E": "10,95"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_127_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 243,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 9000 ton olan bir gemi dip ambarında bulunan 400 ton yükün KG yüksekliği 3.5 m dir. Bu yük omurgadan 8 m yüksekliğe şifting edilmiştir. Geminin shifting öncesi KG’si 9 m ise shiftingden sonraki KG yi hesaplayınız.",
+      "secenekler": {
+        "A": "8.76 m",
+        "B": "9.04 m",
+        "C": "9.14 m",
+        "D": "9.20 m",
+        "E": "8.86 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_127_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 244,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 7500 ton olan bir gemide KG=6 m’dir. Omurgadan 2 m yükseklikteki 250 tonluk bir yük omurgadan 8 m yüksekliğe aktarılırsa geminin yeni KG’si ne olur?",
+      "secenekler": {
+        "A": "6,4 m",
+        "B": "6 m",
+        "C": "6,2 m",
+        "D": "6,5 m",
+        "E": "5,8 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_128_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 245,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 2000 ton olarak tespit edilen bir geminin KG yüksekliği 5.60 m dir. Bu gemide omurgadan 4 metre yükseklikte bulunan 100 tonluk bir yük omurgadan 8 m yüksekliğe şifting edilirse geminin yeni KG yüksekliği aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "5.80 m",
+        "B": "7.30 m",
+        "C": "7.50 m",
+        "D": "7.70 m",
+        "E": "8.40 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_128_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 246,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 1500 ton olarak tespit edilen bir geminin KG yüksekliği 7.40 m dir. Bu gemide omurgadan 5 metre yükseklikte bulunan 50 tonluk bir yük omurgadan 8 m yüksekliğe şifting edilirse geminin yeni KG yüksekliği aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "6,90 m",
+        "B": "7,30 m",
+        "C": "7,50 m",
+        "D": "7,70 m",
+        "E": "8,40 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_128_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 247,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 4800 ton ve KG’si 4.8 m bir gemide bulunan 120 tonluk yükün Kg’si 3.2 m dir. Bu yük Kg yüksekliği 10.8 m olan güverteye shifting edilirse geminin yeni KG’si ne olur?",
+      "secenekler": {
+        "A": "4.61 m",
+        "B": "4.99 m",
+        "C": "4.71 m",
+        "D": "4.89 m",
+        "E": "5.09 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_129_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 248,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 15000 ton olan bir gemide bulunan 200 tonluk lokomotif dip ambardan güverteye shifting edilmiştir. Shifting mesafesi 12 m. dir. Shifting sonrasında geminin KG’si 10 m. olduğuna göre geminin başlangıçtaki KG’sini hesaplayınız.",
+      "secenekler": {
+        "A": "9.84 m",
+        "B": "9.56 m",
+        "C": "9.36 m",
+        "D": "9.66 m",
+        "E": "9.06 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_129_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 249,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 2000 metrik ton olan geminin KG si 4.5 m dir. 20 tonluk bir ağır parça dip ambardadır ve Kg’si 2 m dir. Bu ağır parça bumba cundası omurgadan 14 metre yüksekte olan bir bumba tarafından tank toptan 0.5 metre yüksekliğe kaldırılmaktadır. Bu durumda geminin yeni KG si kaç metredir?",
+      "secenekler": {
+        "A": "5.20",
+        "B": "6.15",
+        "C": "4.62",
+        "D": "3.98",
+        "E": "6.65"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_129_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 250,
+      "konu": "G Değişimi",
+      "soru_metni": "Deplasmanı 12000 ton olan bir gemide Kg=1,0 m de bulunan 30 ton ağırlığındaki bir yük geminin kendi kreyni kullanılarak omurgadan yüksekliği Kg=10 m olan güverteye shift edilecektir. Kreynin kancası omurgadan 25 m yükseklikte ise bu yük işlemi sırasında geminin KG değerinde meydana gelen en fazla değişme ne kadardır ve ne zaman oluşur?",
+      "secenekler": {
+        "A": "Yükün bulunduğu yerden kreyn kancasına asıldığı an, 0,06 m azalır",
+        "B": "Yükün bulunduğu yerden kreyn kancasına asıldığı an, 0,06 m artar",
+        "C": "Yükün güverteye bırakıldığı an 0,023 m artar",
+        "D": "Yükün güverteye bırakıldığı an 0,023 m azalır",
+        "E": "Değişme olmaz"
+      },
+      "dogru_cevap": "",
+      "aciklama": "G Değişimi konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_130_img_0.png",
+      "zorluk": "orta"
+    }
+  ]
+}

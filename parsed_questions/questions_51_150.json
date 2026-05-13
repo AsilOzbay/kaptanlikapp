@@ -1,0 +1,1716 @@
+{
+  "paket": {
+    "id": "stab_2024_02",
+    "baslik": "Şubat 2024 Stabilite",
+    "toplam_soru": 100,
+    "konular": [
+      "Deplasman",
+      "Draft Okuma - Metrik Sistem",
+      "GM = KM - KG",
+      "Gemi Üzerindeki Noktalar",
+      "TPC"
+    ]
+  },
+  "sorular": [
+    {
+      "soru_no": 51,
+      "konu": "Deplasman",
+      "soru_metni": "Boş ağırlığı 7000 ton olan A gemisi X limanına yanaşıyor. Geminin deplasmanı 11000 tondur. Gemiden 1000 ton yük boşaltılmış ve 3000 ton yük yüklenmiştir. Ayrıca gemiye 100 ton yakıt ve 50 ton su alınmıştır. Bu geminin limandan kalkıştaki detveytini hesaplayınız.",
+      "secenekler": {
+        "A": "5000 ton",
+        "B": "6000 ton",
+        "C": "6250 ton",
+        "D": "5650 ton",
+        "E": "6150 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Deplasman konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_37_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 52,
+      "konu": "Deplasman",
+      "soru_metni": "Boş ağırlığı 3450 ton olan bir gemide 800 ton yakıt 100 ton su bulunmaktadır. Bu geminin günlük yakıt sarﬁyatı 20 ton, su sarﬁyatı 5 tondur. Gemi 5 günlük seyir yaptıktan sonra limana yanaşmış ve gemiye 5500 ton yük, 250 ton ilave yakıt, 50 ton su alınmıştır. Geminin son deplasmanı ve detveytini hesaplayınız.",
+      "secenekler": {
+        "A": "∆ = 10150 ton Deadweight = 6700 ton",
+        "B": "∆ = 10050 ton Deadweight = 6600 ton",
+        "C": "∆ = 10025 ton Deadweight = 6575 ton",
+        "D": "∆ = 10150 ton Deadweight = 13475 ton",
+        "E": "∆ = 10025 ton Deadweight = 10150 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Deplasman konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_37_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 53,
+      "konu": "Deplasman",
+      "soru_metni": "Boş ağırlığı 2800 ton olan bir gemide 150 ton yakıt 80 ton su bulunmaktadır. Bu geminin günlük yakıt sarﬁyatı 10 ton, su sarﬁyatı 3 tondur. Gemi 6 günlük seyir yaptıktan sonra limana yanaşmış ve gemiye 5500 ton yük, 250 ton ilave yakıt, 50 ton su alınmıştır. Geminin son deplasmanını hesaplayınız.",
+      "secenekler": {
+        "A": "∆ = 7800 ton",
+        "B": "∆ = 8830 ton",
+        "C": "∆ = 8908 ton",
+        "D": "∆ = 8752 ton",
+        "E": "∆ = 9200 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Deplasman konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_37_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 54,
+      "konu": "Deplasman",
+      "soru_metni": "Geminin detveytini bulunuz.",
+      "secenekler": {
+        "A": "DW = 5952 ton",
+        "B": "DW = 6370 ton",
+        "C": "DW = 6575 ton",
+        "D": "DW = 8830 ton",
+        "E": "DW = 8752 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Deplasman konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_38_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 55,
+      "konu": "Deplasman",
+      "soru_metni": "Boş ağırlığı 2750 olan bir gemide 500 ton yakıt bulunmaktadır. Bu gemiye 4350 ton yük, 150 ton ilave yakıt, 100 ton su alındıktan sonra Mean Draftın yaz yükleme hattının 45mm. altında olduğu tespit edilmiştir. Geminin yaz yükleme hattındaki detveyti ile yüklü deplasmanını hesaplayınız. (TPC= 10 Ton)",
+      "secenekler": {
+        "A": "∆ = 7895 ton DW = 10645 ton",
+        "B": "∆ = 7850 ton DW = 5100 ton",
+        "C": "∆ = 7590 ton DW = 4840 ton",
+        "D": "∆ = 7895 ton DW = 5145 ton",
+        "E": "∆ = 7750 ton DW = 5000 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Deplasman konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_38_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 56,
+      "konu": "Deplasman",
+      "soru_metni": "A Limanında kısmen yüklü olan geminin deplasmanı 10000 ton KG’si 5 m dir. Bu gemi KG si 10 metre olan güvertesine kereste yükleyecektir. Yükleme sonrası KM değeri 7.5 m dir. A Limanından hareket ettikten sonra 20 gün seyir yapacak olan bu gemi KG’si 0.5 m olan tanklarından günde 5 ton yakıt, KG’si 3 m olan tanklarından 5 ton su harcayacaktır. Geminin B varış limanında KM değeri 7.4 m dir ve deniz suyu yoğunluğu değişmemiştir. Geminin varış limanına 0.5 m den az olmayan bir GM ile varabilmesi istenmektedir. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Gemi seyir süresince toplam 200 ton yakıt sarf etmiştir",
+        "B": "Gemi seyir süresince toplam 200 ton tatlı su sarf etmiştir",
+        "C": "Gemi seyir süresince toplam 40 ton yakıt ve tatlı su sarf etmiştir",
+        "D": "Gemi seyir süresince toplam 100 ton tatlı su ve 100 ton yakıt sarf etmiştir",
+        "E": "Gemi seyir süresince 100 ton yağlama yağı sarfetmiştir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Deplasman konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_38_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 57,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Kana rakamları metrik sistemle işaretlenmiş bir geminin baş draftı 3 m 20 cm markasının üst hizasında, kıç draftı 4 m 20 cm markasının alt hizasında ise geminin Mean Draftı aşağıdakilerden hangisi olur?",
+      "secenekler": {
+        "A": "3 m 75 cm",
+        "B": "3 m 85 cm",
+        "C": "3 m 90 cm",
+        "D": "3 m 95 cm",
+        "E": "4 m 00 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_43_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 58,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Kana rakamları metrik sistemle işaretlenmiş bir geminin baş draftı 6 m 20 cm markasının üst hizasında, kıç draftı 6 m 40 cm markasının alt hizasında ise geminin Mean Draftı aşağıdakilerden hangisi olur?",
+      "secenekler": {
+        "A": "6 m 20 cm",
+        "B": "6 m 30 cm",
+        "C": "6 m 35 cm",
+        "D": "6 m 50 cm",
+        "E": "6 m 60 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_43_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 59,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin baş tarafındaki su kesimi 6 m 20 cm markasının tam altında, kıç taraftaki su kesimi ise 7 m 20 cm markasının üst hizasında ise bu geminin ortalama draftı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "6,70 m",
+        "B": "6,775 m",
+        "C": "6,75 m",
+        "D": "6,725 m",
+        "E": "7,05 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_43_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 60,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin baş tarafındaki su kesimi 6 m 20 cm rakamının tam ortasında, kıç taraftaki su kesimi ise 7 m 20 cm rakamının tam üst hizasında ise bu geminin Mean Draftı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "6.70 m",
+        "B": "6.775 m",
+        "C": "6.75 m",
+        "D": "6.725 m",
+        "E": "7.05 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_44_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 61,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin draftları başta 2.4 metre draft rakamının tam ortasında, kıçtaki su çekimi ise 2.6 metre rakamının tam ortasında okunmuştur. Bu geminin baş ve kıç draft ortalaması aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "2.50 metre",
+        "B": "2.55 metre",
+        "C": "2.60 metre",
+        "D": "2.45 metre",
+        "E": "2.40 metre"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_44_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 62,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin baştaki su çekimi 24 feet draft rakamının alt çizgisinden, kıçtaki su çekimi ise 26 feet draft rakamının üst çizgisinden geçmektedir. Geminin Mean Draftı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "24′ 06′′",
+        "B": "24′ 09′′",
+        "C": "25′ 00′′",
+        "D": "25′ 03′′",
+        "E": "25′ 09′′"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_45_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 63,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin baştaki su kesimi 27 feet draft rakamının tam ortasından kıçtaki su kesimi ise 29 feet rakamının tam ortasından geçmektedir. Geminin Mean Draftı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "28’ 09’’",
+        "B": "29’ 00’’",
+        "C": "28’ 03’’",
+        "D": "28’ 06’’",
+        "E": "29’ 06”"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_45_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 64,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin başta çektiği su 4,20 m kana rakamının tam ortasından, kıçta çektiği su 4,80 m kana rakamının tam üstünden geçmektedir. Geminin trimi ve ortalama draftı ne kadardır?",
+      "secenekler": {
+        "A": "60 cm kıça trimli ortalama draft = 4,500 m",
+        "B": "60 cm başa trimli ortalama draft = 4,500 m",
+        "C": "65 cm kıça trimli ortalama draft = 4,575 m",
+        "D": "60 cm başa trimli ortalama draft = 5,575 m",
+        "E": "60 cm başa trimli ortalama draft = 4,575 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_46_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 65,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Geminin okunan vasat draftının baş ve kıç draftları toplamının yarısından daha büyük değer aldığı durumda aşağıdakilerden hangisi söz konusudur?",
+      "secenekler": {
+        "A": "Meyil",
+        "B": "Trim",
+        "C": "Sagging",
+        "D": "Hogging",
+        "E": "Trimsiz gemi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_47_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 66,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Geminin okunan vasat draftının baş ve kıç draftları toplamının yarısından daha küçük değer aldığı durumda aşağıdakilerden hangisi söz konusudur?",
+      "secenekler": {
+        "A": "Meyil oluşur",
+        "B": "Trim oluşur",
+        "C": "Sagging vardır",
+        "D": "Hogging",
+        "E": "Pozitif GM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_47_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 67,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Gemiyi etkileyen hogging ve sagging etkilerini azaltmak için aşağıda verilen tedbirlerden hangisi yapılır?",
+      "secenekler": {
+        "A": "Topside tanklarına balast alınması",
+        "B": "Ambar kapaklarının açılması",
+        "C": "Dökme yükün hap yapılması",
+        "D": "Yükün mümkün olduğu kadar ambarlara eşit dağıtılması",
+        "E": "Baş ve kıç peak tanklarının balast ile doldurulması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_47_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 68,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin yüklü durumda yapılan draft sörveyinde kana rakamlarından okunan su çekimi aşağıda gösterildiği gibidir. Bu geminin durumu hakkında aşağıdakilerden hangisi söylenebilir?",
+      "secenekler": {
+        "A": "0.05 m Sagging var",
+        "B": "0.05 m Hogging var",
+        "C": "Hogging/Sagging yoktur",
+        "D": "0.20 m kıça trimlidir",
+        "E": "0.40 m başa trimlidir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_48_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 69,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin 6,5 m baş, 7,5 m kıç ve 7,2 m vasat draftları okunmuştur. Bu gemi aşağıdakilerden hangisinin etkisi altındadır?",
+      "secenekler": {
+        "A": "Overload (aşırı yüklem",
+        "B": "Hogging (vasatta yükselm",
+        "C": "Sagging (vasatta çökm",
+        "D": "Başlı gemi",
+        "E": ""
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_48_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 70,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin okunan draftları; Baş: 8,20 m Kıç: 9,20 m Vasat: 8,80 m. Bu gemi aşağıdakilerden hangi etkinin altındadır?",
+      "secenekler": {
+        "A": "Hogging (vasatta yükselm",
+        "B": "Sagging (vasatta çökm",
+        "C": "Overload (aşırı yüklem",
+        "D": "Düz gemi",
+        "E": ""
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_48_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 71,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Draftları; Baş: 4.40 m, Kıç: 5.20 m, Vasat: 4.70 m olarak okunan bir geminin durumu aşağıdakilerden hangisine uymaktadır?",
+      "secenekler": {
+        "A": "Hogging (Vasatta yükselm",
+        "B": "Sagging (Vasatta çökm",
+        "C": "Overload (Aşırı yüklem",
+        "D": "Düz gemi",
+        "E": ""
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_49_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 72,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Bir geminin 6.5 m baş, 7.5 m kıç ve 6.9 m vasat draftları okunmuştur. Bu gemi aşağıdakilerden hangi etkinin altındadır?",
+      "secenekler": {
+        "A": "20 cm Hogging",
+        "B": "Başlı gemi",
+        "C": "10 cm Sagging",
+        "D": "Overload",
+        "E": "10 cm Hogging"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_49_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 73,
+      "konu": "Draft Okuma - Metrik Sistem",
+      "soru_metni": "Baş draftı 6.20 m, vasat draftı 6,65 m, kıç draftı 7.20 m olan bir gemide aşağıdaki durumlardan hangisi söz konusudur?",
+      "secenekler": {
+        "A": "5 cm Hogging",
+        "B": "5 cm Sagging",
+        "C": "50 cm Hogging",
+        "D": "50 cm Sagging",
+        "E": "Hogging/Sagging Etkisi yoktur"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Draft Okuma - Metrik Sistem konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_49_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 74,
+      "konu": "TPC",
+      "soru_metni": "Bir geminin draftını 1 cm değiştirmek için gerekli olan ağırlık değerini ifade eden kısaltma aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "LCF",
+        "B": "LOA",
+        "C": "MCT1cm",
+        "D": "TPC",
+        "E": "LBP"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_52_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 75,
+      "konu": "TPC",
+      "soru_metni": "Bir gemiyi 1 cm batıran ağırlığa ne denir?",
+      "secenekler": {
+        "A": "TPC",
+        "B": "MCT 1 cm",
+        "C": "Metrik ton",
+        "D": "Long ton",
+        "E": "Doğrultucu Moment"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_52_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 76,
+      "konu": "TPC",
+      "soru_metni": "Gemi draftını 1 cm arttıran değer aşağıdakilerden hangi kısaltma ile gösterilir?",
+      "secenekler": {
+        "A": "TPC",
+        "B": "MCT1cm",
+        "C": "LBP",
+        "D": "LOA",
+        "E": "LCF"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_52_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 77,
+      "konu": "TPC",
+      "soru_metni": "Aşağıdakilerden hangisi TPC nin tanımıdır?",
+      "secenekler": {
+        "A": "Bir geminin draftını 1 cm değiştirmek için gerekli olan moment",
+        "B": "Bir geminin draftını 1 cm değiştirmek için gerekli olan ağırlık",
+        "C": "Bir gemiyi 1 cm başlı yapmak için gerekli olan moment",
+        "D": "Bir gemiyi 1 cm kıçlı yapmak için gerekli moment",
+        "E": "Bir gemiyi overload yapmak için gerekli moment"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_53_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 78,
+      "konu": "TPC",
+      "soru_metni": "1 cm batma tonajı (T1) tanımı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Geminin 1m batması halindeki deplasman artışıdır",
+        "B": "Gemide 1m trim yaratan momenttir",
+        "C": "Gemiye 1cm meyil ettiren momenttir",
+        "D": "Gemide 1cm trim yaratan momenttir",
+        "E": "Geminin 1cm batması halindeki deplasman artışıdır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_53_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 79,
+      "konu": "TPC",
+      "soru_metni": "Tatlı suyun doğurduğu draft farkını aşağıdakilerden hangisi belirtmektedir?",
+      "secenekler": {
+        "A": "TPC",
+        "B": "LBP",
+        "C": "MMM",
+        "D": "FWA",
+        "E": "LCF"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_54_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 80,
+      "konu": "TPC",
+      "soru_metni": "Tatlı su değişkenliği, FWA nerede ölçülür?",
+      "secenekler": {
+        "A": "S ile W arasında",
+        "B": "T ile S arasında",
+        "C": "S ile TF arasında",
+        "D": "S ile F arasında",
+        "E": "LS ile LT arasında"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_54_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 81,
+      "konu": "TPC",
+      "soru_metni": "Aşağıdakilerden hangisi Tatlı suyun doğurduğu draft farkının (FWA) açıklamasıdır?",
+      "secenekler": {
+        "A": "Yaz yükleme hattı ile tatlı su hattı arasındaki mesafedir",
+        "B": "Mean draft ile tatlı su hattı arasındaki mesafedir",
+        "C": "Tropikal su hattı ile tatlı su hattı arasındaki mesafedir",
+        "D": "Yaz yükleme su hattı ile mean draft arasındaki mesafedir",
+        "E": "Baş draft ile kıç draft arasındaki farktır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_54_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 82,
+      "konu": "TPC",
+      "soru_metni": "Bir geminin içinde yüzdüğü deniz suyunun yoğunluğu değiştiğinde aşağıdakilerden hangisi değişmez? ( Tüketimler sıfır kabul ediliyor )",
+      "secenekler": {
+        "A": "Draftı",
+        "B": "Deplasmanı",
+        "C": "Trimi",
+        "D": "Deplasman hacmi",
+        "E": "1 cm batma tonajı"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_55_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 83,
+      "konu": "TPC",
+      "soru_metni": "Gemi tatlı sudan tuzlu suya geçtiğinde aşağıdakilerden hangisi değişmez?",
+      "secenekler": {
+        "A": "Draft",
+        "B": "Deplasman",
+        "C": "Deplasman hacmi",
+        "D": "LCB",
+        "E": "KM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_55_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 84,
+      "konu": "TPC",
+      "soru_metni": "Tuzlu sudan tatlı suya geçiş yapan bir geminin bünyesinde aşağıdakilerden hangisinin oluşması beklenmez?",
+      "secenekler": {
+        "A": "Deplasman hacim değerinin artışı",
+        "B": "Baş draft değerinin artışı",
+        "C": "Kıç draft değerinin artışı",
+        "D": "Deplasman tonaj değerinin artışı",
+        "E": "Fribord değerinin azalışı"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_55_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 85,
+      "konu": "TPC",
+      "soru_metni": "Gemi çok yoğun sudan daha az yoğun suya geçiş yaptığında aşağıdakilerden hangisi gerçekleşir?",
+      "secenekler": {
+        "A": "Geminin fribordu büyür",
+        "B": "Geminin fribordu değişmez",
+        "C": "Gemi sancağa yatar",
+        "D": "Gemi trimsiz duruma gelir",
+        "E": "Fribordu küçülür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_56_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 86,
+      "konu": "TPC",
+      "soru_metni": "Bir gemi deplasmanı değişmeden deniz suyundan tatlı suya geçerse;",
+      "secenekler": {
+        "A": "Yalnız geminin draftı değişir",
+        "B": "Yalnız geminin trimi değişir",
+        "C": "Geminin hem draftı hem trimi değişir",
+        "D": "Trim sabit kalır",
+        "E": "Draft sabit kalır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_56_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 87,
+      "konu": "TPC",
+      "soru_metni": "Bir gemi deniz suyundan tatlı suya geçtiğinde draftındaki değişim miktarı ne kadar olur?",
+      "secenekler": {
+        "A": "Gemi deplasmanının TPC değerine bölümünden elde edilen miktar kadar artar",
+        "B": "Boş gemi ağırlığının MCT değerine bölümünden elde edilen miktar kadar artar",
+        "C": "Draft FWA kadar azalır",
+        "D": "Draft FWA kadar artar",
+        "E": "TPC ve MCT değerlerinin çarpımından elde edilen değer kadar azalır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_56_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 88,
+      "konu": "TPC",
+      "soru_metni": "Geminin tuzlu sudan tatlı suya geçmesi ile aşağıdaki değerlerden hangisi değişir? I-Deplasman II-Ağırlık merkezi III-Draft",
+      "secenekler": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "I ve II",
+        "E": "I ve III"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_57_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 89,
+      "konu": "TPC",
+      "soru_metni": "Geminin nehirden okyanusa geçmesi ile aşağıdaki değerlerden hangisi değişmez? I-Deplasman hacmi II-Ağırlık merkezi III-Geminin toplam ağırlığı",
+      "secenekler": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "I ve II",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_57_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 90,
+      "konu": "TPC",
+      "soru_metni": "Bir geminin deplasmanı arttıkça aşağıdaki şıklarda verilen değerlerden hangisi artar?",
+      "secenekler": {
+        "A": "Mean Draft",
+        "B": "Yalnız kıç draft",
+        "C": "Yalnız baş draft",
+        "D": "Geminin LBP’si",
+        "E": "Geminin LOA’sı"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_58_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 91,
+      "konu": "TPC",
+      "soru_metni": "Bir yükleme sonucunda geminin draftı artar ama trimi değişmez; I -Bu durum paralel batmadır II-Draft değişme miktarı yükün TPC’ye bölünmesi ile bulunur III-Bu durum trim oluşturur Yukarıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "I. İfade",
+        "B": "II. İfade",
+        "C": "I.ve II. ifade doğrudur",
+        "D": "III. ifade doğrudur",
+        "E": "Hepsi yanlıştır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_58_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 92,
+      "konu": "TPC",
+      "soru_metni": "1 cm batma tonajı TPC = 18 ton/cm olarak verilen bir gemiye 153 ton’luk bir ağırlık konduğu taktirde geminin paralel batma miktarını bulunuz.",
+      "secenekler": {
+        "A": "8,4 cm",
+        "B": "8,5 cm",
+        "C": "0,11 cm",
+        "D": "1,34 cm",
+        "E": "0,22"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_58_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 93,
+      "konu": "TPC",
+      "soru_metni": "Deplasmanı 10.000 ton olan bir geminin TPC’si 50 tondur. Geminin baş ve kıç draftlarını 5 cm arttırmak için geminin neresine ve ne kadar yük alınmalıdır?",
+      "secenekler": {
+        "A": "Ağırlık merkezi üzerine 200 ton yük",
+        "B": "Ağırlık merkezi üzerine 250 ton yük",
+        "C": "Yüzme yeteneği F’nin üzerine 250 ton yük",
+        "D": "Yüzme merkezi B’nin üzerine 250 ton yük",
+        "E": "200 ton yük"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_59_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 94,
+      "konu": "TPC",
+      "soru_metni": "Başta 5.60 m Kıçta 6.80 m su çeken gemiye aşağıdaki yükler yüklenmiştir. No:1 Ambar 500 ton 25 m Başa No:2 Ambar 1200 ton 09 m Başa No:3 Ambar 700 ton 15 m Kıça No 4 Ambar 600 ton 24m Kıça F noktası gemi ortasında ve TPC=30 ton/cm, birim trim moment (MCT1cm)=80 tonmetre/cm olarak tespit edilmiştir. Bu gemide yükleme sonucu oluşacak parelel batmayı bulunuz.",
+      "secenekler": {
+        "A": "75 cm",
+        "B": "100 cm",
+        "C": "120 cm",
+        "D": "210 cm",
+        "E": "180 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_59_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 95,
+      "konu": "TPC",
+      "soru_metni": "Bir gemide ortadan 20 m ilerideki 2 nolu ambara 250 ton yük yükleniyor. Aynı gemide ortadan 18 m gerideki 4 nolu ambardan 50 ton yük boşaltılıyor. Aralarında 38 metre olan bu ambarlardan 4 nolu ambardan 2 nolu ambara 100 ton yük şifting ediliyor. Bu işlemler sonucunda oluşacak Paralel Batma/Çıkma miktarı aşağıdakilerden hangisidir? ( MTC 1 cm = 100 ton metre, LBP = 100m, TPC = 20 Ton 1cm )",
+      "secenekler": {
+        "A": "10 cm",
+        "B": "15 cm",
+        "C": "20 cm",
+        "D": "25 cm",
+        "E": "30 cm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_60_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 96,
+      "konu": "TPC",
+      "soru_metni": "Deniz suyunda deplasmanı 5000 ton olan bir geminin, tatlı suda aynı draftta yüzebilmesi için aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Deplasmanı sabit kalmalıdır",
+        "B": "Yük yüklenmelidir",
+        "C": "Yük boşaltılmalıdır",
+        "D": "Gemi üzerindeki mevcut yük baştan kıça kaydırılmalıdır",
+        "E": "Gemi üzerindeki mevcut yük sancak yönüne kaydırılmalıdır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_61_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 97,
+      "konu": "TPC",
+      "soru_metni": "Yüklü deplasmanı 4000 ton olan bir geminin TPC’si 20 tondur. Bu gemi yoğunluğu 1010 Kg/m3 olan bir suda yaz yükleme hattına kadar yükleyecektir. Bu geminin FWA’sı nedir?",
+      "secenekler": {
+        "A": "35 mm",
+        "B": "40 mm",
+        "C": "45 mm",
+        "D": "50 mm",
+        "E": "55 mm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_61_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 98,
+      "konu": "TPC",
+      "soru_metni": "Yüklü deplasmanı 4000 ton olan bir geminin TPC’si 20 tondur. Bu gemi yoğunluğu 1010 Kg/m3 olan bir suda yaz yükleme hattına kadar yükleyecektir. Gemi deniz suyuna çıktığında mean draftı ne kadar değişir?",
+      "secenekler": {
+        "A": "30 mm",
+        "B": "39 mm",
+        "C": "42 mm",
+        "D": "54 mm",
+        "E": "59 mm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_61_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 99,
+      "konu": "TPC",
+      "soru_metni": "Yüklemesini 1,025 ton/m3 olan suda yapan bir geminin FWA sı 120 mm dir. Deplasmanı değişmeden tatlı suya geçmesi durumunda ortalama draftındaki değişim ne olur?",
+      "secenekler": {
+        "A": "100 mm",
+        "B": "120 mm",
+        "C": "125 mm",
+        "D": "140 mm",
+        "E": "150 mm"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_62_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 100,
+      "konu": "TPC",
+      "soru_metni": "Tam yük yaz deplasmanı 24000 ton olan bir gemi tam yüklü olarak 1025 kg/m3 olan deniz suyunda yüzmektedir. Vasat draftı 6.10 metre, TPC si 30 ton dur. Bu gemi yoğunluğu 1035 kg/m3 olan suya geçerse yeni vasat draftı ne olur?",
+      "secenekler": {
+        "A": "6.18 m",
+        "B": "6.12 m",
+        "C": "6.08 m",
+        "D": "6.04 m",
+        "E": "6.02 m"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_62_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 101,
+      "konu": "TPC",
+      "soru_metni": "FWA 100 mm, TPC 30 ton olan bir gemi yoğunluğu 1020 kg/m3 olan bir suda yükleme yapmaktadır. Yükleme sonunda vasattaki su hattının yaz yükleme hattından 20 cm aşağıda olduğu tespit edilmiştir. Bu geminin yüklemeden sonra açık denizde draftının yaz yükleme hattında olabilmesi için gemiye kaç ton yük ilave edilmesi gerekir?",
+      "secenekler": {
+        "A": "6600 ton",
+        "B": "660 ton",
+        "C": "60 ton",
+        "D": "600 ton",
+        "E": "66 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_63_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 102,
+      "konu": "TPC",
+      "soru_metni": "A gemisi, su yoğunluğu 1015 kg/m3 olan bir limanda yükleme yapmaktadır. Vasattaki su seviyesi, yaz yükleme hattının 15 cm altındadır. Gemi açık denize çıktığında yaz yükleme hattında olabilmesi için kaç ton daha yük alabilir? ( TPC: 30 ton, FWA: 75 mm )",
+      "secenekler": {
+        "A": "90 ton",
+        "B": "450 ton",
+        "C": "540 ton",
+        "D": "345 ton",
+        "E": "295 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_63_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 103,
+      "konu": "TPC",
+      "soru_metni": "FWA 110 mm, TPC 20 ton olan bir gemi yoğunluğu 1015 kg/m3 olan bir suda yükleme yapmaktadır. Yükleme sonunda vasattaki su hattının yaz yükleme hattından 15 cm aşağıda olduğu tespit edilmiştir. Bu geminin yüklemeden sonra açık denizde draftının yaz yükleme hattında olabilmesi için gemiye kaç ton yük ilave edilmesi gerekir?",
+      "secenekler": {
+        "A": "296 Ton",
+        "B": "428 Ton",
+        "C": "278 Ton",
+        "D": "388 Ton",
+        "E": "528 Ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_63_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 104,
+      "konu": "TPC",
+      "soru_metni": "FWA 120 mm, TPC 25 ton olan bir gemi yoğunluğu 1010 kg/m3 olan bir suda yükleme yapmaktadır. Yükleme sonunda vasattaki su hattının yaz yükleme hattının 10 cm aşağıda olduğu tespit edilmiştir. Bu geminin yüklemeden sonra açık denizde draftının yaz yükleme hattında olabilmesi için gemiye kaç ton yük ilave edilmesi gereklidir?",
+      "secenekler": {
+        "A": "1800 ton",
+        "B": "180 ton",
+        "C": "430 ton",
+        "D": "4300 ton",
+        "E": "280 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_64_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 105,
+      "konu": "TPC",
+      "soru_metni": "A gemisi deniz suyu yoğunluğu 1010 kg/m3 olan bir limanda yükleme yapmaktadır. A gemisinin yükleme sonuna yaklaşırken yapılan kontrolünde vasattaki su seviyesinin yaz yükleme hattının 20 cm altında olduğu tespit edilmiştir. ( TPC: 20 ton, FWA: 125 mm ) A Gemisi deniz suyu yoğunluğu 1025 kg/m3 olan açık denize çıktığında vasat draftın yaz yükleme hattında olabilmesi kaç ton daha yük almalıdır?",
+      "secenekler": {
+        "A": "75 ton",
+        "B": "250 ton",
+        "C": "275 ton",
+        "D": "320 ton",
+        "E": "550 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_64_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 106,
+      "konu": "TPC",
+      "soru_metni": "A gemisi yoğunluğu 1020 kg/m3 olan bir limanda yükleme yapmaktadır. Vasattaki su seviyesi yaz yükleme hattının 20 cm altındadır. Geminin daha yükleyecek 400 ton yükü kalmıştır. Gemi açık denize çıktığında yaz yükleme hattında olabilmesi için fazladan kaç ton daha yük talep edebilir? (FWA=120 mm TPC=30 ton)",
+      "secenekler": {
+        "A": "272",
+        "B": "444",
+        "C": "400",
+        "D": "323",
+        "E": "175"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_64_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 107,
+      "konu": "TPC",
+      "soru_metni": "A gemisi su yoğunluğu 1020 kg/m3 olan bir limanda yükleme yapmaktadır. Vasattaki su seviyesi yaz yükleme hattının 20 cm altındadır. Geminin limanda 400 ton yükü kalmıştır. Gemi açık denize çıktığında yaz yükleme hattında olabilmesi için fazladan kaç ton balast almalıdır? ( TPC=30 Ton, FWA=75 mm )",
+      "secenekler": {
+        "A": "245 ton",
+        "B": "259 ton",
+        "C": "355 ton",
+        "D": "250 ton",
+        "E": "295 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_65_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 108,
+      "konu": "TPC",
+      "soru_metni": "Yoğunluğu 1025 kg/m3 olan bir suda yüzen bir geminin deplasmanı 12000 ton dur. Bu gemi su yoğunluğu 1010 kg/m3 olan bir rıhtıma yanaştığında, ilk draftına gelebilmesi için kaç ton yük boşaltılmalıdır? (TPC = 20 Ton Cm)",
+      "secenekler": {
+        "A": "150 ton",
+        "B": "165 ton",
+        "C": "175 ton",
+        "D": "185 ton",
+        "E": "180 ton"
+      },
+      "dogru_cevap": "",
+      "aciklama": "TPC konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_65_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 109,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Aşağıdaki noktalardan hangisi bir geminin enine dengesi ile ilgili değildir?",
+      "secenekler": {
+        "A": "G noktası",
+        "B": "B noktası",
+        "C": "M noktası",
+        "D": "K noktası",
+        "E": "Z noktası"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_68_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 110,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Aşağıdaki olaylardan hangisinde ağırlık merkezi yer değiştirmez?",
+      "secenekler": {
+        "A": "Geminin yalpa yapması",
+        "B": "Gemiye yük alınması",
+        "C": "Yük şifting yapılması",
+        "D": "Gemiye balast alınması",
+        "E": "Gemiye yakıt alınması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_69_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 111,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Gemilerde meyil tecrübesi niçin yapılır?",
+      "secenekler": {
+        "A": "Sephiye merkezinin bulunması için",
+        "B": "Ağırlık merkezinin yerinin bulunması için",
+        "C": "Draftın bulunması için",
+        "D": "Metasentır yarıçapının bulunması için",
+        "E": "Deplasmanın bulunması için"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_69_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 112,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir geminin dengesi iki noktanın konumu ile belirlenir. Bunlardan biri Yüzdürme Yeteneği Merkezi olan “B” noktasıdır. Diğer nokta ise aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "K noktası",
+        "B": "Z noktası",
+        "C": "G noktası",
+        "D": "M noktası",
+        "E": "F noktası"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_69_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 113,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir geminin ağırlık merkezi için aşağıdaki önermelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Sefer boyunca sabit kalır",
+        "B": "Gemi derinliğinin orta noktasındadır",
+        "C": "Boyuna yeri gemi vasatındadır",
+        "D": "Yatay düşey hareketleri hesaplanamaz",
+        "E": "Yukarıdakilerin hepsi yanlıştır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_70_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 114,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Ağırlık merkezi için aşağıdaki önermelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Ağırlık merkezi yatay ve düşey hareketleri hesaplanabilir",
+        "B": "Konteyner gemilerinde güverte yükü ağırlık merkezi hesabına katılır",
+        "C": "Statik stabilite eğrisinde ağırlık merkezi düzeltmeleri yapılabilir",
+        "D": "Ağırlık merkezi bütün bir sefer boyunca sabit kalır",
+        "E": "Ağırlık merkezi yaklaşık olarak hesaplanabilir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_70_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 115,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Şekildeki gemiye kıç taraftan bakılmaktadır. Şekilde verilen bilgilere göre aşağıdakilerden hangisi doğrudur? I-Gemideki Y noktasına yükleme yapılırsa ağırlık merkezi (G) 1 yönünde hareket eder II-Gemideki Y noktasına yükleme yapılırsa ağırlık merkezi (G) 2 yönünde hareket eder III-Gemideki Metacenter (M) noktasına yükleme yapılırsa ağırlık merkezi (G) 3 yönünde hareket eder IV-Gemideki X noktasına yükleme yapılırsa ağırlık merkezi (G) 2 yönünde hareket eder V-Gemideki X noktasına yükleme yapılırsa ağırlık merkezi (G) 1 yönünde hareket eder",
+      "secenekler": {
+        "A": "I ve IV",
+        "B": "II, III ve V",
+        "C": "I, III, IV",
+        "D": "II ve V",
+        "E": "I ve IV"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_71_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 116,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Yüzme merkezi F’nin yeri nerededir?",
+      "secenekler": {
+        "A": "Sephiye merkezindedir",
+        "B": "Ağırlık merkezinin üzerindedir",
+        "C": "Islak hacmin ağırlık merkezindedir",
+        "D": "Su hattı alanının geometrik merkezindedir",
+        "E": "Su altı hacminin geometrik merkezindedir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_72_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 117,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir gemide su hattı alanının geometrik merkezine ne denir?",
+      "secenekler": {
+        "A": "Yüzme merkezi (F)",
+        "B": "Ağırlık merkezi (G)",
+        "C": "Metasentır noktası (M)",
+        "D": "Yüzdürme yeteneği merkezi (",
+        "E": "Kuvvet alanı"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_72_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 118,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir geminin üzerinde döndüğü farzedilen nokta aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "B noktası",
+        "B": "G noktası",
+        "C": "M noktası",
+        "D": "F noktası",
+        "E": "K noktası"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_72_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 119,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir gemi meyil açısı ve trimi aşağıdaki merkezlerden hangisinde yapar?",
+      "secenekler": {
+        "A": "B noktasından",
+        "B": "G noktasından",
+        "C": "M noktasından",
+        "D": "Z noktasından",
+        "E": "F noktasından"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_73_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 120,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Geminin etrafında yalpa ve baş-kıç yaptığı kabul edilen noktaya ne isim verilir?",
+      "secenekler": {
+        "A": "Yüzme merkezi",
+        "B": "Su altı hacim merkezi",
+        "C": "Gemi ağırlık merkezi",
+        "D": "Yükün ağırlık merkezi",
+        "E": "Enine hareket merkezi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_73_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 121,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Sahilden alınan bir yük, geminin tam yüzme merkezi F’nin üzerine konursa aşağıdaki olaylardan hangisine sebep olur?",
+      "secenekler": {
+        "A": "Ortalama draftı azaltır",
+        "B": "Baş ve kıç draftları eşit miktarda arttırır",
+        "C": "Gemiye kıça trim yaptırır",
+        "D": "Gemiye meyil yaptırır",
+        "E": "Gemiye başa trim yaptırır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_73_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 122,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir geminin yüzme merkezi F gemi su hattı alanının geometrik merkezidir. Bu nokta hakkında aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "F noktasının gemi ortasından uzaklığına LCF denir",
+        "B": "F noktası gemi orta hattının arkasında olursa gemi kıçlı olur",
+        "C": "Gemiye yüklenen yüklerin F noktasından olan uzaklığı o yük için boyuna moment koludur",
+        "D": "F noktası gemi orta hattı üzerinde olursa trim farkı baş ve kıç draftlara eşit yansır",
+        "E": "F noktası gemi orta hattı üzerinde bulunmazsa trim farkı baş ve kıç draftlara farklı yansır"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_74_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 123,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Yüzdürme yeteneği merkezini tanımlarken aşağıdaki simgelerden hangisini kullanırız?",
+      "secenekler": {
+        "A": "G",
+        "B": "F",
+        "C": "LCF",
+        "D": "TPC",
+        "E": "B"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_75_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 124,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Aşağıdakilerden hangi kısaltma yüzdürme yeteneği merkezinin yüksekliğini ifade eder?",
+      "secenekler": {
+        "A": "BK",
+        "B": "KB",
+        "C": "CB",
+        "D": "BM",
+        "E": "BG"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_75_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 125,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Enine dengede “Geminin su altı hacim merkezinin tabandan yüksekliğidir” ifadesi aşağıdakilerden hangisinin tanımıdır?",
+      "secenekler": {
+        "A": "KB",
+        "B": "GM",
+        "C": "KM",
+        "D": "BM",
+        "E": "KN"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_75_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 126,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "KB sembolünün tanımı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Su hattı alan merkezi",
+        "B": "Ağırlık merkezinin düşey konumu",
+        "C": "Ağırlık merkezinin boyuna konumu",
+        "D": "Hacim merkezinin düşey konumu",
+        "E": "Yüzme merkezinin boyuna konumu"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_76_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 127,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir gemide (B) noktasının konumu aşağıdaki değerlerden hangisine bağlıdır?",
+      "secenekler": {
+        "A": "Geminin boyu",
+        "B": "Geminin draftı",
+        "C": "Geminin derinliği",
+        "D": "Geminin nizami freebordu",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_76_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 128,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Sephiye merkezi B’nin yeri nerededir?",
+      "secenekler": {
+        "A": "Su kesiminin çevrelediği düzlem alanının geometrik merkezidir",
+        "B": "Sualtı hacminin geometrik merkezindedir",
+        "C": "Gemi ağırlığının etki noktasındadır",
+        "D": "Geminin basınç merkezindedir",
+        "E": "Dönme ekseni üzerindedir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_76_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 129,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Eğer bir gemi iskeleye yatarsa, yüzdürme yeteneği merkezi (B);",
+      "secenekler": {
+        "A": "İskele tarafa hareket eder",
+        "B": "Sancak tarafa hareket eder",
+        "C": "Aşağıya doğru hareket eder",
+        "D": "Yerinde sabit kalır",
+        "E": "Gemi başına hareket eder"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_77_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 130,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir geminin rüzgar etkisiyle sancak veya iskele yönünde meyil etmesi durumunda aşağıdakilerden hangisi meydana gelir?",
+      "secenekler": {
+        "A": "Geminin deplasmanı değişir",
+        "B": "yeri değişir",
+        "C": "Geminin Ağırlık Merkezinin (G) yeri değişir",
+        "D": "Geminin Doğrultucu Moment Kolu (GZ) değişmez",
+        "E": "Geminin su altında kalan hacmi değişir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_77_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 131,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir geminin meyil açısı değiştiği zaman aşağıdakilerden hangisi meydana gelir?",
+      "secenekler": {
+        "A": "G ve B yer değiştirirler",
+        "B": "G sabit kalır, B yer değiştirir",
+        "C": "G ve B noktalarında değişme olmaz",
+        "D": "G yukarı hareket eder ve GM azalır",
+        "E": "B sabit kalır ve G yeni ağırlık merkezine kayar"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_77_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 132,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Bir gemi deplasmanı değişmeden deniz suyundan tatlı suya geçerse",
+      "secenekler": {
+        "A": "Ağırlık merkezi yer değiştirir",
+        "B": "Yüzdürme yeteneği merkezi yer değiştirir",
+        "C": "Metasentır noktası yer değiştirir",
+        "D": "Ağırlığı artar",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_78_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 133,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "B noktası bir geminin yüzdürme yeteneği merkezi olup suda yüzen bir gemi dik olarak bu noktadan yukarı doğru itilir. Aşağıdaki hangi durumda bu noktanın yeri değişmez?",
+      "secenekler": {
+        "A": "Gemiye bir yük yüklendiği zaman",
+        "B": "Gemi yalpa yapıp tekrar ilk konumuna döndüğü zaman",
+        "C": "Gemiden bir yük boşaltıldığı zaman",
+        "D": "Gemi yoğunluğu farklı suya girdiği zaman",
+        "E": "Gemideki yük şifting edildiği zaman"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_78_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 134,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Aşağıda verilen olaylardan hangisinde yüzdürme kuvvetinin kısmen kaybı söz konusudur?",
+      "secenekler": {
+        "A": "Geminin yük alması",
+        "B": "Geminin kıça trimli olması",
+        "C": "Gemi ambarının yaralanma sonucu su almaya başlaması",
+        "D": "Güverteye yük alınması",
+        "E": "Geminin bir tarafa yatık olması"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_78_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 135,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Yüzdürme yeteneği merkezi ile ilgili aşağıda verilen yargılardan hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Yüzdürme yeteneği merkezi, ağırlık merkezinin altındadır",
+        "B": "Yüzdürme yeteneği merkezi, geminin su altı geometrik merkezidir",
+        "C": "Yüzdürme yeteneği merkezi ‘G’ harﬁ ile belirtilir",
+        "D": "Geminin bir tarafa yatması ile yüzdürme yeteneği merkezi yer değiştirir",
+        "E": "Bir gemiyi yüzdüren dikey kuvvetlerin birleştiği noktaya yüzdürme yeteneği merkezi denir"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_79_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 136,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Şekilde kıç tarafından bakılan bir gemi görülmektedir. Verilen bilgilere göre aşağıdaki ifadelerden hangisi doğrudur? I-Gemi sancağa meyil yaparsa geminin yüzdürme merkezi (B) 2 yönünde hareket eder II-Gemi sancağa meyil yaparsa geminin yüzdürme merkezi (B) 1 yönünde hareket eder III-Gemi iskeleye meyil yaparsa geminin yüzdürme merkezi (B) 2 yönünde hareket eder IV-Gemi iskeleye meyil yaparsa geminin yüzdürme merkezi (B) 1 yönünde hareket eder",
+      "secenekler": {
+        "A": "I ve III",
+        "B": "II ve IV",
+        "C": "Yalnız I",
+        "D": "Yalnız III",
+        "E": "I ve IV"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_79_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 137,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "KB+BM değeri aşağıdaki ifadelerden hangisini hesaplamamızı sağlar?",
+      "secenekler": {
+        "A": "Metasentır noktasının G’ye uzaklığı",
+        "B": "Metasentır yüksekliğini",
+        "C": "Metasentır noktasının omurgadan uzaklığını",
+        "D": "Metasentır açısını",
+        "E": "Metasentırın F noktasından uzaklığını"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_80_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 138,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Küçük yatma açılarında yüzdürme yeteneği merkezinden geçen yüzdürme kuvveti aşağıdaki konumlardan hangisinde metasentır noktasından geçer?",
+      "secenekler": {
+        "A": "Sadece kararlı denge durumunda",
+        "B": "Sadece kararsız denge durumunda",
+        "C": "Sadece nötr denge durumunda",
+        "D": "Her üç durumda",
+        "E": "İlk 2 durumda"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_80_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 139,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Geminin enine metesantr yarıçapı aşağıdakilerden hangisi ile gösterilir?",
+      "secenekler": {
+        "A": "KG",
+        "B": "GM",
+        "C": "BM",
+        "D": "KM",
+        "E": "LBP"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_80_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 140,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "BM sembolü neyi tanımlamaktadır?",
+      "secenekler": {
+        "A": "Enine metasentır yüksekliği",
+        "B": "Enine metasentır yarıçapı",
+        "C": "Boyuna metasentır yarıçapı",
+        "D": "Sephiye merkezinin dikey konumu",
+        "E": "Yüzme merkezinin dikey konumu"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_81_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 141,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "BM (metasantr yarıçapı) aşağıdaki verilerden hangileri ile hesaplanır?",
+      "secenekler": {
+        "A": "Geminin boyuna eksene göre su hattı atalet momenti ve hacmi",
+        "B": "Geminin boyuna eksene göre su hattı atalet momenti ve su hattı alanı",
+        "C": "Geminin boyuna eksene göre su hattı atalet momenti ve blok katsayısı",
+        "D": "Geminin deplasmanı ve su hattı alanı",
+        "E": "Geminin deplasmanı ve en kesit alanları"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_81_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 142,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "BM (metasantr yarıçapı) ile gemi genişliği B arasındaki aşağıda belirtilen bağıntılardan hangisi doğrudur?",
+      "secenekler": {
+        "A": "Gemi genişliği arttıkça BM değeri küçülür",
+        "B": "Gemi genişliği arttıkça BM değeri tender gemilerde küçülür, stiff gemilerde büyür",
+        "C": "BM değeri gemi genişliği ile değişmez",
+        "D": "Gemi genişliği arttıkça BM değeri büyür",
+        "E": "KG değeri bilinmiyorsa bir şey söylenemez"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_81_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 143,
+      "konu": "Gemi Üzerindeki Noktalar",
+      "soru_metni": "Şekilde kıç tarafından bakılan gemi görülmektedir. Verilen bilgilere göre aşağıdaki ifadelerden hangisi doğrudur? I-Gemi sancağa meyil yapmış konumdayken deniz suyu hattı D1-H1 olur II-Gemi iskeleye meyil yapmış konumdayken deniz suyu hattı D2-H2 olur III-Gemi sancağa meyil yapmış konumdayken deniz suyu hattı D2-H2 olur IV-Gemi iskeleye meyil yapmış konumdayken deniz suyu hattı D1-H1 olur",
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "III ve IV",
+        "D": "I ve II",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "",
+      "aciklama": "Gemi Üzerindeki Noktalar konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_82_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 144,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Metasentır yüksekliği GM aşağıdaki formüllerden hangisi ile hesaplanır?",
+      "secenekler": {
+        "A": "KM - BM",
+        "B": "KM + BM",
+        "C": "KM - KG",
+        "D": "KM - KB",
+        "E": "KM + KB"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_84_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 145,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Omurga hattından metasantr yüksekliği ile ağırlık merkezi yüksekliği arasındaki fark aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "KG",
+        "B": "GM",
+        "C": "BM",
+        "D": "KM",
+        "E": "KB"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_84_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 146,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Gemiye dışarıdan ağırlık eklenmesi durumunda aşağıdakilerden hangisi değişmez?",
+      "secenekler": {
+        "A": "Ağırlık merkezi",
+        "B": "Hacim merkezi",
+        "C": "GM",
+        "D": "Gemi genişliği",
+        "E": "BM"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_84_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 147,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Geminin ağırlık merkezine dışarıdan ağırlık eklenmesi durumunda aşağıdakilerden hangisi değişmez?",
+      "secenekler": {
+        "A": "GM",
+        "B": "KM",
+        "C": "Hacim merkezi",
+        "D": "BM",
+        "E": "Ağırlık merkezi"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_85_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 148,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Ağır bumba çalıştıran gemilerde karşılaşılabilecek denge problemi aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Geminin KG yüksekliği gittikçe azalır",
+        "B": "Geminin LBP si azalır",
+        "C": "Geminin GM değeri azalır",
+        "D": "Geminin GM i artar",
+        "E": "Gemi KM değeri büyür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_85_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 149,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Bir geminin güverte üstü donanımlarındaki aşırı buzlanma birikimi aşağıdakilerden hangi durumu oluşturabilir?",
+      "secenekler": {
+        "A": "Detveyti büyütür",
+        "B": "GM’i büyütür",
+        "C": "GM’i küçültür",
+        "D": "KB’yi küçültür",
+        "E": "Gross tonajı küçültür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_85_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 150,
+      "konu": "GM = KM - KG",
+      "soru_metni": "Güvertesine konteyner ve güverte yükü yükleyen bir gemide aşağıdaki durumlardan hangisi tespit edilir?",
+      "secenekler": {
+        "A": "GM büyür",
+        "B": "Metasentır noktası yukarı hareket eder",
+        "C": "Gemi stiff olur",
+        "D": "GM değişmez",
+        "E": "GM küçülür"
+      },
+      "dogru_cevap": "",
+      "aciklama": "GM = KM - KG konusu ile ilgili soru.",
+      "formuller": [],
+      "gorsel": "page_86_img_0.png",
+      "zorluk": "orta"
+    }
+  ]
+}

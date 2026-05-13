@@ -1,0 +1,891 @@
+{
+  "paket": {
+    "id": "stab_2024_02",
+    "baslik": "Şubat 2024 Stabilite",
+    "toplam_soru": 50,
+    "konular": [
+      "Ağırlık ve Hacim Birimleri",
+      "Deplasman",
+      "Deplasman Problemleri",
+      "Draft ve Fribord",
+      "Gemi Boyutları ve Kısaltmalar",
+      "Yükleme Markaları",
+      "Yüzme Koşulu"
+    ]
+  },
+  "sorular": [
+    {
+      "soru_no": 1,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "Gemilerin taşıyabileceği max. yük miktarını ve su üzerinde batabileceği max. draftı belirlemek maksadıyla\ngemilerin nasıl ölçümlendirileceğinin belirlendiği uluslararası sözleşmenin kısa adı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "SOLAS",
+        "B": "LL",
+        "C": "STCW",
+        "D": "LLMC",
+        "E": "LDC"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Uluslararası Yükleme Sınırı Çizgisi (Load Line) sözleşmesi, gemilerin güvenli yükleme sınırlarını belirler. LL/66 kısaltması bu sözleşmeyi ifade eder.",
+      "formuller": [],
+      "gorsel": "page_15_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 2,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "Gemilerin çeşitli bölgelerde ve çeşitli mevsimlerde yapacağı yüklemelerin maksimum sınırını gösterir markalar\naşağıdakilerden hangisi ile ifade edilir?",
+      "secenekler": {
+        "A": "Draft markaları (Draft Marks)",
+        "B": "Yükleme Sınırı Markası (Load Line Marks)",
+        "C": "Vasat Draft (Mean Draft)",
+        "D": "Baş Draft (Forward Draft)",
+        "E": "Kıç Draft (Aft Draft)"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Fribord markaları veya yükleme sınırı markaları (Load Line Marks), gemilerin farklı bölgelerde ve mevsimlerde taşıyabilecekleri maksimum yükü gösteren işaretlerdir.",
+      "formuller": [],
+      "gorsel": "page_15_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 3,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "Uluslararası Yükleme Sınırı Sözleşmesine (LL/66) göre asgari yaz fribord mesafesi hangi yükleme sınırı\nçizgisinden ana güverte çizgisine kadar ölçülür?",
+      "secenekler": {
+        "A": "W",
+        "B": "LS",
+        "C": "S",
+        "D": "WNA",
+        "E": "T"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Asgari yaz fribord mesafesi, S (Summer) yükleme sınır çizgisinden ana güverte çizgisine kadar ölçülür. Bu mesafe geminin güvenliği için kritiktir.",
+      "formuller": [],
+      "gorsel": "page_16_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 4,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "”TF” olarak sembollenen yükleme markası aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Kuzey Atlantik Kış yükleme hattı",
+        "B": "Tatlı su yükleme hattı",
+        "C": "Tropikal tatlı su yükleme hattı",
+        "D": "Kış yükleme hattı",
+        "E": "Tropikal su yükleme hattı"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "TF (Tropical Fresh Water) işareti, tropikal tatlı su yükleme hattını temsil eder. Tropikal bölgelerde tatlı suda izin verilen maksimum draftı gösterir.",
+      "formuller": [],
+      "gorsel": "page_16_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 5,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "Uluslar arası konvansiyona göre Fribord markalarının sınırları bazı harﬂere göre adlandırılır. Bu bağlamda “TF”\nharﬁnin anlamı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Tropikal Tatlı Su Yükleme Sınırı",
+        "B": "Kış Yükleme Sınırı",
+        "C": "Kış Kuzey Atlantik Yükleme Sınırı",
+        "D": "Tropikal Yükleme Sınırı",
+        "E": "Tatlı Su Yükleme Sınırı"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "TF harfi, Tropikal Tatlı Su (Tropical Fresh Water) anlamına gelir. Plimsoll işaretlerinde kullanılan standart bir kısaltmadır.",
+      "formuller": [],
+      "gorsel": "page_16_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 6,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "WNA olarak sembollenen yükleme markası aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Kuzey Atlantik Kış yükleme hattı",
+        "B": "Tatlı su yükleme hattı",
+        "C": "Tropikal tatlı su yükleme hattı",
+        "D": "Kış yükleme hattı",
+        "E": "Tropikal deniz suyu yükleme hattı"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "WNA (Winter North Atlantic) kısaltması, Kuzey Atlantik Kış yükleme hattını ifade eder. 100 metreden kısa gemiler için kullanılır.",
+      "formuller": [],
+      "gorsel": "page_17_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 7,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "Bir geminin bordasına markalanan fribord markasında aşağıdaki kısaltmalardan hangisi bulunmaz?",
+      "secenekler": {
+        "A": "S",
+        "B": "FWA",
+        "C": "WNA",
+        "D": "W",
+        "E": "TF"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "FWA (Fresh Water Allowance) fribord markasında doğrudan görünmez. Fribord markalarında TF, F, T, S, W ve WNA işaretleri bulunur. FWA ayrı bir hesaplama değeridir.",
+      "formuller": [],
+      "gorsel": "page_17_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 8,
+      "konu": "Yükleme Markaları",
+      "soru_metni": "Yükleme markalarının yukarıdan aşağıya doğru sıralaması aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "F – S – TF – T – W – WNA",
+        "B": "S – T – TF – F – WNA – W",
+        "C": "W – WNA – TF – F – S – T",
+        "D": "TF – F – T – S – W – WNA",
+        "E": "TF – T – F – S – W – WNA"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Yükleme markaları yukarıdan aşağıya doğru: TF (Tropikal Tatlı Su) > T (Tropikal) > F (Tatlı Su) > S (Yaz) > W (Kış) > WNA (Kuzey Atlantik Kış) şeklinde sıralanır.",
+      "formuller": [],
+      "gorsel": "page_17_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 9,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Omurgadan su hattına kadar olan mesafeye ne isim verilir?",
+      "secenekler": {
+        "A": "Kalıp genişliği",
+        "B": "Kalıp derinliği",
+        "C": "Freeboard",
+        "D": "Draft",
+        "E": "Dikmelerarası boy"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Draft, geminin omurgasından su yüzeyine kadar olan düşey mesafedir. Geminin su çekimini ifade eden temel bir ölçüdür.",
+      "formuller": [],
+      "gorsel": "page_18_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 10,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Geminin su düzeyinin başta, kıçta ve ortada gemiyi kestiği yer ile gemi omurgası arasındaki yüksekliğe ne denir?",
+      "secenekler": {
+        "A": "Su hattı",
+        "B": "Draft",
+        "C": "Airdraft",
+        "D": "Freeboard",
+        "E": "Karina"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Draft, geminin su yüzeyi ile omurga arasındaki düşey mesafedir. Baş, kıç ve orta draft olarak ölçülür.",
+      "formuller": [],
+      "gorsel": "page_18_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 11,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Yüklü gemi bordasının ortasında su yüzeyinden ana güvertenin üst çizgisine kadar olan yüksekliğe ne ad verilir?",
+      "secenekler": {
+        "A": "Fribord",
+        "B": "Su hattı",
+        "C": "Draft",
+        "D": "Su çekimi",
+        "E": "Air draft"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "Fribord (Freeboard), geminin orta kesitinde su yüzeyinden ana güverte üst yüzeyine kadar olan düşey mesafedir. Geminin batma güvenliğini gösterir.",
+      "formuller": [],
+      "gorsel": "page_18_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 12,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Geminin su geçirmez güverte ile su hattı arasında kalan ve tekne ortasında ölçülen mesafeye ne denir?",
+      "secenekler": {
+        "A": "Faça",
+        "B": "Borda",
+        "C": "Karina",
+        "D": "Çene",
+        "E": "Fribord"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Fribord, geminin su geçirmez güverte ile su hattı arasında kalan ve gemi ortasında ölçülen düşey mesafedir. Güvenli yüzme marjını temsil eder.",
+      "formuller": [],
+      "gorsel": "page_19_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 13,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Güverte çizgisi üstünden plimsoll dairesi merkezine kadar olan mesafe aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Draft",
+        "B": "Trim",
+        "C": "Freeboard",
+        "D": "FWA",
+        "E": "WNA"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Güverte çizgisi ile plimsoll dairesi merkezi arasındaki mesafe FWA (Fresh Water Allowance) olarak adlandırılır. Tatlı suya geçişte izin verilen draft artışını gösterir.",
+      "formuller": [],
+      "gorsel": "page_19_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 14,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Fribord markasının (plimsol dairesinin) ortasından geçen yatay çizgi neyi gösterir?",
+      "secenekler": {
+        "A": "Güverte kenar çizgisini gösterir",
+        "B": "Yaz yükleme sınır hattını gösterir",
+        "C": "Yaz tatlı su yükleme sınır hattını gösterir",
+        "D": "Kış yükleme sınır hattını gösterir",
+        "E": "Mastori çizgisini gösterir"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Plimsoll dairesinin ortasından geçen yatay çizgi, Yaz (S - Summer) yükleme sınır hattını gösterir. Bu çizgi uluslararası referans çizgisidir.",
+      "formuller": [],
+      "gorsel": "page_19_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 15,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Fribord tanımı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Gemi ortasında, dizayn su hattı ile ana güverte kenarı arasındaki düşey yükseklik",
+        "B": "Gemi ortasında, temel hat ile ana güverte arasındaki uzaklık",
+        "C": "Gemiyi sancak ve iskele olarak ikiye ayıran orta simetri düzlemi",
+        "D": "Gemi boyunca dip kaplama ile simetri düzleminin kesiştiği hat",
+        "E": "Baş ve kıç dikeyler arası uzaklığın ortası"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "Fribord, gemi ortasında dizayn su hattı ile ana güverte kenarı arasındaki düşey yüksekliktir. ICLL 1966'ya göre tanımlanır.",
+      "formuller": [],
+      "gorsel": "page_20_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 16,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Gemilerde freeboard hangi şekilde ölçülür?",
+      "secenekler": {
+        "A": "Kış yüklü su hattından güverte kenarına kadar olan dikey mesafedir",
+        "B": "Tatlı su yüklü su hattından güverte kenarına kadar olan dikey mesafedir",
+        "C": "Gemi yüksekliğinin orta noktasından güverte kenarına kadar olan düşey mesafedir",
+        "D": "Boş ve yüklü gemi draftları arasındaki düşey mesafedir",
+        "E": "Mastoride yaz yüklü su hattının üzerinden üst güverte kenarına kadar olan dikey mesafedir"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Gemilerde freeboard, mastoride yaz yüklü su hattının üzerinden üst güverte kenarına kadar olan dikey mesafe olarak ölçülür. Bu standart bir ölçüm yöntemidir.",
+      "formuller": [],
+      "gorsel": "page_20_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 17,
+      "konu": "Draft ve Fribord",
+      "soru_metni": "Geminin su hattı ile en yüksek yeri arasındaki yüksekliğe ne ad verilir?",
+      "secenekler": {
+        "A": "Hava çekimi (Air draft)",
+        "B": "Su çekimi (Draft)",
+        "C": "Faça hattı",
+        "D": "Su hattı",
+        "E": "Fribord"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "Hava çekimi (Air Draft), geminin su hattından en yüksek noktasına kadar olan mesafedir. Köprülerin altından geçişte kritik öneme sahiptir.",
+      "formuller": [],
+      "gorsel": "page_20_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 18,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "Kaimeler arası boy aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "LBA",
+        "B": "LOA",
+        "C": "LWL",
+        "D": "LPB",
+        "E": "LBP"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "LBP (Length Between Perpendiculars), baş ve kıç dikmeler arası uzaklıktır. Gemi boyutlandırmasında kullanılan temel bir ölçüdür.",
+      "formuller": [],
+      "gorsel": "page_21_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 19,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "Bir gemide baş ve kıç dikmeler arasındaki mesafe aşağıdaki hangi kısaltma ile tanımlanır?",
+      "secenekler": {
+        "A": "LBP",
+        "B": "LOA",
+        "C": "LBD",
+        "D": "LCF",
+        "E": "LCB"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "LBP (Length Between Perpendiculars), baş dikme (Forward Perpendicular) ile kıç dikme (Aft Perpendicular) arasındaki mesafedir.",
+      "formuller": [],
+      "gorsel": "page_21_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 20,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "Geminin baş ve kıçından geçen dikmeler arası mesafe hangi kısaltma ile gösterilir?",
+      "secenekler": {
+        "A": "LBB",
+        "B": "B",
+        "C": "D",
+        "D": "LOA",
+        "E": "LBP"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "LBP (Length Between Perpendiculars), geminin baş ve kıçından geçen dikmeler arasındaki yatay mesafedir. Gemi stabilite hesaplamalarında kullanılır.",
+      "formuller": [],
+      "gorsel": "page_21_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 21,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "Mastori’nin tanımı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Gemiyi sancak ve iskele olarak ikiye ayıran orta simetri düzlemi",
+        "B": "Gemi boyunca dip kaplama ile simetri düzleminin kesiştiği hat",
+        "C": "Baş ve kıç dikeyler arası uzaklığın ortası",
+        "D": "Gemi boyunca en büyük alana sahip kesit",
+        "E": "Gemi ortasında temel hat ile ana güverte arası yükseklik"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Mastori, gemi boyunca en büyük alana sahip kesittir. Genellikle geminin orta bölgesinde bulunur ve stabilite hesaplamalarında önemlidir.",
+      "formuller": [],
+      "gorsel": "page_22_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 22,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "Baş ve kıç bodoslamalar arasındaki en büyük yatay uzaklık hangi kısaltma ile gösterilir?",
+      "secenekler": {
+        "A": "LBB",
+        "B": "D",
+        "C": "B",
+        "D": "LOA",
+        "E": "LBP"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "B (Beam/Moulded Breadth), baş ve kıç bodoslamalar arasındaki en büyük yatay uzaklıktır. Geminin en geniş noktasını ifade eder.",
+      "formuller": [],
+      "gorsel": "page_22_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 23,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "LWL (su hattı boyu) tanımı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Baş çatışma perdesi ile kıç çatışma perdesi arası uzaklık",
+        "B": "Geminin su altında kalan kısmının başta ve kıçta en uç noktalar arası uzaklık",
+        "C": "Baş ve kıçta geminin en uç noktaları arası uzaklık",
+        "D": "Baş kaime (FP) ile kıç kaime (AP) arasındaki uzaklık",
+        "E": "Geminin yüzdüğü su hattında baş bodoslama ile kıç bodoslama arasındaki yatay mesafedir"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "LWL (Load Waterline Length), geminin yüzdüğü su hattında baş bodoslama ile kıç bodoslama arasındaki yatay mesafedir.",
+      "formuller": [],
+      "gorsel": "page_22_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 24,
+      "konu": "Gemi Boyutları ve Kısaltmalar",
+      "soru_metni": "Mastori kesitte ve gemi bordasında omurga ile ana güverte arasındaki düşey mesafe aşağıdakilerden hangisi ile\ngösterilir?",
+      "secenekler": {
+        "A": "B",
+        "B": "D",
+        "C": "b",
+        "D": "d",
+        "E": "l"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "D (Moulded Depth), mastori kesitte gemi bordasında omurga ile ana güverte arasındaki düşey mesafedir. Gemi yapımında önemli bir boyut parametresidir.",
+      "formuller": [],
+      "gorsel": "page_23_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 25,
+      "konu": "Ağırlık ve Hacim Birimleri",
+      "soru_metni": "Aşağıdakilerden hangisi ağırlık ölçüsüdür?",
+      "secenekler": {
+        "A": "Net tonaj",
+        "B": "Gross tonnage",
+        "C": "Dökme kapasitesi",
+        "D": "Ton",
+        "E": "Tonilato"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Ton, ağırlık ölçüsüdür. Gros tonaj, net tonaj ise hacimsel ölçülerdir. Ton bir kuvvet veya kütle birimi olarak kullanılır.",
+      "formuller": [],
+      "gorsel": "page_26_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 26,
+      "konu": "Ağırlık ve Hacim Birimleri",
+      "soru_metni": "Bir geminin yük almaya müsait bütün kapalı alanlarının toplam hacmini gösteren ifade hangisidir?",
+      "secenekler": {
+        "A": "Deplasman",
+        "B": "Gros tonaj",
+        "C": "Net tonaj",
+        "D": "Deadweight",
+        "E": "Overload"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Net tonaj, bir geminin yük almaya müsait bütün kapalı alanlarının toplam hacmini gösterir. 100 ft³ birimine göre hesaplanır.",
+      "formuller": [],
+      "gorsel": "page_26_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 27,
+      "konu": "Ağırlık ve Hacim Birimleri",
+      "soru_metni": "Bir geminin bütün kapalı hacimlerinin toplamının ft3/100 olarak hesaplanması sonucunda elde edilen tonaj\nkapasitesine ne ad verilir?",
+      "secenekler": {
+        "A": "Deplasman",
+        "B": "Gros tonaj",
+        "C": "Net tonaj",
+        "D": "Detveyt",
+        "E": "Overload"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Gros tonaj (Gross Tonnage), geminin bütün kapalı hacimlerinin ft³/100 olarak hesaplanması sonucu bulunan tonaj değeridir.",
+      "formuller": [],
+      "gorsel": "page_26_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 28,
+      "konu": "Ağırlık ve Hacim Birimleri",
+      "soru_metni": "Fazla yük alarak bulunduğu bölgeye göre kabul edilmiş su hattını aşan gemilere ne ad verilir?",
+      "secenekler": {
+        "A": "Ağır gemi",
+        "B": "Trimli gemi",
+        "C": "Overload gemi",
+        "D": "Meyilli gemi",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Overload gemi, fazla yük alarak bulunduğu bölgeye göre kabul edilmiş su hattını aşan gemilere verilen isimdir. Güvenli olmayan bir durumdur.",
+      "formuller": [],
+      "gorsel": "page_27_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 29,
+      "konu": "Deplasman",
+      "soru_metni": "Aşağıdakilerden hangisi bir geminin deplasmanını tanımlar?",
+      "secenekler": {
+        "A": "Geminin toplam hacminin beher 100 ft3’ü",
+        "B": "Yük, balast, yakıt ağırlıklarının toplamı",
+        "C": "Net tonajla deadweight’in toplamı",
+        "D": "Serbest olarak yüzerken taşırdığı suyun ağırlığı",
+        "E": "Geminin tekne, makine ve elektrik donanımının toplam ağırlığı"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Deplasman, geminin serbest olarak yüzerken taşırdığı suyun ağırlığına eşittir. Archimedes prensibine göre geminin ağırlığı ile eş değerdedir.",
+      "formuller": [
+        "Deplasman = \\rho \\cdot V"
+      ],
+      "gorsel": "page_28_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 30,
+      "konu": "Deplasman",
+      "soru_metni": "Light Displacement ne demektir?",
+      "secenekler": {
+        "A": "Haﬁf deplasman",
+        "B": "Son deplasman",
+        "C": "Boş deplasman",
+        "D": "Toplam deplasman",
+        "E": "Yüklü deplasman"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Light Displacement, boş gemi deplasmanı demektir. Yük almadan, sadece gemi yapısı, makine ve donanımın ağırlığını içerir.",
+      "formuller": [],
+      "gorsel": "page_28_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 31,
+      "konu": "Deplasman",
+      "soru_metni": "Aşağıdakilerden hangisi boş gemi (LWT) ağırlığına dahildir?",
+      "secenekler": {
+        "A": "Yakıtlar",
+        "B": "Yağlama yağı",
+        "C": "Balast suyu",
+        "D": "Kumanya",
+        "E": "Ana makine karterindeki yağ"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Boş gemi (LWT - Light Weight) ağırlığına ana makine karterindeki yağ dahildir. Yakıt, su, kumanya gibi tüketilebilir malzemeler dahil değildir.",
+      "formuller": [],
+      "gorsel": "page_28_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 32,
+      "konu": "Deplasman",
+      "soru_metni": "Bir geminin boş ağırlığı hesap edilirken aşağıdaki ağırlıklardan hangisi dikkate alınmaz?",
+      "secenekler": {
+        "A": "Gemi ana makinası",
+        "B": "Elektrik Teçhizatı",
+        "C": "Makine kazan suyu",
+        "D": "Geminin kendi bünyesi",
+        "E": "Yakıt Miktarı"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Boş ağırlık hesabında yakıt miktarı dikkate alınmaz. Boş ağırlık, geminin yapısı, makine, donanım ve sabit aksesuarlarının ağırlığını içerir.",
+      "formuller": [],
+      "gorsel": "page_29_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 33,
+      "konu": "Deplasman",
+      "soru_metni": "Yüklü deplasman aşağıdaki konumlardan hangisidir?",
+      "secenekler": {
+        "A": "Boş gemi, su, yakıt ve stor gibi ağırlıkların toplamı",
+        "B": "Yüksüz ve yakıtsız fakat içinde su ve stor bulunan gemi",
+        "C": "Yüksüz ve içinde su, yakıt ve stor bulunan gemi",
+        "D": "Boş gemi, yük, yakıt, su ve diğer tüm ağırlıkların toplamı",
+        "E": "Boş gemi ve içindeki yakıtın ağırlıkların toplamı"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Yüklü deplasman = Boş gemi ağırlığı + yük + yakıt + su + yağ + balast + stor + konstant. Tüm ağırlıkların toplamıdır.",
+      "formuller": [
+        "Deplasman = LWT + Yük + Yakıt + Su + Yağ + Balast + Stor + Konstant"
+      ],
+      "gorsel": "page_29_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 34,
+      "konu": "Deplasman",
+      "soru_metni": "Bir geminin deplasmanı aşağıdaki ifadelerden hangisi ile tanımlanmaz?",
+      "secenekler": {
+        "A": "Geminin herhangi bir konumundaki gerçek ağırlığıdır",
+        "B": "Bir geminin taşıyacağı en büyük miktarıdır",
+        "C": "Mean draft karşılığı deplasman eğrisinden alınan değerdir",
+        "D": "Boş gemi ağırlığına, yük, yakıt, su,yağ, balast, stor ve konstant gibi ağırlıkların ilavesi ile bulunan tonajdır",
+        "E": "Geminin herhangi bir konumda yer değiştirdiği suyun ağırlığıdır"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Deplasman, geminin taşıyacağı en büyük miktarı değil, geminin herhangi bir anki gerçek ağırlığını ifade eder. Bu detveyt (DWT) tanımıdır.",
+      "formuller": [],
+      "gorsel": "page_29_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 35,
+      "konu": "Deplasman",
+      "soru_metni": "Aşağıdakilerden hangisi yaz yükleme hattındaki taşıma kapasitesini ifade eder?",
+      "secenekler": {
+        "A": "Gross Tonnage",
+        "B": "Net Tonnage",
+        "C": "Dead weight",
+        "D": "Deplasman",
+        "E": "Light ship"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Dead weight (DWT), yaz yükleme hattındaki taşıma kapasitesini ifade eder. Yük ve diğer tüketilebilir ağırlıkların toplamıdır.",
+      "formuller": [],
+      "gorsel": "page_30_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 36,
+      "konu": "Deplasman",
+      "soru_metni": "Yaz detveyti aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Yaz yükleme hattındaki taşıma kapasitesi",
+        "B": "Yaz yükleme hattındaki deplasman ağırlığına eş ağırlık",
+        "C": "Yaz yükleme hattındaki yüksüz ağırlığa verilen isim",
+        "D": "Yaz yükleme hattındaki yük taşıma alanlarının hacimsel kapasitesi",
+        "E": "Yaz yükleme hattındaki yük harici diğer tüm ağırlıkların taşıma kapasitesi"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Yaz detveyti, yaz yükleme hattındaki toplam deplasman ağırlığına eşit ağırlıktır. Yaz koşullarındaki maksimum yükleme durumunu ifade eder.",
+      "formuller": [],
+      "gorsel": "page_30_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 37,
+      "konu": "Deplasman",
+      "soru_metni": "Yüklü deplasmandan boş ağırlığı çıkardığımız zaman aşağıda verilenlerden hangisini elde ederiz?",
+      "secenekler": {
+        "A": "Net tonaj",
+        "B": "Deadweight ton",
+        "C": "Gross ton",
+        "D": "Yük miktarı",
+        "E": "Bilinmeyen ağırlıklar"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Yüklü deplasmandan boş ağırlık çıkarıldığında deadweight ton elde edilir. DWT = Δ - LWT formülü ile hesaplanır.",
+      "formuller": [
+        "DWT = \\Delta - LWT"
+      ],
+      "gorsel": "page_30_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 38,
+      "konu": "Deplasman",
+      "soru_metni": "Deadweight tonu hesaplanırken aşağıdaki kriterlerden hangisi hesaplanmaz?",
+      "secenekler": {
+        "A": "Yük miktarı",
+        "B": "Light ship",
+        "C": "Balast miktarı",
+        "D": "Yakıt miktarı",
+        "E": "İçme suyu miktarı"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Deadweight hesabında Light Ship (boş gemi ağırlığı) ayrı bir değer olarak hesaplanmaz. DWT, yük ve tüketilebilir ağırlıkların toplamıdır.",
+      "formuller": [],
+      "gorsel": "page_31_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 39,
+      "konu": "Deplasman",
+      "soru_metni": "Aşağıdaki ağırlıklardan hangisi yükleme yapılacak geminin DWT kapasitesi kullanılarak bulunan ağırlıklardan\ndeğildir?",
+      "secenekler": {
+        "A": "Gemi üzerindeki tahliye edilemeyen toplam balast miktarı",
+        "B": "Geminin boş ağırlığı (Light ship)",
+        "C": "Gemi üzerindeki toplam içme suyu miktarı",
+        "D": "Gemi üzerindeki toplam yakıt miktarı",
+        "E": "Gemi üzerindeki toplam yağlama yağı miktarı"
+      },
+      "dogru_cevap": "B",
+      "aciklama": "Light Ship (boş gemi ağırlığı), DWT kapasitesi ile bulunmaz. Ayrıca ölçülen sabit bir değerdir ve yük taşıma kapasitesinin dışındadır.",
+      "formuller": [],
+      "gorsel": "page_31_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 40,
+      "konu": "Deplasman",
+      "soru_metni": "Aşağıdaki paragrafta numaralandırılmış cümlelerden hangisi yanlış ifade edilmiştir?",
+      "secenekler": {
+        "A": "Detveyt tonaj bir geminin ağırlık olarak taşıma kapasitesidir",
+        "B": "Detveyt tonaj sadece ticari olarak taşınan yükün ağırlığından oluşmaz",
+        "C": "Detveyt tonajın içinde ticari taşınan yükten başka ağırlık yoktur",
+        "D": "Net tonaj, bir geminin hacimsel olarak yük taşıma kapasitesidir",
+        "E": "Deplasman tonaj bir geminin herhangi bir andaki toplam ağırlığıdır"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Detveyt tonajın içinde sadece ticari yük yoktur. Ayrıca yakıt, su, kumanya, yağ ve diğer tüketilebilir ağırlıklar da DWT içinde yer alır.",
+      "formuller": [],
+      "gorsel": "page_31_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 41,
+      "konu": "Deplasman",
+      "soru_metni": "Aşağıdakilerden hangisi detveytden (DWT) sayılmaz?\nI-Yedek parçalar\nII-Gemi kreynleri\nIII-Konstant\nIV-Kumanya\nV-Göz demirleri ve zincirler",
+      "secenekler": {
+        "A": "I ve IV",
+        "B": "II ve V",
+        "C": "I,III ve IV",
+        "D": "III ve V",
+        "E": "Tümü detveytdir"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Yedek parçalar, gemi kreynleri, konstant, kumanya, göz demirleri ve zincirler tamamı deadweight'e dahildir. Bu ağırlıkların hepsi yük taşıma kapasitesini tüketir.",
+      "formuller": [],
+      "gorsel": "page_32_img_0.png",
+      "zorluk": "zor"
+    },
+    {
+      "soru_no": 42,
+      "konu": "Yüzme Koşulu",
+      "soru_metni": "Yüzme koşulu aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Ağırlık kuvveti \u0000 Kaldırma kuvveti",
+        "B": "Ağırlık kuvveti \u0000 Kaldırma kuvveti",
+        "C": "Ağırlık kuvveti = Doğrultucu moment",
+        "D": "Ağırlık kuvveti = Kaldırma kuvveti",
+        "E": "Ağırlık kuvveti = deadweight"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Geminin su üzerinde yüzebilmesi için Archimedes prensibine göre ağırlık kuvvetinin kaldırma kuvvetine eşit olması gerekir. Bu denge durumudur.",
+      "formuller": [
+        "W = \\Delta (Ağırlık = Kaldırma Kuvveti)"
+      ],
+      "gorsel": "page_33_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 43,
+      "konu": "Yüzme Koşulu",
+      "soru_metni": "Geminin suda yüzebilmesi için aşağıdaki şartlardan hangisi sağlanmalıdır?",
+      "secenekler": {
+        "A": "W = Delta (Deplasman)",
+        "B": "W = 2 * Delta",
+        "C": "W = 0.5 * Delta",
+        "D": "2W = Delta",
+        "E": "W = Konstant"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "Yüzme koşulu W = Δ (deplasman) şeklinde ifade edilir. Ağırlık kuvveti, yer değiştirilen suyun ağırlığına eşit olmalıdır.",
+      "formuller": [
+        "W = \\Delta"
+      ],
+      "gorsel": "page_33_img_0.png",
+      "zorluk": "kolay"
+    },
+    {
+      "soru_no": 44,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Boş ağırlığı 1500 ton olan bir geminin detveyti 2550 tondur. Bu gemiye 2450 ton yük, 250 ton yakıt ve 50 ton\nsu alınmıştır. Bu geminin yükleme durumu aşağıdaki ifadelerden hangisi ile açıklanabilir?",
+      "secenekler": {
+        "A": "Yüklü gemi",
+        "B": "Stiff gemi",
+        "C": "Overload gemi",
+        "D": "Tender gemi",
+        "E": "Evenkeel gemi"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Boş ağırlık 1500 ton, detveyt 2550 ton. Toplam yüklenen: 2450+250+50=2750 ton. Detveyt 2550 tonu aştığı için gemi overload durumundadır.",
+      "formuller": [],
+      "gorsel": "page_35_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 45,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Boş gemi ağırlığı 1800 ton olan bir gemide 50 ton stor, 120 ton su, 30 ton yakıt ve 3500 ton yük bulunmaktadır.\nBu geminin deplasmanını hesaplayınız.",
+      "secenekler": {
+        "A": "Deplasman=3700 ton",
+        "B": "Deplasman=5860 ton",
+        "C": "Deplasman=5500 ton",
+        "D": "Deplasman=5165 ton",
+        "E": "Deplasman=5780 ton"
+      },
+      "dogru_cevap": "C",
+      "aciklama": "Deplasman = Light Ship + yük + yakıt + su + stor = 1800+50+120+30+3500 = 5500 ton formülü ile hesaplanır.",
+      "formuller": [
+        "Deplasman = LWT + \\sum Yükler"
+      ],
+      "gorsel": "page_36_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 46,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Boş gemi ağırlığı 1790 ton olan bir gemide 60 ton stor, 80 ton su, 250 ton yakıt ve 3500 ton yük bulunmaktadır.\nBu geminin deplasmanını hesaplayınız.",
+      "secenekler": {
+        "A": "Deplasman=5680 ton",
+        "B": "Deplasman=5860 ton",
+        "C": "Deplasman=5060 ton",
+        "D": "Deplasman=5165 ton",
+        "E": "Deplasman=5780 ton"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "Deplasman = Light Ship + yük + yakıt + su + stor = 1790+60+80+250+3500 = 5680 ton olarak bulunur.",
+      "formuller": [
+        "Deplasman = LWT + \\sum Yükler"
+      ],
+      "gorsel": "page_36_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 47,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Boş gemi ağırlığı 3400 ton. Bu gemiye 250 ton yakıt, 50 ton su, 2500 ton yük yükleniyor. Tahliye limanındaki\nyakıt miktarının 50 ton, su miktarının 15 ton kaldığı tespit edilmiştir. Geminin deplasmanı kaç tondur?",
+      "secenekler": {
+        "A": "5955 ton",
+        "B": "5965 ton",
+        "C": "6200 ton",
+        "D": "6435 ton",
+        "E": "2565 ton"
+      },
+      "dogru_cevap": "A",
+      "aciklama": "Deplasman = Boş ağırlık + mevcut yakıt + mevcut su + yük + yeni yakıt + yeni su - tahliye edilen yakıt ve su hesaplamaları ile bulunur.",
+      "formuller": [
+        "Deplasman = LWT + Yük + Mevcut Yakıt + Mevcut Su"
+      ],
+      "gorsel": "page_36_img_0.png",
+      "zorluk": "zor"
+    },
+    {
+      "soru_no": 48,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Boş ağırlığı 2500 ton olan bir gemide 550 ton yakıt bulunmaktadır. Bu gemiye 4200 ton yük, 300 ton ilave yakıt\nve 200 ton su alınmıştır. Geminin limandan kalkış deplasmanını hesaplayınız.",
+      "secenekler": {
+        "A": "5250 ton",
+        "B": "6200 ton",
+        "C": "7000 ton",
+        "D": "7250 ton",
+        "E": "7750 ton"
+      },
+      "dogru_cevap": "E",
+      "aciklama": "Deplasman = 2500+550+4200+300+200 = 7750 ton. Limandan kalkış anındaki toplam ağırlık deplasmana eşittir.",
+      "formuller": [
+        "Deplasman = LWT + \\sum(Yük + Yakıt + Su + Stor)"
+      ],
+      "gorsel": "page_37_img_0.png",
+      "zorluk": "orta"
+    },
+    {
+      "soru_no": 49,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Geminin limandan kalkış detveytini hesaplayınız.",
+      "secenekler": {
+        "A": "4200 ton",
+        "B": "4800 ton",
+        "C": "5000 ton",
+        "D": "5250 ton",
+        "E": "6000 ton"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Geminin limandan kalkış detveyti, yük ve tüketilebilir ağırlıkların toplamı olarak hesaplanır. Δ = LWT + DWT formülü kullanılır.",
+      "formuller": [
+        "Deadweight = Yük + Yakıt + Su + Stor + Kumanya"
+      ],
+      "gorsel": "page_37_img_0.png",
+      "zorluk": "zor"
+    },
+    {
+      "soru_no": 50,
+      "konu": "Deplasman Problemleri",
+      "soru_metni": "Bir gemide 4350 ton yük, 175 ton yakıt, 90 ton su, 75 ton da stor bulunduğu hesaplanmıştır. Bu geminin boş\ngemi ağırlığı 2750 ton olduğuna göre bu geminin deplasmanını ve detveytini hesaplayınız.",
+      "secenekler": {
+        "A": "Deplasman = 7440 ton Deadweight = 10190 ton",
+        "B": "Deplasman = 4690 ton Deadweight = 7440 ton",
+        "C": "Deplasman = 4690 ton Deadweight = 3090 ton",
+        "D": "Deplasman = 7440 ton Deadweight = 4690 ton",
+        "E": "Deplasman = 2750 ton Deadweight = 4690 ton"
+      },
+      "dogru_cevap": "D",
+      "aciklama": "Deplasman = 2750+4350+175+90+75 = 7440 ton. Deadweight = 4350+175+90+75 = 4690 ton olarak hesaplanır.",
+      "formuller": [
+        "Deplasman = LWT + DWT",
+        "DWT = Yük + Yakıt + Su + Stor + Yağ + Kumanya + Konstant"
+      ],
+      "gorsel": "page_37_img_0.png",
+      "zorluk": "zor"
+    }
+  ]
+}
