@@ -12,16 +12,16 @@ export default function Layout({ children }: LayoutProps) {
 
   const isLanding = location === '/';
   const isAuthPage = location === '/login' || location === '/register' || location === '/forgot-password';
-  const showBottomNav = !isLanding && !isAuthPage && !location.startsWith('/admin');
+  const isSimulationPage = location.startsWith('/simulation');
+  const showBottomNav = !isLanding && !isAuthPage && !location.startsWith('/admin') && !isSimulationPage;
   const isAdminPage = location.startsWith('/admin');
-
   return (
     <div className="min-h-[100dvh] bg-navy-900 text-[#F8FAFC]">
-      <Navbar />
+      {!isSimulationPage && <Navbar />}
 
       <main
         className={`${
-          isAdminPage
+          isAdminPage || isSimulationPage
             ? ''
             : showBottomNav
             ? 'pb-16 sm:pb-0 pt-14'

@@ -80,12 +80,12 @@ export default function App() {
                 <SimulationSettingsPage />
               </ProtectedRoute>
             </Route>
-            <Route path="/simulation/:id">
+            <Route path="/simulation/exam">
               <ProtectedRoute>
                 <SimulationPage />
               </ProtectedRoute>
             </Route>
-            <Route path="/simulation/:id/result">
+            <Route path="/simulation/results">
               <ProtectedRoute>
                 <SimulationResultPage />
               </ProtectedRoute>
